@@ -46,9 +46,27 @@ export default {
 
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
+ 
   axios: {
-    // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
-    baseURL: '/',
+    baseURL: 'http://localhost:8080/moretech/',
+             // Used as fallback if no runtime config is provided
+    proxy: true // Can be also an object with default options
+  },
+
+  proxy: {
+    '/api/': { target: 'http://localhost:8080/moretech/', pathRewrite: {'^/api/': ''} }
+
+  },
+  publicRuntimeConfig: {
+    axios: {
+      browserBaseURL: process.env.BROWSER_BASE_URL
+    }
+  },
+
+  privateRuntimeConfig: {
+    axios: {
+      baseURL: process.env.BASE_URL
+    }
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

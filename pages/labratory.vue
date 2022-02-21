@@ -2,24 +2,17 @@
   <div class="body-main">
     <HeaderPages
       :src="src"
-      headline=" Analytical, Precision, Scientific Research and Quality Control Lab
-          Equipment"
+      headline="Laboratory Chemicals Product Range"
     />
     <section class="introduction">
       <div class="container">
         <h4>
-          Analytical, Precision, Scientific Research and Quality Control Lab
-          Equipment
+         
+Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, biological substances such as; hormones, enzymes, agars, etc)
+
         </h4>
         <p>
-          Present rigorous experiments for scientific researches and findings
-          require the highest level of analytical and precision laboratory
-          equipment for addressing current developmental goals of the world.
-          Researches in area of food security takes the primary icons in
-          correspondence to others. Moretech Industry PLC in Ethiopia also
-          handles the leading roles in the supply of such world class precision
-          analytical instruments to the range of institutions needing our
-          products.
+          Range   of laboratory   chemicals   such as; plant tissue culture, molecular biology, animal cell culture, Expert teaching aids, laboratory aids and   equipment, microbiology and   others   have   been getting   significant acceptance   in the 21th     century   because of   the advancement of biotechnological   researches.  Observing the real situation of the wide gaps present in our country and the correspondence increment of their demand; our company is working much   on importation and supply of laboratory chemicals, reagents, tissue cultures, culture medias   and others profoundly
         </p>
       </div>
     </section>

@@ -269,6 +269,7 @@ export default {
       once: false,
       anchorPlacement: "top-bottom",
     });
+
   },
 };
 </script>

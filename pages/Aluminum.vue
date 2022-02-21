@@ -2,24 +2,15 @@
   <div class="body-main">
     <HeaderPages
       :src="src"
-      headline=" Analytical, Precision, Scientific Research and Quality Control Lab
-          Equipment"
+      headline="Aluminum Door and Widow Works "
     />
     <section class="introduction">
       <div class="container">
         <h4>
-          Analytical, Precision, Scientific Research and Quality Control Lab
-          Equipment
+         Aluminum Door and Widow Works  
         </h4>
         <p>
-          Present rigorous experiments for scientific researches and findings
-          require the highest level of analytical and precision laboratory
-          equipment for addressing current developmental goals of the world.
-          Researches in area of food security takes the primary icons in
-          correspondence to others. Moretech Industry PLC in Ethiopia also
-          handles the leading roles in the supply of such world class precision
-          analytical instruments to the range of institutions needing our
-          products.
+        More specialized aluminum door andwidow works   instruments.  
         </p>
       </div>
     </section>
@@ -38,92 +29,56 @@
             <input
               class="input-field"
               type="search"
-              v-model="searchTerm"
               placeholder="Search..."
               name="search"
             />
           </div>
         </div>
         <div class="category">
-          <h4>Environmental Protection Laboratory Equipment</h4>
-          <p></p>
+          <h4>Biology</h4>
+          <p>
+            Since the advancement of science across the world, practical
+            supported biological teachings are undertaken with the aid of latest
+            laboratory equipment to relate theoretical ideas with their
+            practicalities.
+          </p>
 
-          <h3 class="category-title">Soil Quality Analytical Equipment</h3>
+          <h3 class="category-title">Tools</h3>
           <div class="wrapper">
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
+            <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/soil.png" alt="" />
+                <img src="../assets/Images/tool3.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Surface Soil Sampler/Core Cutter</h2>
+                <h2>Laboratory Glass</h2>
               </div>
             </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
+            <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/soil2.png" alt="" />
+                <img src="../assets/Images/tool2.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Soil Auger</h2>
+                <h2>Scissors</h2>
               </div>
             </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
+            <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/soil3.png" alt="" />
+                <img src="../assets/Images/tool.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Soil Sieve Set</h2>
+                <h2>Spatulas</h2>
               </div>
             </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
+            <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/soil4.png" alt="" />
+                <img src="../assets/Images/tool5.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Soil Moisture Meter</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/soil5.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Soil Conductivity/tem. Meter</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/soil6.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Portable XRF Analyzer for Screening</h2>
+                <h2>Scoops</h2>
               </div>
             </div>
           </div>
-          <h3 class="category-title">Water Quality Analytical Equipment</h3>
+          <h3 class="category-title">Human Physiology and Anatomy</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -131,10 +86,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/water.png" alt="" />
+                <img src="../assets/Images/model5.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Conductivity Meter</h2>
+                <h2>Liver Model</h2>
               </div>
             </div>
             <div
@@ -143,10 +98,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/water2.png" alt="" />
+                <img src="../assets/Images/model2.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Imhoff cone standards</h2>
+                <h2>Lung Model</h2>
               </div>
             </div>
             <div
@@ -155,10 +110,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/water3.png" alt="" />
+                <img src="../assets/Images/model1.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>BOD Incubators</h2>
+                <h2>Heart Model</h2>
               </div>
             </div>
             <div
@@ -167,20 +122,142 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/water4.png" alt="" />
+                <img src="../assets/Images/model6.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Turbidity Meter</h2>
+                <h2>Skeleton Model</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/model3.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Brain Model</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/model4.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Ear Model</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="category">
+          <h4>Chemistry</h4>
+          <p>
+            Chemistry is one of the fundamental sciences being studied well
+            through the use of technologically advanced laboratory instruments
+            and apparatuses in the present real world. Moretech Industry PLC
+            also support this similar undertaking to scaled up the supply and
+            distribution of macro and micro level equipment so as to aid
+            effective analysis of chemical reactions for chemistry learning in
+            various levels of schools.
+          </p>
+
+          <h3 class="category-title">Apparatus</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/appr3.jpg" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Electrochemical Experiments Electrodes</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/appr2.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Storage Battery Experiment Set</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/appr1.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Brownlee Electrolysis Apparatus</h2>
+              </div>
+            </div>
+          </div>
+          <h3 class="category-title">Molecular Models</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/mol1.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Organic Molecular Structure Model</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/mol2.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Natural Crystal Flake Graphite Model</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/mol3.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Ionic Crystal Model NaCl2</h2>
               </div>
             </div>
           </div>
         </div>
 
         <div class="category">
-          <h4>Lab Ware Equipment</h4>
-          <p></p>
+          <h4>Mathematics</h4>
+          <p>
+            Mathematical models are an important component of the final
+            "complete model" of a system which is actually a collection of
+            conceptual, physical, mathematical, visualization, and possibly
+            statistical sub-models. Mathematical models can help students
+            understand and explore the meaning of equations or functional
+            relationships.
+          </p>
 
-          <h3 class="category-title"></h3>
+          <h3 class="category-title">Number and Algebra</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -188,38 +265,14 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/lab.png" alt="" />
+                <img src="../assets/Images/mat.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Tweezers</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/lab2.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Mortar and Pestle</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/lab3.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Test Tube Racks</h2>
+                <h2>Abacus and Counting Frames</h2>
               </div>
             </div>
           </div>
-          <h3 class="category-title">Glass Ware equipment</h3>
+          <h3 class="category-title">Measurement and Geometry</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -227,10 +280,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/glass.png" alt="" />
+                <img src="../assets/Images/mat2.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Long Neck Flat Bottom</h2>
+                <h2>Volume and Capacity</h2>
               </div>
             </div>
             <div
@@ -239,10 +292,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/glass2.png" alt="" />
+                <img src="../assets/Images/mat3.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Distillation Flask</h2>
+                <h2>3D shapes and 2D shapes</h2>
               </div>
             </div>
             <div
@@ -251,22 +304,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/glass3.png" alt="" />
+                <img src="../assets/Images/mat4.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Conical Flask Wide</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/glass4.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Borosilicate Graduated Beaker</h2>
+                <h2>Geometry Equipment</h2>
               </div>
             </div>
           </div>
@@ -280,8 +321,16 @@
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
-
+import axios from 'axios';
 import HeaderPages from "../components/HeaderPages.vue";
+
+const config = {
+        headers: {
+          Accept: "application/json",
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
+        },
+      };
 export default {
   components: {
     HeaderPages,
@@ -291,6 +340,18 @@ export default {
       src: require("../assets/Images/POTER-PAGE 2.png"),
     };
   },
+  methods: {
+     async fetchData() {
+        await axios.post('/api/moretech/',{
+          action: 'fetch',
+
+        },config).then(res => {
+          console.log(res.data);      
+        }).catch(err => {
+          console.log(err);
+        })
+     }
+  },
   mounted() {
     AOS.init({
       duration: 900,
@@ -299,8 +360,10 @@ export default {
       once: false,
       anchorPlacement: "top-bottom",
     });
-    
   },
+  created() {
+    this.fetchData()
+  }
 };
 </script>
 <style lang="scss">
@@ -372,7 +435,7 @@ export default {
         margin-top: 3rem;
         h4 {
           margin-top: 1rem;
-          color: $M-green;
+          color: $M-darkgreen;
           @extend .h3;
           font-size: 1.5rem;
           line-height: 1.5rem;
@@ -381,7 +444,7 @@ export default {
         }
         p {
           margin-top: 1rem;
-          color: $M-darkgreen;
+          color: $M-green;
           // width: 50rem;
           @extend .text;
           font-size: 1rem;
@@ -390,7 +453,7 @@ export default {
         }
         h3 {
           margin-top: 3rem;
-          color: $M-green;
+          color: $M-darkgreen;
           @extend .title;
           font-size: 1.3rem;
           line-height: 1.5rem;
@@ -432,12 +495,36 @@ export default {
     .alist {
       .container {
         .category {
+          p {
+            font-size: 1.13rem;
+          }
           .wrapper {
             display: grid;
+            align-items: center;
             grid-template-columns: 1fr 1fr;
             .equi {
+              display: grid;
+              place-items: center;
+              margin-top: 2rem;
               .equi-card {
+                display: grid;
+                align-items: center;
                 padding: 1rem;
+                width: 15rem;
+                height: 16.5rem;
+                box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
+              }
+              .rectangle {
+                height: 2rem;
+                width: 15rem;
+                background: $M-lightblue;
+                display: grid;
+                place-items: center;
+                h2 {
+                  color: #fff;
+                  font-size: 1rem;
+                  text-align: center;
+                }
               }
             }
           }
@@ -445,7 +532,24 @@ export default {
       }
     }
   }
-  @include responsive($md) {
+  @include responsive($lg) {
+    .alist {
+      .container {
+        .category {
+          p {
+            width: 60rem;
+          }
+          .wrapper {
+            margin-top: 3rem;
+            display: grid;
+            align-items: center;
+            grid-template-columns: 1fr 1fr 1fr;
+          }
+        }
+      }
+    }
+  }
+  @include responsive($xl) {
     .alist {
       .container {
         .category {
