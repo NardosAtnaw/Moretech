@@ -124,39 +124,39 @@
         <div class="frist-line"></div>
         <ul class="socials">
           <li>
-            <img
+         <a href="">   <img
               class="social-img"
               src="../assets/Icons/facebook.svg"
               alt=""
-            /><a href=""></a>
+            /></a>
           </li>
           <li>
-            <img
+          <a href="">  <img
               class="social-img"
               src="../assets/Icons/linkedin.svg"
               alt=""
-            /><a href=""></a>
+            /></a>
           </li>
           <li>
-            <img
+          <a href="">  <img
               class="social-img"
               src="../assets/Icons/googleplus.svg"
               alt=""
-            /><a href=""></a>
+            /></a>
           </li>
           <li>
-            <img
+          <a href="">  <img
               class="social-img"
               src="../assets/Icons/twitter.svg"
               alt=""
-            /><a href=""></a>
+            /></a>
           </li>
           <li>
-            <img
+           <a href=""> <img
               class="social-img"
               src="../assets/Icons/youtube.svg"
               alt=""
-            /><a href=""></a>
+            /></a>
           </li>
         </ul>
         <div class="second-line"></div>
@@ -644,7 +644,7 @@ header {
 
           .moto {
             margin-top: 8rem;
-            margin-right: 40rem;
+            // margin-right: 25rem;
             h2 {
               font-size: 3.5rem;
               line-height: 4rem;

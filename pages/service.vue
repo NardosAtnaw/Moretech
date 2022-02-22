@@ -19,11 +19,10 @@
             >
               <img class="service-img" src="../assets/Icons/pro1.svg" alt="" />
 
-              <h2>Title of the Service</h2>
+              <h2>Educational laboratory Equipment </h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+             Schools must have the latest science lab supplies and equipment to make science interesting and effective for students and to encourage them to make significant contributions in the field of physics, biology, chemistry, and other streams of science later in life. 
+
               </p>
             </div>
             <div
@@ -38,11 +37,10 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro2.svg" alt="" />
-              <h2>Title of the Service</h2>
+              <h2>Research and Quality Control Lab Equipment
+</h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+               Present rigorous   experiments for scientific researches and   findings require   the highest level of analytical and   precision   laboratory equipment   for   addressing current developmental goals of the world.   Researches in area of food security takes   the primary   icons in correspondence to others.  
               </p>
             </div>
             <div
@@ -57,11 +55,9 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro3.svg" alt="" />
-              <h2>Title of the Service</h2>
+              <h2>Laboratory Chemicals Product Range</h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+                Range of laboratory chemicals such as; plant tissue culture, molecular biology, animal cell culture, Expert teaching aids, laboratory aids and equipment, microbiology and others have been getting significant acceptance in the 21th century because of the advancement of biotechnological researches.  
               </p>
             </div>
             <div
@@ -76,11 +72,9 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro4.svg" alt="" />
-              <h2>Title of the Service</h2>
+              <h2> Modern Agricultural Equipment and Machineries </h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+              More specialized agricultural machineries, dairy and beekeeping instruments and laboratory equipment have been supplied to several medium to higher level   governmental and non- governmental organizations   since 1999. Some of our major products in this area are; milk processing and milking machines.
               </p>
             </div>
             <div
@@ -95,11 +89,9 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro5.svg" alt="" />
-              <h2>Title of the Service</h2>
+              <h2>Equipment for Teaching </h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+           Moretech Industry PLC to engage in the sector for importation   and supply of high quality laboratory and workshop equipment to those higher academic institutions   and related enterprises so as to narrow the scope scarcity.     
               </p>
             </div>
             <div
@@ -114,11 +106,9 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro6.svg" alt="" />
-              <h2>Title of the Service</h2>
+              <h2>Aluminum Door and Window Works</h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+              Aluminium frames enable for strong window sealing, ensuring that chilly air from within your home or workplace does not flow outside during the summer. Because these constructions are extremely energy efficient, thermal comfort is instantly improved. 
               </p>
             </div>
           </div>
@@ -372,8 +362,8 @@ export default {
       p {
         @extend .text;
         text-align: center;
-        color: $M-blue;
-        margin-top: 0.94rem;
+        color: $M-darkgreen;
+        margin-top: 0.4rem;
         font-size: 0.8rem;
       }
       .wrapper {

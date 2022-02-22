@@ -109,8 +109,8 @@ export default {
      .info-contact {
         @extend .text;
         text-align: center;
-        color: $M-blue;
-        margin-top: 0.94rem;
+        color: $M-darkgreen;
+        margin-top: 0.4rem;
         font-size: 0.8rem;
       }
       .contact-box {

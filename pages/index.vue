@@ -13,14 +13,15 @@
         data-aos-mirror="true"
         data-aos-once="false"
         data-aos-anchor-placement="top-center">
-              <img class="service-img" src="../assets/Icons/ser1.svg" alt="" />
+        <a href="education">
+  <img class="service-img" src="../assets/Icons/ser1.svg" alt="" />
 
-              <h2>Title of the Service</h2>
+              <h2>Educational laboratory Equipments</h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+               It is imperative for schools to have the latest and high-quality science lab supplies these days. Science is different from any other subject. In order to understand its concepts,
               </p>
+        </a>
+            
             </div>
             <div class="card" data-aos="slide-up"
         data-aos-offset="20"
@@ -30,13 +31,14 @@
         data-aos-mirror="true"
         data-aos-once="false"
         data-aos-anchor-placement="top-center">
-              <img class="service-img" src="../assets/Icons/ser2.svg" alt="" />
-              <h2>Title of the Service</h2>
+        <a href="analytical">
+ <img class="service-img" src="../assets/Icons/ser4.svg" alt="" />
+              <h2>Research and Quality Control Equipment</h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+              Present rigorous   experiments for scientific researches and   findings require   the highest level of analytical and   precision   laboratory equipment   for   addressing current developmental goals of the world.   
               </p>
+        </a>
+             
             </div>
             <div class="card" data-aos="slide-up"
         data-aos-offset="20"
@@ -46,13 +48,14 @@
         data-aos-mirror="true"
         data-aos-once="false"
         data-aos-anchor-placement="top-center">
-              <img class="service-img" src="../assets/Icons/ser3.svg" alt="" />
-              <h2>Title of the Service</h2>
+        <a href="labratory">
+   <img class="service-img" src="../assets/Icons/ser3.svg" alt="" />
+              <h2>Laboratory Chemicals Product Range</h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+                Range   of laboratory   chemicals   such as; plant tissue culture, molecular biology, animal cell culture, Expert teaching aids, laboratory aids and   equipment, microbiology and   others   have   been getting   significant acceptance
               </p>
+        </a>
+           
             </div>
             <div class="card" data-aos="slide-up"
         data-aos-offset="20"
@@ -62,19 +65,21 @@
         data-aos-mirror="true"
         data-aos-once="false"
         data-aos-anchor-placement="top-center">
-              <img class="service-img" src="../assets/Icons/ser4.svg" alt="" />
-              <h2>Title of the Service</h2>
+        <a href="agricultural">
+ <img class="service-img" src="../assets/Icons/ser2.svg" alt="" />
+              <h2>Modern Agricultural Equipment </h2>
               <p>
-                Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                cillum elit est proident ea consequat velit do dolore deserunt.
-                Officia amet.
+               More specialized agricultural machineries, dairy and beekeeping instruments and laboratory equipment have been supplied to several medium to higher level   governmental and non- governmental organizations   since 1999.    Some of our   major 
               </p>
+        </a>
+             
             </div>
           </div>
         </div>
       </div>
     </section>
-    <section class="product-list" style="background: #ecf0f6">
+    <section class="product-list" style="background: #2E4450">
+
       <div class="container">
         <div class="product-wrapper">
           <div class="single-card">
@@ -91,24 +96,20 @@
             data-aos-duration="1000"
             data-aos-mirror="true"
             data-aos-once="false"
-            data-aos-anchor-placement="top-center" style="background: #ecf0f6">
+            data-aos-anchor-placement="top-center" style="background: #2E4450">
                   <div class="img-center" >
                     <img
                       class="product-img"
-                      src="../assets/Icons/product.png"
+                      src="../assets/Images/model4.png"
                       alt=""
                     />
                   </div>
-                  <h2  >Product 1</h2>
+                  <h2  >Ear Model</h2>
                   <div  class="desc"  >
-                    Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                    cillum elit est proident ea consequat velit do dolore
-                    deserunt. Officia amet. Enim commodo quis nulla cillum in.
-                    Ipsum excepteur voluptate cillum elit est proident ea
-                    consequat velit do dolore deserunt. Officia amet.
+                  Since the advancement of science across the world, practical supported biological teachings are undertaken   with the   aid of latest laboratory equipment to relate theoretical ideas   with their practicalities.   
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-lightblue" href="#">View Product</a>
+                  <a class="btn btn-blue" href="education">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -117,24 +118,20 @@
             data-aos-duration="1000"
             data-aos-mirror="true"
             data-aos-once="false"
-            data-aos-anchor-placement="top-center" style="background: #ecf0f6">
+            data-aos-anchor-placement="top-center" style="background: #2E4450">
                   <div class="img-center">
                     <img
                       class="product-img"
-                      src="../assets/Icons/product.png"
+                      src="../assets/Images/model5.png"
                       alt="" 
                     />
                   </div>
-                  <h2>Product 2</h2>
+                  <h2>Liver Model</h2>
                   <div class="desc">
-                    Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                    cillum elit est proident ea consequat velit do dolore
-                    deserunt. Officia amet. Enim commodo quis nulla cillum in.
-                    Ipsum excepteur voluptate cillum elit est proident ea
-                    consequat velit do dolore deserunt. Officia amet.
+               Since the advancement of science across the world, practical supported biological teachings are undertaken   with the   aid of latest laboratory equipment to relate theoretical ideas   with their practicalities.   
                   </div>
    <div class="buttons">
-                  <a class="btn btn-lightblue" href="#">View Product</a>
+                  <a class="btn btn-blue" href="education">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -143,24 +140,20 @@
             data-aos-duration="1000"
             data-aos-mirror="true"
             data-aos-once="false"
-            data-aos-anchor-placement="top-center" style="background: #ecf0f6">
+            data-aos-anchor-placement="top-center" style="background: #2E4450">
                   <div class="img-center">
                     <img
                       class="product-img"
-                      src="../assets/Icons/product.png"
+                      src="../assets/Images/glass.png"
                       alt=""
                     />
                   </div>
-                  <h2>Product 3</h2>
+                  <h2> Narrow Neck Labratory Glass</h2>
                   <div class="desc">
-                    Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                    cillum elit est proident ea consequat velit do dolore
-                    deserunt. Officia amet. Enim commodo quis nulla cillum in.
-                    Ipsum excepteur voluptate cillum elit est proident ea
-                    consequat velit do dolore deserunt. Officia amet.
+                  Moretech Industry PLC  in Ethiopia   also handles   the leading roles in the supply of such    world – class precision analytical instruments    to the  range   of institutions needing  our products.   
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-lightblue" href="#">View Product</a>
+                  <a class="btn btn-blue" href="analytical">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -169,25 +162,22 @@
             data-aos-duration="1000"
             data-aos-mirror="true"
             data-aos-once="false"
-            data-aos-anchor-placement="top-center" style="background: #ecf0f6">
+            data-aos-anchor-placement="top-center" style="background: #2E4450">
                   <div class="img-center">
                     <img
                       class="product-img"
-                      src="../assets/Icons/product.png"
+                      src="../assets/Images/soil5.png"
                       alt=""
                     />
                   </div>
 
-                  <h2>Product 4</h2>
+                  <h2>Soil Conductivity/tem. Meter </h2>
                   <div class="desc">
-                    Enim commodo quis nulla cillum in. Ipsum excepteur voluptate
-                    cillum elit est proident ea consequat velit do dolore
-                    deserunt. Officia amet. Enim commodo quis nulla cillum in.
-                    Ipsum excepteur voluptate cillum elit est proident ea
-                    consequat velit do dolore deserunt. Officia amet.
+                     Enim commodo quis nulla cillum in. Ipsum excepteur voluptate cillum
+          elit est 
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-lightblue" href="#">View Product</a>
+                  <a class="btn btn-blue" href="#">View Product</a>
                 </div>
                 </div>
               </div>
@@ -213,8 +203,7 @@
       <div class="container">
         <h2>Equipments</h2>
         <p>
-          Enim commodo quis nulla cillum in. Ipsum excepteur voluptate cillum
-          elit est
+         You can view the new equipment that has arrived below.
         </p>
         <div class="wrapper">
           <div class="equi" data-aos="fade-zoom-in"
@@ -225,10 +214,10 @@
           data-aos-once="false"
           data-aos-anchor-placement="top-center">
             <div class="equi-card"   >
-              <img src="../assets/Images/equipment1.png" alt="" />
+              <img src="../assets/Images/tool.png" alt="" />
             </div>
             <div class="rectangle">
-              <h2>Equipment Name</h2>
+              <h2>Spatulas</h2>
             </div>
           </div>
           <div class="equi"   data-aos="fade-zoom-in"
@@ -239,10 +228,10 @@
           data-aos-once="false"
           data-aos-anchor-placement="top-center">
             <div class="equi-card">
-              <img src="../assets/Images/equipment2.png" alt="" />
+              <img src="../assets/Images/model3.png" alt="" />
             </div>
             <div class="rectangle">
-              <h2>Equipment Name</h2>
+              <h2>Brain Model</h2>
             </div>
           </div>
           <div class="equi"   data-aos="fade-zoom-in"
@@ -253,10 +242,10 @@
           data-aos-once="false"
           data-aos-anchor-placement="top-center">
             <div class="equi-card">
-              <img src="../assets/Images/equipment1.png" alt="" />
+              <img src="../assets/Images/DNA.png" alt="" />
             </div>
             <div class="rectangle">
-              <h2>Equipment Name</h2>
+              <h2>DNA Thermal Cycler for DNA</h2>
             </div>
           </div>
           <div class="equi"   data-aos="fade-zoom-in"
@@ -267,10 +256,10 @@
           data-aos-once="false"
           data-aos-anchor-placement="top-center">
             <div class="equi-card">
-              <img src="../assets/Images/equipment2.png" alt="" />
+              <img src="../assets/Images/Bio.png" alt="" />
             </div>
             <div class="rectangle">
-              <h2>Equipment Name</h2>
+              <h2>Biological Safety Cabinet</h2>
             </div>
           </div>
         </div>
@@ -365,38 +354,41 @@
             padding: 1.5rem;
             border-radius: 3rem;
             box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.05);
-
-            .service-img {
-              // background: $M-brown;
-              // padding: 1.3rem;
-              // border-radius: 50px;
-              width: 5rem;
-              // margin-bottom: 1rem;
-            }
-            h2 {
-              @extend .title;
-              font-family: "medium bt";
-              font-weight: 500;
-              margin-top: 1.5rem;
-              text-align: center;
-              font-size: 1.3rem;
-              color: $M-blue;
-              line-height: 1.5rem;
-              margin-bottom: 1rem;
-            }
-            p {
-              @extend .text;
-              margin-top: 0.5rem;
-              text-align: center;
-              font-size: 0.9rem;
-              line-height: 1.18rem;
-              color: $M-blue;
-            }
-            &:hover {
-              // background: $M-brown;
-              border-radius: 4rem;
-              opacity: 0.5;
-            }
+a{
+display: grid;
+            place-items: center;
+  .service-img {
+    // background: $M-brown;
+    // padding: 1.3rem;
+    // border-radius: 50px;
+    width: 5rem;
+    // margin-bottom: 1rem;
+  }
+  h2 {
+    @extend .title;
+    font-family: "medium bt";
+    font-weight: 500;
+    margin-top: 1.5rem;
+    text-align: center;
+    font-size: 1.3rem;
+    color: $M-blue;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  p {
+    @extend .text;
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+    line-height: 1.18rem;
+    color: $M-blue;
+  }
+  &:hover {
+    // background: $M-brown;
+    border-radius: 4rem;
+    opacity: 0.5;
+  }
+}
           }
         }
       }
@@ -430,6 +422,8 @@
   }
   .product-list {
     margin-top: 8rem;
+      position: relative;
+   
     .container {
       .product-wrapper {
         .single-card {
@@ -499,34 +493,42 @@
             cursor: pointer;
             text-decoration: none;
             text-align: center;
-            background: rgba(16, 33, 125, 0.3);
+            // background: rgba(16, 33, 125, 0.3);
+             background: grey;
             -webkit-transition: 0.3s;
             transition: 0.3s;
           }
           .CSSgal .bullets div > a + a {
-            background: rgba(16, 33, 125, 0.9);
+            // background: rgba(16, 33, 125, 0.9);
+             background: #fff;
           }
           .CSSgal .bullets div > a:hover {
-            background: rgba(16, 33, 125, 0.3) !important;
+            // background: rgba(16, 33, 125, 0.3) !important;
+               background: grey !important;
           }
 
           /* NAVIGATION BUTTONS */
           /* ALL: */
           .CSSgal > s:target ~ .bullets > * {
-            background: rgba(16, 33, 125, 0.9);
+            // background: rgba(16, 33, 125, 0.9);
+                 background: #fff;
           }
           /* ACTIVE */
           #s1:target ~ .bullets > *:nth-child(1) {
-            background: rgba(16, 33, 125, 0.3);
+            // background: rgba(16, 33, 125, 0.3);
+            background: grey ;
           }
           #s2:target ~ .bullets > *:nth-child(2) {
-            background: rgba(16, 33, 125, 0.3);
+            // background: rgba(16, 33, 125, 0.3);
+                background: grey ;
           }
           #s3:target ~ .bullets > *:nth-child(3) {
-            background: rgba(16, 33, 125, 0.3);
+            // background: rgba(16, 33, 125, 0.3);
+                background: grey ;
           }
           #s4:target ~ .bullets > *:nth-child(4) {
-            background: rgba(16, 33, 125, 0.3);
+            // background: rgba(16, 33, 125, 0.3);
+                background: grey ;
           }
 
           .CSSgal > s:target ~ .prevNext > * {
@@ -589,12 +591,14 @@
                   word-spacing: 0.2em;
                   font-size: 1.13rem;
                   text-align: center;
+                  color: #fff;
                 }
                 .desc {
                   @extend .text;
                   padding-left: 2rem;
                   padding-right: 2rem;
                   font-size: 0.8rem;
+                  color: #fff;
                 }
                  .buttons {
               margin-top: 1rem;
@@ -625,7 +629,7 @@
         .product-wrapper {
           .single-card {
             .CSSgal {
-              height: 40vh;
+              height: 45vh;
             }
             .CSSgal .bullets > div {
               width: 95px;
@@ -676,12 +680,41 @@
               width: 155px;
             }
             .CSSgal {
-              height: 45vh;
+              height: 48vh;
               .slider {
                 .card {
                   .desc {
                     margin-left: 18rem;
                     margin-right: 18rem;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+    @include responsive($xxl) {
+    .product-list {
+      margin-top: 13rem;
+      .container {
+        .product-wrapper {
+          .single-card {
+            .CSSgal .prevNext a {
+              width: 305px;
+            }
+
+            .CSSgal .bullets > div {
+              width: 155px;
+            }
+            .CSSgal {
+              height: 55vh;
+              .slider {
+                .card {
+                  .desc {
+                    margin-left: 22rem;
+                    margin-right: 22rem;
                   }
                 }
               }
@@ -711,8 +744,8 @@
       p {
         @extend .text;
         text-align: center;
-        color: $M-blue;
-        margin-top: 0.94rem;
+        color:$M-darkgreen;
+        margin-top: 0.4rem;
         font-size: 0.8rem;
       }
       .wrapper {
@@ -752,6 +785,7 @@
             .equi-card {
               padding: 1rem;
             }
+
           }
         }
       }
@@ -765,6 +799,15 @@
           display: grid;
           align-items: center;
           grid-template-columns: 1fr 1fr 1fr 1fr;
+          .equi{
+            .equi-card{
+               width: 13rem;
+            height: 13rem;
+            }
+            .rectangle{
+              width: 13rem;
+            }
+          }
         }
       }
     }
@@ -783,8 +826,8 @@
       p {
         @extend .text;
         text-align: center;
-        color: $M-blue;
-        margin-top: 0.94rem;
+        color: $M-darkgreen;
+        margin-top: 0.4rem;
         font-size: 0.8rem;
       }
       .testimony-wrapper {
@@ -792,7 +835,7 @@
         margin-top: 3rem;
         gap: 2rem;
         .testimony-card {
-          background: $M-green;
+          background: $M-darkgreen;
           padding: 1rem;
           margin-top: 3rem;
           // border-radius: 0.5rem;
