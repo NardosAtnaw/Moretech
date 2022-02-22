@@ -1,5 +1,9 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
+  router: {
+    base: '/moretech/'
+  },
   head: {
     title: 'more_tech',
     htmlAttrs: {
@@ -48,13 +52,13 @@ export default {
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
  
   axios: {
-    baseURL: 'http://localhost:8080/moretech/',
+    baseURL: 'https://moretechplc.com/api/',
              // Used as fallback if no runtime config is provided
     proxy: true // Can be also an object with default options
   },
 
   proxy: {
-    '/api/': { target: 'http://localhost:8080/moretech/', pathRewrite: {'^/api/': ''} }
+    '/api/': { target: 'https://moretechplc.com/api/', pathRewrite: {'^/api/': ''} }
 
   },
   publicRuntimeConfig: {

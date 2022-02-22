@@ -360,7 +360,7 @@ export default {
   },
   methods: {
      async fetchData() {
-        await axios.post('http://localhost:8080/moretech/',{
+        await axios.post('https://moretechplc.com/api/',{
           action: 'fetch',
 
         },config).then(res => {
