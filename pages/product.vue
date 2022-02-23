@@ -14,7 +14,7 @@
           <div class="desc">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.</p>
               <div class="buttons">
-                  <a class="btn btn-brown" href="#">View Product</a>
+                  <a class="btn btn-green" href="#">View Product</a>
                 </div>
           </div>
         </div>
@@ -26,7 +26,7 @@
            <div class="desc">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.t</p>
               <div class="buttons">
-                  <a class="btn btn-brown" href="#">View Product</a>
+                  <a class="btn btn-green" href="#">View Product</a>
                 </div>
           </div>
         </div>
@@ -36,7 +36,7 @@
           </div>
            <div class="desc">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.</p>  <div class="buttons">
-                  <a class="btn btn-brown" href="#">View Product</a>
+                  <a class="btn btn-green" href="#">View Product</a>
                 </div>
           </div>
         </div>
@@ -46,7 +46,7 @@
           </div>
            <div class="desc">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.</p>  <div class="buttons">
-                  <a class="btn btn-brown" href="#">View Product</a>
+                  <a class="btn btn-green" href="#">View Product</a>
                 </div>
           </div>
         </div>

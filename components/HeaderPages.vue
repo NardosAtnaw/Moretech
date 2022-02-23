@@ -423,7 +423,6 @@ header {
   .header-lower {
     display: grid;
     place-items: center;
-
     .container {
       position: absolute;
       margin-left: 2rem;
@@ -431,7 +430,7 @@ header {
       bottom: -3rem;
       height: 13vh;
       // width: 100%;
-      background: $M-brown;
+      background: $M-green;
       padding: 1rem;
       .wrapper {
         position: relative;
@@ -695,7 +694,9 @@ header {
         height: 11.5vh;
         .wrapper {
           .moto {
+              margin-left: 5rem;
             p {
+            
               margin-top: 0.6rem;
             }
           }

@@ -442,7 +442,7 @@ display: grid;
         margin-top: 1rem;
         margin-bottom: 2rem;
         font-size: 1.5rem;
-        color: $M-green;
+        color: $M-white;
       text-align: center;
         z-index: 9;
       }
@@ -660,7 +660,7 @@ display: grid;
   transform-origin: right top 0;
 margin-top: 0rem;
   right: 99%;
-  color: $M-green;
+  // color: $M-green;
   letter-spacing: .2rem;
   padding-top: 4vw;
   padding-right: 1.5vw;
@@ -888,7 +888,7 @@ margin-top: 0rem;
         margin-top: 3rem;
         gap: 2rem;
         .testimony-card {
-          background: $M-darkgreen;
+          background: $M-green;
           padding: 1rem;
           margin-top: 3rem;
           // border-radius: 0.5rem;
