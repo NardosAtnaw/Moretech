@@ -362,7 +362,7 @@ export default {
       p {
         @extend .text;
         text-align: center;
-        color: $M-darkgreen;
+        color: $M-red;
         margin-top: 0.4rem;
         font-size: 0.8rem;
       }

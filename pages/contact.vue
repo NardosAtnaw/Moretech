@@ -101,7 +101,7 @@ export default {
           width: 10rem;
           margin-top: -2.3rem;
           margin-left: 1rem;
-          color: $M-blue;
+           color: $M-red;
           @extend .h3;
           font-size: 0.9rem;
 
@@ -133,7 +133,7 @@ export default {
           width: 10rem;
           margin-top: -2.3rem;
           margin-left: 1rem;
-          color: $M-blue;
+          color: $M-red;
           @extend .h3;
           font-size: 0.9rem;
 

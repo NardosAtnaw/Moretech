@@ -436,18 +436,15 @@ display: grid;
     .container {
      
       .bigtitle{
-    //  margin-top: 5rem;
-    display: grid;
-    place-items: center;
+ 
         @extend .caps;
-        position: absolute;
+        // position: absolute;
         margin-top: 1rem;
-        margin-bottom: 3rem;
-        font-size: 1rem;
-        color: $M-white;
-        // text-align: center;
+        margin-bottom: 2rem;
+        font-size: 1.5rem;
+        color: $M-green;
+      text-align: center;
         z-index: 9;
-     
       }
       .product-wrapper {    
         .single-card {
@@ -520,7 +517,7 @@ display: grid;
             text-decoration: none;
             text-align: center;
             // background: rgba(16, 33, 125, 0.3);
-             background: grey;
+             background: $M-green;
             -webkit-transition: 0.3s;
             transition: 0.3s;
           }
@@ -530,7 +527,7 @@ display: grid;
           }
           .CSSgal .bullets div > a:hover {
             // background: rgba(16, 33, 125, 0.3) !important;
-               background: grey !important;
+               background: $M-green !important;
           }
 
           /* NAVIGATION BUTTONS */
@@ -542,19 +539,19 @@ display: grid;
           /* ACTIVE */
           #s1:target ~ .bullets > *:nth-child(1) {
             // background: rgba(16, 33, 125, 0.3);
-            background: grey ;
+            background: $M-green ;
           }
           #s2:target ~ .bullets > *:nth-child(2) {
             // background: rgba(16, 33, 125, 0.3);
-                background: grey ;
+                background: $M-green;
           }
           #s3:target ~ .bullets > *:nth-child(3) {
             // background: rgba(16, 33, 125, 0.3);
-                background: grey ;
+                background: $M-green ;
           }
           #s4:target ~ .bullets > *:nth-child(4) {
             // background: rgba(16, 33, 125, 0.3);
-                background: grey ;
+                background: $M-green ;
           }
 
           .CSSgal > s:target ~ .prevNext > * {
@@ -652,6 +649,32 @@ display: grid;
   @include responsive($md) {
     .product-list {
       .container {
+          .bigtitle{
+         -ms-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  -ms-transform-origin: right top 0;
+  -moz-transform-origin: right top 0;
+  -webkit-transform-origin: right top 0;
+  transform-origin: right top 0;
+margin-top: 0rem;
+  right: 99%;
+  color: $M-green;
+  letter-spacing: .2rem;
+  padding-top: 4vw;
+  padding-right: 1.5vw;
+  font-size: 2rem;
+  white-space: nowrap;
+  text-transform: uppercase;
+  cursor: vertical-text;
+  position: absolute;
+  display: block;
+  height: auto;
+  direction: rtl;
+  z-index: 11;
+     
+      }
         .product-wrapper {
           .single-card {
             .CSSgal {
@@ -696,6 +719,10 @@ display: grid;
     .product-list {
       margin-top: 13rem;
       .container {
+         .bigtitle{
+           font-size: 2.3rem;
+           padding-right: .5vw;
+         }
         .product-wrapper {
           .single-card {
             .CSSgal .prevNext a {
@@ -758,7 +785,6 @@ display: grid;
       width: 90rem;
       height: 50rem;
     object-fit: cover;
-    z-index: -1;
     }
     .container {
    
@@ -775,6 +801,7 @@ display: grid;
         font-size: 0.8rem;
       }
       .wrapper {
+      z-index: 999;
         .equi {
           display: grid;
           place-items: center;

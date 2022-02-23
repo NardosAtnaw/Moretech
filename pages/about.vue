@@ -164,7 +164,7 @@ export default {
           width: 8rem;
           margin-top: -2.3rem;
           margin-left: 1rem;
-          color: $M-blue;
+          color: $M-red;
           @extend .h3;
           font-size: 0.9rem;
 
@@ -330,7 +330,7 @@ export default {
       p {
         @extend .text;
         text-align: center;
-        color: $M-blue;
+        color: $M-red;
         margin-top: 0.94rem;
         font-size: 0.8rem;
       }
@@ -339,7 +339,7 @@ export default {
         margin-top: 3rem;
         gap: 2rem;
         .testimony-card {
-          background: $M-green;
+          background: $M-darkgreen;
           padding: 1rem;
           margin-top: 3rem;
           // border-radius: 0.5rem;
