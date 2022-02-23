@@ -401,7 +401,7 @@ $M-brown: #D7BAAD;
 $M-lightblue: #89DEE2;
 $M-white: #f5f9fd;
 $M-purple: #442669;
-
+$M-red: #FC1921;
 $trans: all 0.5s ease-in-out;
 
 //body
@@ -624,6 +624,11 @@ body {
   background: $M-blue;
   color:$M-white;
   border-color: $M-blue;
+}
+.btn-red {
+  background: $M-red;
+  color:$M-white;
+
 }
 .btn-rounded {
   border-radius: 20px;

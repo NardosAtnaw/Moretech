@@ -1,10 +1,12 @@
 <template>
+
   <header id="app" class="header">
+
     <img class="header-cover" :src="src" alt="" />
     <nav class="nav" id="nav">
       <div class="container banner">
         <div class="logo">
-          <img class="logo-img" src="../assets/Icons/logo.svg" alt="" />
+          <img class="logo-img" src="../assets/Icons/logoblue.svg" alt="" />
         </div>
         <div class="menu-bar menu">
           <hr />
@@ -14,7 +16,7 @@
         <div class="links-container">
           <img src="../assets/Icons/close.svg" class="close-btn" alt="" />
           <ul class="nav-links">
-            <li><a href="/" class="scroll-link"> Home</a></li>
+            <li><a href="/" class="scroll-link">Home</a></li>
             <li class="drop-down2">
               <a href="product" class="scroll-link drop-down-link2">Products</a>
               <ul class="sublinks2">
@@ -78,7 +80,7 @@
             </li>
             <li class="drop-down">
               <a href="service" class="scroll-link drop-down-link">Services</a>
-              <ul class="sublinks">
+              <!-- <ul class="sublinks">
                 <div class="corp-link">
                   <li>
                     <a href="">Repair</a>
@@ -87,7 +89,7 @@
                   <li><a href="">Delivery</a></li>
             
                 </div>
-              </ul>
+              </ul> -->
             </li>
 
             <li>
@@ -273,7 +275,7 @@ export default {
   background: $M-blue;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
   z-index: 999999;
-  color: $M-blue;
+  // color: $M-blue;
 }
 header {
   position: relative;
@@ -370,6 +372,11 @@ header {
                   gap: 0.5rem;
                   color: $M-white;
                   transition: color 0.2s linear;
+                    &:hover {
+                  color: $M-red;
+                  font-size: 1.13rem;
+               
+                }
                   img {
                     width: 0.5rem;
                   }
@@ -377,6 +384,7 @@ header {
               }
             }
           }
+        
         }
       }
     }
@@ -605,7 +613,7 @@ header {
                 font-size: 1rem;
 
                 &:hover {
-                  color: $M-lightblue;
+                  color: $M-red;
                   font-size: 1.13rem;
                   font-weight: 600;
                 }

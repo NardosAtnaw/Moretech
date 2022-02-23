@@ -440,7 +440,7 @@ var swiper = new Swiper(".swiper-container", {
       p {
         @extend .text;
         text-align: center;
-        color: $M-blue;
+        color: $M-red;
         margin-top: 0.94rem;
         font-size: 0.8rem;
       }

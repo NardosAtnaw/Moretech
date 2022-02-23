@@ -1,10 +1,12 @@
 <template>
   <header id="app" class="header">
+   
     <img class="header-cover" :src="src" alt="" />
+   
     <nav class="nav" id="nav">
       <div class="container banner">
         <div class="logo">
-          <img class="logo-img" src="../assets/Icons/logo.svg" alt="" />
+          <img class="logo-img" src="../assets/Icons/logoblue.svg" alt="" />
         </div>
         <div class="menu-bar menu">
           <hr />
@@ -78,14 +80,14 @@
             </li>
             <li class="drop-down">
               <a href="service" class="scroll-link drop-down-link">Services</a>
-              <ul class="sublinks">
+              <!-- <ul class="sublinks">
                 <div class="corp-link">
                   <li> <a href="">Repair</a></li>
                   <li><a href=""> Import</a></li>
                   <li><a href="">Delivery</a></li>
                   <li><a href=""> Consult</a></li>
                 </div>
-              </ul>
+              </ul> -->
             </li>
 
             <li>
@@ -126,35 +128,35 @@
           <li>
          <a href="">   <img
               class="social-img"
-              src="../assets/Icons/facebook.svg"
+              src="../assets/Icons/facebook3.svg"
               alt=""
             /></a>
           </li>
           <li>
           <a href="">  <img
               class="social-img"
-              src="../assets/Icons/linkedin.svg"
+              src="../assets/Icons/linkedin3.svg"
               alt=""
             /></a>
           </li>
           <li>
           <a href="">  <img
               class="social-img"
-              src="../assets/Icons/googleplus.svg"
+              src="../assets/Icons/google3.svg"
               alt=""
             /></a>
           </li>
           <li>
           <a href="">  <img
               class="social-img"
-              src="../assets/Icons/twitter.svg"
+              src="../assets/Icons/twitter3.svg"
               alt=""
             /></a>
           </li>
           <li>
            <a href=""> <img
               class="social-img"
-              src="../assets/Icons/youtube.svg"
+              src="../assets/Icons/youtube3.svg"
               alt=""
             /></a>
           </li>
@@ -182,7 +184,6 @@ export default {
       // sublinks.style.left = `-${center + 5}px`
       console.log(center);
     });
-
     dropDownFull.addEventListener("mouseleave", () => {
       sublinks.classList.remove("show-links");
     });
@@ -270,10 +271,10 @@ export default {
   top: 0;
   width: 100%;
   padding-bottom: 0.3rem;
-  background: $M-blue;
+  background:  $M-blue;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
   z-index: 999999;
-  color: $M-blue;
+  // color: $M-green;
 }
 header {
   position: relative;
@@ -423,7 +424,7 @@ header {
       .frist-line {
         margin: auto;
         margin-bottom: 0.5rem;
-        border-left: 2px solid $M-white;
+        border-left: 2px solid $M-red;
         height: 100px;
       }
       .socials {
@@ -437,7 +438,7 @@ header {
       .second-line {
         margin: auto;
         margin-top: 0.5rem;
-        border-left: 2px solid $M-white;
+        border-left: 2px solid $M-red;
         height: 100px;
       }
     }
@@ -575,7 +576,7 @@ header {
                 font-size: 1rem;
 
                 &:hover {
-                  color: $M-lightblue;
+                  color: $M-red;
                   font-size: 1.13rem;
                   font-weight: 600;
                 }

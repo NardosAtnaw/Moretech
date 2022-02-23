@@ -3,8 +3,7 @@
       <div class="container" >
         <h2>Contact Us</h2>
         <p class="info-contact">
-          Enim commodo quis nulla cillum in. Ipsum excepteur voluptate cillum
-          elit est
+        Please contact us via social media or by filling out the form below.
         </p>
         <div class="contact-box" >
           <div>
@@ -12,8 +11,7 @@
           </div>
 
           <p class="header-desc">
-            Enim commodo quis nulla cillum in. Ipsum excepteur voluptate cillum
-            elit est
+           To contact us, please fill out the form below and include the contact hours.
           </p>
           <div class="contact-wrapper">
             <div class="contact-form">
@@ -54,7 +52,7 @@
                 </div>
 
                 <div class="submit-buttons">
-                  <a class="btn btn-green" href="#">Submit</a>
+                  <a class="btn btn-rounded btn-green" href="#">Submit</a>
                 </div>
               </form>
             </div>
@@ -63,7 +61,7 @@
             </div>
             <div class="contact-info">
               <p>
-               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.Lorem ipsum dolor sit amet
+              Use the links below to contact us through our social media platforms.
               </p>
 <div class="socials">
   <ul class="social-links">
@@ -109,7 +107,7 @@ export default {
      .info-contact {
         @extend .text;
         text-align: center;
-        color: $M-darkgreen;
+        color: $M-red;
         margin-top: 0.4rem;
         font-size: 0.8rem;
       }
@@ -133,7 +131,7 @@ export default {
        .header-desc {
           @extend .text;
           text-align: left;
-          color: grey;
+          color: $M-red;
           margin-top: 1.88rem;
           font-size: 0.8rem;
         }
@@ -182,6 +180,7 @@ export default {
               // right: 0;
               display: flex;
               justify-content: right;
+             
             }
           }
           .line {
@@ -194,9 +193,9 @@ export default {
                  margin-top: 3rem;
             p{
               width: 100%;
-         font-size: .9rem;
+         font-size: 1rem;
               text-align: left;
-              color: $M-blue;
+              color: $M-darkgreen;
             }
             .socials{
                 margin-top: 3rem;

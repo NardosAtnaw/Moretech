@@ -1,12 +1,14 @@
 <template>
    <footer>
+       <img class="decor" src="../assets/Icons/decor2.svg" alt="">
+     
 <div class="footer-triangle">
 </div>
 <div class="container">
   <div class="footer-wrapper">
 
   <div class="log-moto">
-    <img class="footer-logo" src="../assets/Icons/logo.svg" alt="">
+    <img class="footer-logo" src="../assets/Icons/logoblue.svg" alt="">
     <div class="links-social">
   <a href=""><img src="../assets/Icons/facebook.svg" alt=""></a>
     <a href=""><img src="../assets/Icons/twitter.svg" alt=""></a>
@@ -24,11 +26,11 @@
   </div>
   <div class="footer-about">
     <h2>About Us</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.Lorem ipsum dolor sit amet</p>
+    <p>MoreTech is a company that imports and distributes laboratory equipment, materials, and chemicals.</p>
   </div>
     <div class="footer-service">
     <h2>Service</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.Lorem ipsum dolor sit amet</p>
+    <p>We provide a variety of services in the areas of education, research, laboratory, agriculture, and other equipment. </p>
   </div>
     <div class="footer-quick">
     <h2>Quick Links</h2>
@@ -67,8 +69,16 @@ export default {
     background: $M-blue;
   //  border-start-start-radius: 5rem;
   position: relative;
+     .decor{
+      position: absolute;
+      width: 90rem;
+      height:100%;
+    object-fit: cover;
+  //  z-index: 9;
+    }
 .footer-triangle{
     position: absolute;
+    opacity: 1;
       top: 0;
       width: 0;
       height: 0;
@@ -95,7 +105,10 @@ export default {
       display: flex;
       gap: 3rem;
       margin-top: 1rem;
+      
       hr{
+        background: $M-red;
+      
         width: 4rem;
       }
     }
@@ -115,7 +128,7 @@ export default {
     h2{
       @extend .text;
       font-size: 1.2rem;
-      color: $M-white;
+         color: $M-red;
       text-align: center;
     }
     p{
@@ -133,8 +146,9 @@ export default {
       margin-right: 2rem;
     h2{
       @extend .text;
+     
       font-size: 1.2rem;
-      color: $M-white;
+          color: $M-red;
       text-align: center;
     }
     p{
@@ -152,8 +166,9 @@ export default {
       margin-right: 2rem;
     h2{
       @extend .text;
+       color: $M-red;
       font-size: 1.2rem;
-      color: $M-white;
+    
       text-align: center;
     }
   .quicklinks{
@@ -177,7 +192,7 @@ color: $M-white;
 .linefooter{
    height: .09rem;
  width:20rem;
-background: $M-white;
+background: $M-red;
  margin-top: 6rem;
   
   } 
@@ -214,7 +229,7 @@ display: grid;
        .linefooter{
    height: .1rem;
  width:40rem;
-background: $M-white;
+
  margin-top: 6rem;
   
   }  
@@ -242,7 +257,7 @@ display: grid;
    height: .09rem;
    margin-top: 3rem;
  width:70rem;
-background: $M-white;
+background: $M-red;
  margin-top: 6rem;
   
   } 

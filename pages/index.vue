@@ -16,7 +16,7 @@
         <a href="education">
   <img class="service-img" src="../assets/Icons/ser1.svg" alt="" />
 
-              <h2>Educational laboratory Equipments</h2>
+              <h2>Educational laboratory Equipment</h2>
               <p>
                It is imperative for schools to have the latest and high-quality science lab supplies these days. Science is different from any other subject. In order to understand its concepts,
               </p>
@@ -80,15 +80,18 @@
     </section>
     <section class="product-list" style="background: #2E4450">
 
+      <img class="decor" src="../assets/Icons/decor2.svg" alt="">
       <div class="container">
+        <h2 class="bigtitle">Feature Products</h2>
         <div class="product-wrapper">
+       
+     
           <div class="single-card">
             <div class="CSSgal">
               <s id="s1"></s>
               <s id="s2"></s>
               <s id="s3"></s>
               <s id="s4"></s>
-
               <div class="slider">
                 <div class="card" data-aos="fade-left"
             data-aos-offset="20"
@@ -109,7 +112,7 @@
                   Since the advancement of science across the world, practical supported biological teachings are undertaken   with the   aid of latest laboratory equipment to relate theoretical ideas   with their practicalities.   
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-blue" href="education">View Product</a>
+                  <a class="btn btn-rounded btn-red" href="education">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -131,7 +134,7 @@
                Since the advancement of science across the world, practical supported biological teachings are undertaken   with the   aid of latest laboratory equipment to relate theoretical ideas   with their practicalities.   
                   </div>
    <div class="buttons">
-                  <a class="btn btn-blue" href="education">View Product</a>
+                  <a class="btn btn-rounded btn-red" href="education">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -153,7 +156,7 @@
                   Moretech Industry PLC  in Ethiopia   also handles   the leading roles in the supply of such    world – class precision analytical instruments    to the  range   of institutions needing  our products.   
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-blue" href="analytical">View Product</a>
+                  <a class="btn btn-rounded btn-red" href="analytical">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -177,7 +180,7 @@
           elit est 
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-blue" href="#">View Product</a>
+                  <a class="btn btn-rounded btn-red" href="#">View Product</a>
                 </div>
                 </div>
               </div>
@@ -201,7 +204,7 @@
     <section class="equipments">
       <img class="decor" src="../assets/Icons/decor.svg" alt="">
       <div class="container">
-        <h2>Equipments</h2>
+        <h2>Equipment</h2>
         <p>
          You can view the new equipment that has arrived below.
         </p>
@@ -421,11 +424,32 @@ display: grid;
     }
   }
   .product-list {
-    margin-top: 8rem;
-      position: relative;
-   
+    margin-top: 8rem; 
+      position: relative; 
+      .decor{
+      position: absolute;
+      width: 90rem;
+      height: 50rem;
+    object-fit: cover;
+  //  z-index: 9;
+    }
     .container {
-      .product-wrapper {
+     
+      .bigtitle{
+    //  margin-top: 5rem;
+    display: grid;
+    place-items: center;
+        @extend .caps;
+        position: absolute;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+        font-size: 1rem;
+        color: $M-white;
+        // text-align: center;
+        z-index: 9;
+     
+      }
+      .product-wrapper {    
         .single-card {
           .CSSgal {
             position: relative;
@@ -460,6 +484,7 @@ display: grid;
           }
           .CSSgal .prevNext a {
             // background: $M-blue;
+          
             position: absolute;
             width: 25px;
             height: 505px;
@@ -476,6 +501,7 @@ display: grid;
           .CSSgal .prevNext a + a {
             left: auto;
             right: 0;
+            z-index: 99999;
           }
           .CSSgal .bullets {
             position: absolute;
@@ -744,7 +770,7 @@ display: grid;
       p {
         @extend .text;
         text-align: center;
-        color:$M-darkgreen;
+        color:$M-red;
         margin-top: 0.4rem;
         font-size: 0.8rem;
       }
@@ -826,7 +852,7 @@ display: grid;
       p {
         @extend .text;
         text-align: center;
-        color: $M-darkgreen;
+        color: $M-red;
         margin-top: 0.4rem;
         font-size: 0.8rem;
       }
