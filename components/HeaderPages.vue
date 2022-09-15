@@ -13,14 +13,14 @@
           <hr />
           <hr />
         </div>
-        <div class="links-container">
+         <div class="links-container">
           <img src="../assets/Icons/close.svg" class="close-btn" alt="" />
           <ul class="nav-links">
-            <li><a href="/" class="scroll-link">Home</a></li>
+            <li><a href="/" class="scroll-link"> Home</a></li>
             <li class="drop-down2">
-              <a href="product" class="scroll-link drop-down-link2">Products</a>
+              <a href="education" class="scroll-link drop-down-link2">Products</a>
               <ul class="sublinks2">
-                <div class="corp-link2">
+                 <div class="corp-link2">
                   <li>
                     <a href="education">
                       Educational Equipment</a
@@ -63,6 +63,11 @@
                   </li>
                     </ul>
                   </li>
+                     <li>
+                    <a href="labratory"
+                      >Laboratory Chemicals Product </a
+                    >
+                  </li>
                   <li>
                     <a href="Analytical"
                       >Research and Quality Control Equipments</a
@@ -82,12 +87,10 @@
               <a href="service" class="scroll-link drop-down-link">Services</a>
               <!-- <ul class="sublinks">
                 <div class="corp-link">
-                  <li>
-                    <a href="">Repair</a>
-                  </li>
+                  <li> <a href="">Repair</a></li>
                   <li><a href=""> Import</a></li>
                   <li><a href="">Delivery</a></li>
-            
+                  <li><a href=""> Consult</a></li>
                 </div>
               </ul> -->
             </li>
@@ -272,8 +275,8 @@ export default {
   top: 0;
   width: 100%;
   padding-bottom: 0.3rem;
-  background: $M-blue;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  background: $M-white;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   z-index: 999999;
   // color: $M-blue;
 }
@@ -346,7 +349,7 @@ header {
             .scroll-link {
               @extend .text-medium;
               font-size: 1rem;
-              color: #fff;
+              color: red;
             }
             .sublinks,
             .sublinks2 {
@@ -370,7 +373,7 @@ header {
                   font-size: 0.88rem;
                   display: flex;
                   gap: 0.5rem;
-                  color: $M-white;
+                  color: red;
                   transition: color 0.2s linear;
                     &:hover {
                   color: $M-red;
@@ -606,7 +609,7 @@ header {
             position: relative;
             li {
               .scroll-link {
-                color: #fff;
+                color: red;
               }
               a {
                 font-size: 1rem;
@@ -623,9 +626,9 @@ header {
                 position: absolute;
                 width: auto;
                 display: flex;
-                background: $M-darkgreen;
+                background: $M-green;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-                border-radius: 1rem;
+              
                 display: none;
                 h3 {
                   font-size: 1.13rem;
@@ -648,7 +651,8 @@ header {
                 display: flex;
                 background:$M-darkgreen;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-                border-radius: 1rem;
+          
+                margin-top: -.5rem;
                 display: none;
                 h3 {
                   font-size: 1.13rem;

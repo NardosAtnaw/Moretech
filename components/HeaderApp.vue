@@ -18,7 +18,7 @@
           <ul class="nav-links">
             <li><a href="/" class="scroll-link"> Home</a></li>
             <li class="drop-down2">
-              <a href="product" class="scroll-link drop-down-link2">Products</a>
+              <a href="education" class="scroll-link drop-down-link2">Products</a>
               <ul class="sublinks2">
                  <div class="corp-link2">
                   <li>
@@ -62,6 +62,11 @@
                     >
                   </li>
                     </ul>
+                  </li>
+                     <li>
+                    <a href="labratory"
+                      >Laboratory Chemicals Product </a
+                    >
                   </li>
                   <li>
                     <a href="Analytical"
@@ -271,8 +276,8 @@ export default {
   top: 0;
   width: 100%;
   padding-bottom: 0.3rem;
-  background:  $M-blue;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  background:  $M-white;
+  // box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
   z-index: 999999;
   // color: $M-green;
 }
@@ -350,11 +355,12 @@ header {
             .scroll-link {
               @extend .text-medium;
               font-size: 1rem;
-              color: #fff;
+              color:red;
             }
             .sublinks,
             .sublinks2 {
               margin: 1rem 0;
+              margin-top: -.2rem;
               color: $M-brown;
               h3 {
                 font-family: "medium bt";
@@ -570,7 +576,7 @@ header {
             position: relative;
             li {
               .scroll-link {
-                color: #fff;
+                color: red;
               }
               a {
                 font-size: 1rem;
@@ -587,9 +593,9 @@ header {
                 position: absolute;
                 width: auto;
                 display: flex;
-                background: $M-darkgreen;
+                background: $M-green;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-                border-radius: 1rem;
+            
                 display: none;
                 h3 {
                   font-size: 1.13rem;
@@ -610,9 +616,9 @@ header {
                 position: absolute;
                 width: auto;
                 display: flex;
-                background: $M-darkgreen;
+                background: $M-green;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-                border-radius: 1rem;
+           
                 display: none;
                 h3 {
                   font-size: 1.13rem;

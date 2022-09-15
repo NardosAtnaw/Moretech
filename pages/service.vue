@@ -115,7 +115,7 @@
         </div>
       </div>
     </section>
-    <section class="import">
+    <!-- <section class="import">
       <img class="decor" src="../assets/Icons/decor.svg" alt="" />
       <div class="container">
         <h2>Imports</h2>
@@ -231,7 +231,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <ContactApp />
     <FooterApp />

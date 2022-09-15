@@ -30,22 +30,7 @@
     </section>
     <section class="alist">
       <div class="container">
-        <div class="search">
-          <div class="input-container">
-            <button
-             @click="search" type="submit" name="submit"
-              class="search-button"
-            >
-              <img src="../assets/Icons/search.svg" class="icon" alt="" />
-            </button>
-            <input
-              class="input-field"
-              type="search"
-              placeholder="Search..."
-              name="search"
-            />
-          </div>
-        </div>
+    
         <div class="category"   >
           <h4>Biology</h4>
           <p>
@@ -486,23 +471,40 @@ export default {
             display: grid;
             place-items: center;
             margin-top: 2rem;
-            .equi-card {
+             .equi-card {
+                 display: grid;
+            place-items: center;
               padding: 1.5rem;
               width: 10rem;
               height: 10rem;
+             
               box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
+              img{
+                width: 10rem;
+              height: 10rem;
+              object-fit: cover;
+              @include responsive($xl){
+                      width:15rem;
+              height: 15rem;
+              }
+              }
             }
             .rectangle {
               height: 2rem;
               width: 10rem;
-              background: $M-lightblue;
+            background: $M-green;
               display: grid;
               place-items: center;
+               @include responsive($xl){
+                      width: 15rem;
+     
+              }
               h2 {
                 color: #fff;
                 font-size: 0.8rem;
                 text-align: center;
               }
+
             }
           }
         }
@@ -525,19 +527,27 @@ export default {
               place-items: center;
               margin-top: 2rem;
               .equi-card {
-                display: grid;
+                      display: grid;
                 align-items: center;
                 padding: 1rem;
                 width: 15rem;
                 height: 16.5rem;
+                    @include responsive($xl){
+                      width: 20rem;
+              height: 20rem;
+              }
                 box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
               }
               .rectangle {
                 height: 2rem;
                 width: 15rem;
-                background: $M-lightblue;
+     
                 display: grid;
                 place-items: center;
+                      @include responsive($xl){
+                      width: 20rem;
+      
+              }
                 h2 {
                   color: #fff;
                   font-size: 1rem;

@@ -103,16 +103,16 @@
                   <div class="img-center" >
                     <img
                       class="product-img"
-                      src="../assets/Images/model4.png"
+                      src="../assets/Images/Analytical/hydro.jpg"
                       alt=""
                     />
                   </div>
-                  <h2  >Ear Model</h2>
+                  <h2  >HC1000</h2>
                   <div  class="desc"  >
-                  Since the advancement of science across the world, practical supported biological teachings are undertaken   with the   aid of latest laboratory equipment to relate theoretical ideas   with their practicalities.   
+              
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-rounded btn-red" href="education">View Product</a>
+                  <a class="btn btn-rounded btn-red" href="Analytical">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -125,16 +125,16 @@
                   <div class="img-center">
                     <img
                       class="product-img"
-                      src="../assets/Images/model5.png"
+                      src="../assets/Images/Analytical/aquaflex.jpg"
                       alt="" 
                     />
                   </div>
-                  <h2>Liver Model</h2>
+                  <h2>aquaflex</h2>
                   <div class="desc">
-               Since the advancement of science across the world, practical supported biological teachings are undertaken   with the   aid of latest laboratory equipment to relate theoretical ideas   with their practicalities.   
+             
                   </div>
    <div class="buttons">
-                  <a class="btn btn-rounded btn-red" href="education">View Product</a>
+                  <a class="btn btn-rounded btn-red" href="Analytical">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -147,16 +147,16 @@
                   <div class="img-center">
                     <img
                       class="product-img"
-                      src="../assets/Images/glass.png"
+                      src="../assets/Images/Analytical/HTTURB.jpg"
                       alt=""
                     />
                   </div>
-                  <h2> Narrow Neck Labratory Glass</h2>
+                  <h2> HTTURB</h2>
                   <div class="desc">
-                  Moretech Industry PLC  in Ethiopia   also handles   the leading roles in the supply of such    world – class precision analytical instruments    to the  range   of institutions needing  our products.   
+                  
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-rounded btn-red" href="analytical">View Product</a>
+                  <a class="btn btn-rounded btn-red" href="Analytical">View Product</a>
                 </div>
                 </div>
                 <div class="card" data-aos="fade-left"
@@ -169,18 +169,17 @@
                   <div class="img-center">
                     <img
                       class="product-img"
-                      src="../assets/Images/soil5.png"
+                      src="../assets/Images/Analytical/deluxe HM2000.png"
                       alt=""
                     />
                   </div>
 
-                  <h2>Soil Conductivity/tem. Meter </h2>
+                  <h2>METALYSER® DELUXE HM2000</h2>
                   <div class="desc">
-                     Enim commodo quis nulla cillum in. Ipsum excepteur voluptate cillum
-          elit est 
+          
                   </div>
                      <div class="buttons">
-                  <a class="btn btn-rounded btn-red" href="#">View Product</a>
+                  <a class="btn btn-rounded btn-red" href="Analytical">View Product</a>
                 </div>
                 </div>
               </div>
@@ -268,7 +267,7 @@
         </div>
       </div>
     </section>
-    <section class="testimonials">
+    <!-- <section class="testimonials">
       <div class="container">
         <h2>Testimonials</h2>
         <p>
@@ -323,7 +322,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
    <ContactApp/>
       <section class="map">
       <h1 class="map-title text-center"></h1>
@@ -504,7 +503,7 @@ display: grid;
             position: absolute;
             z-index: 2;
             bottom: 0;
-            padding: 5px 0;
+            padding: -1px 0;
             width: 100%;
             text-align: center;
           }
@@ -600,9 +599,12 @@ display: grid;
                   justify-content: center;
                   .product-img {
                     position: absolute;
-                    width: 15rem;
+                    width: 12rem;
                     top: 1rem;
                     object-fit: cover;
+                      @include responsive($xxl) {
+                   
+               }
                   }
                 }
 
@@ -619,6 +621,7 @@ display: grid;
                 .desc {
                   @extend .text;
                   padding-left: 2rem;
+                  margin-top: 2rem;
                   padding-right: 2rem;
                   font-size: 0.8rem;
                   color: #fff;
@@ -717,11 +720,17 @@ margin-top: 0rem;
   }
   @include responsive($xl) {
     .product-list {
-      margin-top: 13rem;
+      margin-top: 10rem;
+      height: 30rem;
       .container {
          .bigtitle{
-           font-size: 2.3rem;
+           font-size: 2rem;
            padding-right: .5vw;
+            padding-top: .5vw;
+               @include responsive($xxl) {
+                   padding-right: 2.5vw;
+            padding-top: 2.5vw;
+               }
          }
         .product-wrapper {
           .single-card {
@@ -733,8 +742,10 @@ margin-top: 0rem;
               width: 155px;
             }
             .CSSgal {
+                      // margin-top:2rem ;
               height: 48vh;
               .slider {
+                // margin-top:2rem ;
                 .card {
                   .desc {
                     margin-left: 18rem;
@@ -751,6 +762,8 @@ margin-top: 0rem;
     @include responsive($xxl) {
     .product-list {
       margin-top: 13rem;
+      
+height: 35rem;
       .container {
         .product-wrapper {
           .single-card {
@@ -779,6 +792,7 @@ margin-top: 0rem;
   }
   .equipments {
     margin-top: 8rem;
+      margin-bottom: 8rem;
     position: relative;
     .decor{
       position: absolute;

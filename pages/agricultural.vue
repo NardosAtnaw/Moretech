@@ -16,7 +16,7 @@
     </section>
     <section class="alist">
       <div class="container">
-        <div class="search">
+        <!-- <div class="search">
           <div class="input-container">
             <button
               @click="search"
@@ -33,52 +33,31 @@
               name="search"
             />
           </div>
-        </div>
+        </div> -->
         <div class="category">
-          <h4>Biology</h4>
-          <p>
-            Since the advancement of science across the world, practical
-            supported biological teachings are undertaken with the aid of latest
-            laboratory equipment to relate theoretical ideas with their
-            practicalities.
-          </p>
-
-          <h3 class="category-title">Tools</h3>
+          <h4>Modern agricultural equipment and machineries</h4>
+      
+ 
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/tool3.png" alt="" />
+                <img src="../assets/Images/Laboratory/wa printer.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Laboratory Glass</h2>
+                <h2>Wax Printer </h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/tool2.png" alt="" />
+                <img src="../assets/Images/Laboratory/bee veil.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Scissors</h2>
+                <h2>Bee   veil </h2>
               </div>
             </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/tool.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Spatulas</h2>
-              </div>
-            </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/tool5.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Scoops</h2>
-              </div>
-            </div>
+           
           </div>
-          <h3 class="category-title">Human Physiology and Anatomy</h3>
+          <h3 class="category-title">Poultry production equipment </h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -86,10 +65,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/model5.png" alt="" />
+                <img src="../assets/Images/Laboratory/poultry feeder.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Liver Model</h2>
+                <h2>Poultry Feeder                                            </h2>
               </div>
             </div>
             <div
@@ -98,10 +77,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/model2.png" alt="" />
+                <img src="../assets/Images/Laboratory/brooder.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Lung Model</h2>
+                <h2>Brooder</h2>
               </div>
             </div>
             <div
@@ -110,10 +89,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/model1.png" alt="" />
+                <img src="../assets/Images/Laboratory/hatching incubator.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Heart Model</h2>
+                <h2>Hatching Incubator</h2>
               </div>
             </div>
             <div
@@ -122,51 +101,20 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/model6.png" alt="" />
+                <img src="../assets/Images/Laboratory/debeaker.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Skeleton Model</h2>
+                <h2>Debeaker </h2>
               </div>
             </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/model3.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Brain Model</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/model4.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Ear Model</h2>
-              </div>
-            </div>
+        
           </div>
         </div>
         <div class="category">
-          <h4>Chemistry</h4>
-          <p>
-            Chemistry is one of the fundamental sciences being studied well
-            through the use of technologically advanced laboratory instruments
-            and apparatuses in the present real world. Moretech Industry PLC
-            also support this similar undertaking to scaled up the supply and
-            distribution of macro and micro level equipment so as to aid
-            effective analysis of chemical reactions for chemistry learning in
-            various levels of schools.
-          </p>
+          <h4>Dairy   production equipment and Milk   analyzing equipment </h4>
+        
 
-          <h3 class="category-title">Apparatus</h3>
+          <h3 class="category-title"></h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -174,10 +122,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/appr3.jpg" alt="" />
+                <img src="../assets/Images/Laboratory/milk churner.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Electrochemical Experiments Electrodes</h2>
+                <h2>Milk  Churner</h2>
               </div>
             </div>
             <div
@@ -186,10 +134,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/appr2.png" alt="" />
+                <img src="../assets/Images/Laboratory/milk collecting can.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Storage Battery Experiment Set</h2>
+                <h2>Milk collecting can</h2>
               </div>
             </div>
             <div
@@ -198,120 +146,65 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/appr1.png" alt="" />
+                <img src="../assets/Images/Laboratory/cream separator.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Brownlee Electrolysis Apparatus</h2>
+                <h2>Cream separator</h2>
+              </div>
+            </div>
+               <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/lactometer.jpg" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>lactometer</h2>
+              </div>
+            </div>
+               <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/lactoscan.jpg" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Lactoscan  </h2>
+              </div>
+            </div>
+                <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/butyrometer.jpg" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Butyrometer </h2>
+              </div>
+            </div>
+             <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/milk refractometer.jpg" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Milk refractometer                                                                                                   </h2>
               </div>
             </div>
           </div>
-          <h3 class="category-title">Molecular Models</h3>
-          <div class="wrapper">
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mol1.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Organic Molecular Structure Model</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mol2.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Natural Crystal Flake Graphite Model</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mol3.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Ionic Crystal Model NaCl2</h2>
-              </div>
-            </div>
-          </div>
+        
         </div>
 
-        <div class="category">
-          <h4>Mathematics</h4>
-          <p>
-            Mathematical models are an important component of the final
-            "complete model" of a system which is actually a collection of
-            conceptual, physical, mathematical, visualization, and possibly
-            statistical sub-models. Mathematical models can help students
-            understand and explore the meaning of equations or functional
-            relationships.
-          </p>
-
-          <h3 class="category-title">Number and Algebra</h3>
-          <div class="wrapper">
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mat.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Abacus and Counting Frames</h2>
-              </div>
-            </div>
-          </div>
-          <h3 class="category-title">Measurement and Geometry</h3>
-          <div class="wrapper">
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mat2.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Volume and Capacity</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mat3.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>3D shapes and 2D shapes</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mat4.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Geometry Equipment</h2>
-              </div>
-            </div>
-          </div>
-        </div>
+        
       </div>
     </section>
     <ContactApp />
@@ -460,7 +353,7 @@ export default {
           font-weight: 600;
           text-align: left;
         }
-        .wrapper {
+         .wrapper {
           display: grid;
           grid-template-columns: 1fr 1fr;
           gap: 1rem;
@@ -468,11 +361,23 @@ export default {
             display: grid;
             place-items: center;
             margin-top: 2rem;
-            .equi-card {
+             .equi-card {
+                 display: grid;
+            place-items: center;
               padding: 1.5rem;
               width: 10rem;
               height: 10rem;
+             
               box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
+              img{
+                width: 10rem;
+              height: 10rem;
+              object-fit: cover;
+              @include responsive($xl){
+                      width:15rem;
+              height: 15rem;
+              }
+              }
             }
             .rectangle {
               height: 2rem;
@@ -480,11 +385,16 @@ export default {
               background: $M-lightblue;
               display: grid;
               place-items: center;
+               @include responsive($xl){
+                      width: 15rem;
+     
+              }
               h2 {
                 color: #fff;
                 font-size: 0.8rem;
                 text-align: center;
               }
+
             }
           }
         }
@@ -507,19 +417,27 @@ export default {
               place-items: center;
               margin-top: 2rem;
               .equi-card {
-                display: grid;
+                      display: grid;
                 align-items: center;
                 padding: 1rem;
                 width: 15rem;
                 height: 16.5rem;
+                    @include responsive($xl){
+                      width: 20rem;
+              height: 20rem;
+              }
                 box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
               }
               .rectangle {
                 height: 2rem;
                 width: 15rem;
-                background: $M-lightblue;
+                background: $M-green;
                 display: grid;
                 place-items: center;
+                      @include responsive($xl){
+                      width: 20rem;
+      
+              }
                 h2 {
                   color: #fff;
                   font-size: 1rem;
