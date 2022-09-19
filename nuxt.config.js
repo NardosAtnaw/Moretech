@@ -5,7 +5,7 @@ export default {
     base: '/'
   },
   head: {
-    title: 'more_tech',
+    title: 'moretechplc',
     htmlAttrs: {
       lang: 'en'
     },
