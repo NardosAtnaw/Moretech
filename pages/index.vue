@@ -1,91 +1,158 @@
 <template>
   <div class="body-main">
     <HeaderApp :src="src" />
+    <section class="history">
+      <div class="container">
+        <div class="history-box">
+          <h4>Who We Are</h4>
+          <div class="desc">
+            <img src="../assets/Images/moretech building.jpg" alt="" />
+            <p>
+              Moretch Industry PLC has been established in 2007 given that the
+              owner deeply observed and identified the wider gap and hotspot
+              problem of aluminum supplies in construction industry sector.<br />
+              As a means of satisfying the greater and continual demand of
+              aluminum in the construction of building; moretech has decided and
+              taken a determination to establish a manufacturer and assembly
+              plant of aluminum profile with an outlay of 1.8 million ETB in
+              that year. <br /><br />
+              After getting lessons and experiences from the successful
+              achievement in the aluminum sector of the business through
+              recruiting of potential and well trained technical and
+              professional employees; the company showed progress and the scale
+              of market and popularity has got highest and finally included the
+              supply of dairy, poultry, beekeeping, fishery and laboratory
+              equipment and chemicals which at the recent becomes one of the
+              potentially built and leading companies in the country in the
+              successful distribution of these equipment.<br />
+              Hence, since that; we are always working with greatest
+              determination in satisfying our national and international
+              customers through the supply of quality and up-to-date laboratory
+              equipment and chemicals.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
     <section class="list-service">
       <div class="services">
         <div class="container">
           <div class="wrapper">
-            <div class="card" data-aos="slide-up"
-        data-aos-offset="20"
-        data-aos-delay="50"
-        data-aos-duration="1000"
-        data-aos-easing="ease-in"
-        data-aos-mirror="true"
-        data-aos-once="false"
-        data-aos-anchor-placement="top-center">
-        <a href="education">
-  <img class="service-img" src="../assets/Icons/ser1.svg" alt="" />
+            <div
+              class="card"
+              data-aos="slide-up"
+              data-aos-offset="20"
+              data-aos-delay="50"
+              data-aos-duration="1000"
+              data-aos-easing="ease-in"
+              data-aos-mirror="true"
+              data-aos-once="false"
+              data-aos-anchor-placement="top-center"
+            >
+              <a href="education">
+                <img
+                  class="service-img"
+                  src="../assets/Icons/ser1.svg"
+                  alt=""
+                />
 
-              <h2>Educational laboratory Equipment</h2>
-              <p>
-               It is imperative for schools to have the latest and high-quality science lab supplies these days. Science is different from any other subject. In order to understand its concepts,
-              </p>
-        </a>
-            
+                <h2>Educational laboratory Equipment</h2>
+                <p>
+                  It is imperative for schools to have the latest and
+                  high-quality science lab supplies these days. Science is
+                  different from any other subject. In order to understand its
+                  concepts,
+                </p>
+              </a>
             </div>
-            <div class="card" data-aos="slide-up"
-        data-aos-offset="20"
-        data-aos-delay="50"
-        data-aos-duration="1000"
-        data-aos-easing="ease-in"
-        data-aos-mirror="true"
-        data-aos-once="false"
-        data-aos-anchor-placement="top-center">
-        <a href="analytical">
- <img class="service-img" src="../assets/Icons/ser4.svg" alt="" />
-              <h2>Research and Quality Control Equipment</h2>
-              <p>
-              Present rigorous   experiments for scientific researches and   findings require   the highest level of analytical and   precision   laboratory equipment   for   addressing current developmental goals of the world.   
-              </p>
-        </a>
-             
+            <div
+              class="card"
+              data-aos="slide-up"
+              data-aos-offset="20"
+              data-aos-delay="50"
+              data-aos-duration="1000"
+              data-aos-easing="ease-in"
+              data-aos-mirror="true"
+              data-aos-once="false"
+              data-aos-anchor-placement="top-center"
+            >
+              <a href="analytical">
+                <img
+                  class="service-img"
+                  src="../assets/Icons/ser4.svg"
+                  alt=""
+                />
+                <h2>Research and Quality Control Equipment</h2>
+                <p>
+                  Present rigorous experiments for scientific researches and
+                  findings require the highest level of analytical and precision
+                  laboratory equipment for addressing current developmental
+                  goals of the world.
+                </p>
+              </a>
             </div>
-            <div class="card" data-aos="slide-up"
-        data-aos-offset="20"
-        data-aos-delay="50"
-        data-aos-duration="1000"
-        data-aos-easing="ease-in"
-        data-aos-mirror="true"
-        data-aos-once="false"
-        data-aos-anchor-placement="top-center">
-        <a href="labratory">
-   <img class="service-img" src="../assets/Icons/ser3.svg" alt="" />
-              <h2>Laboratory Chemicals Product Range</h2>
-              <p>
-                Range   of laboratory   chemicals   such as; plant tissue culture, molecular biology, animal cell culture, Expert teaching aids, laboratory aids and   equipment, microbiology and   others   have   been getting   significant acceptance
-              </p>
-        </a>
-           
+            <div
+              class="card"
+              data-aos="slide-up"
+              data-aos-offset="20"
+              data-aos-delay="50"
+              data-aos-duration="1000"
+              data-aos-easing="ease-in"
+              data-aos-mirror="true"
+              data-aos-once="false"
+              data-aos-anchor-placement="top-center"
+            >
+              <a href="labratory">
+                <img
+                  class="service-img"
+                  src="../assets/Icons/ser3.svg"
+                  alt=""
+                />
+                <h2>Laboratory Chemicals Product Range</h2>
+                <p>
+                  Range of laboratory chemicals such as; plant tissue culture,
+                  molecular biology, animal cell culture, Expert teaching aids,
+                  laboratory aids and equipment, microbiology and others have
+                  been getting significant acceptance
+                </p>
+              </a>
             </div>
-            <div class="card" data-aos="slide-up"
-        data-aos-offset="20"
-        data-aos-delay="50"
-        data-aos-duration="1000"
-        data-aos-easing="ease-in"
-        data-aos-mirror="true"
-        data-aos-once="false"
-        data-aos-anchor-placement="top-center">
-        <a href="agricultural">
- <img class="service-img" src="../assets/Icons/ser2.svg" alt="" />
-              <h2>Modern Agricultural Equipment </h2>
-              <p>
-               More specialized agricultural machineries, dairy and beekeeping instruments and laboratory equipment have been supplied to several medium to higher level   governmental and non- governmental organizations   since 1999.    Some of our   major 
-              </p>
-        </a>
-             
+            <div
+              class="card"
+              data-aos="slide-up"
+              data-aos-offset="20"
+              data-aos-delay="50"
+              data-aos-duration="1000"
+              data-aos-easing="ease-in"
+              data-aos-mirror="true"
+              data-aos-once="false"
+              data-aos-anchor-placement="top-center"
+            >
+              <a href="agricultural">
+                <img
+                  class="service-img"
+                  src="../assets/Icons/ser2.svg"
+                  alt=""
+                />
+                <h2>Modern Agricultural Equipment</h2>
+                <p>
+                  More specialized agricultural machineries, dairy and
+                  beekeeping instruments and laboratory equipment have been
+                  supplied to several medium to higher level governmental and
+                  non- governmental organizations since 1999. Some of our major
+                </p>
+              </a>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <section class="product-list" style="background: #2E4450">
 
-      <img class="decor" src="../assets/Icons/decor2.svg" alt="">
+    <section class="product-list" style="background: #2e4450">
+      <img class="decor" src="../assets/Icons/decor2.svg" alt="" />
       <div class="container">
         <h2 class="bigtitle">Feature Products</h2>
         <div class="product-wrapper">
-       
-     
           <div class="single-card">
             <div class="CSSgal">
               <s id="s1"></s>
@@ -93,57 +160,69 @@
               <s id="s3"></s>
               <s id="s4"></s>
               <div class="slider">
-                <div class="card" data-aos="fade-left"
-            data-aos-offset="20"
-            data-aos-delay="50"
-            data-aos-duration="1000"
-            data-aos-mirror="true"
-            data-aos-once="false"
-            data-aos-anchor-placement="top-center" style="background: #2E4450">
-                  <div class="img-center" >
+                <div
+                  class="card"
+                  data-aos="fade-left"
+                  data-aos-offset="20"
+                  data-aos-delay="50"
+                  data-aos-duration="1000"
+                  data-aos-mirror="true"
+                  data-aos-once="false"
+                  data-aos-anchor-placement="top-center"
+                  style="background: #2e4450"
+                >
+                  <div class="img-center">
                     <img
                       class="product-img"
                       src="../assets/Images/Analytical/hydro.jpg"
                       alt=""
                     />
                   </div>
-                  <h2  >HC1000</h2>
-                  <div  class="desc"  >
-              
+                  <h2>HC1000</h2>
+                  <div class="desc"></div>
+                  <div class="buttons">
+                    <a class="btn btn-rounded btn-red" href="Analytical"
+                      >View Product</a
+                    >
                   </div>
-                     <div class="buttons">
-                  <a class="btn btn-rounded btn-red" href="Analytical">View Product</a>
                 </div>
-                </div>
-                <div class="card" data-aos="fade-left"
-            data-aos-offset="20"
-            data-aos-delay="50"
-            data-aos-duration="1000"
-            data-aos-mirror="true"
-            data-aos-once="false"
-            data-aos-anchor-placement="top-center" style="background: #2E4450">
+                <div
+                  class="card"
+                  data-aos="fade-left"
+                  data-aos-offset="20"
+                  data-aos-delay="50"
+                  data-aos-duration="1000"
+                  data-aos-mirror="true"
+                  data-aos-once="false"
+                  data-aos-anchor-placement="top-center"
+                  style="background: #2e4450"
+                >
                   <div class="img-center">
                     <img
                       class="product-img"
                       src="../assets/Images/Analytical/aquaflex.jpg"
-                      alt="" 
+                      alt=""
                     />
                   </div>
                   <h2>aquaflex</h2>
-                  <div class="desc">
-             
+                  <div class="desc"></div>
+                  <div class="buttons">
+                    <a class="btn btn-rounded btn-red" href="Analytical"
+                      >View Product</a
+                    >
                   </div>
-   <div class="buttons">
-                  <a class="btn btn-rounded btn-red" href="Analytical">View Product</a>
                 </div>
-                </div>
-                <div class="card" data-aos="fade-left"
-            data-aos-offset="20"
-            data-aos-delay="50"
-            data-aos-duration="1000"
-            data-aos-mirror="true"
-            data-aos-once="false"
-            data-aos-anchor-placement="top-center" style="background: #2E4450">
+                <div
+                  class="card"
+                  data-aos="fade-left"
+                  data-aos-offset="20"
+                  data-aos-delay="50"
+                  data-aos-duration="1000"
+                  data-aos-mirror="true"
+                  data-aos-once="false"
+                  data-aos-anchor-placement="top-center"
+                  style="background: #2e4450"
+                >
                   <div class="img-center">
                     <img
                       class="product-img"
@@ -151,21 +230,25 @@
                       alt=""
                     />
                   </div>
-                  <h2> HTTURB</h2>
-                  <div class="desc">
-                  
+                  <h2>HTTURB</h2>
+                  <div class="desc"></div>
+                  <div class="buttons">
+                    <a class="btn btn-rounded btn-red" href="Analytical"
+                      >View Product</a
+                    >
                   </div>
-                     <div class="buttons">
-                  <a class="btn btn-rounded btn-red" href="Analytical">View Product</a>
                 </div>
-                </div>
-                <div class="card" data-aos="fade-left"
-            data-aos-offset="20"
-            data-aos-delay="50"
-            data-aos-duration="1000"
-            data-aos-mirror="true"
-            data-aos-once="false"
-            data-aos-anchor-placement="top-center" style="background: #2E4450">
+                <div
+                  class="card"
+                  data-aos="fade-left"
+                  data-aos-offset="20"
+                  data-aos-delay="50"
+                  data-aos-duration="1000"
+                  data-aos-mirror="true"
+                  data-aos-once="false"
+                  data-aos-anchor-placement="top-center"
+                  style="background: #2e4450"
+                >
                   <div class="img-center">
                     <img
                       class="product-img"
@@ -175,12 +258,12 @@
                   </div>
 
                   <h2>METALYSER® DELUXE HM2000</h2>
-                  <div class="desc">
-          
+                  <div class="desc"></div>
+                  <div class="buttons">
+                    <a class="btn btn-rounded btn-red" href="Analytical"
+                      >View Product</a
+                    >
                   </div>
-                     <div class="buttons">
-                  <a class="btn btn-rounded btn-red" href="Analytical">View Product</a>
-                </div>
                 </div>
               </div>
               <div class="prevNext">
@@ -201,34 +284,38 @@
       </div>
     </section>
     <section class="equipments">
-      <img class="decor" src="../assets/Icons/decor.svg" alt="">
+      <img class="decor" src="../assets/Icons/decor.svg" alt="" />
       <div class="container">
         <h2>Equipment</h2>
-        <p>
-         You can view the new equipment that has arrived below.
-        </p>
+        <p>You can view the new equipment that has arrived below.</p>
         <div class="wrapper">
-          <div class="equi" data-aos="fade-zoom-in"
-          data-aos-offset="20"
-          data-aos-delay="50"
-          data-aos-duration="1000"
-          data-aos-mirror="true"
-          data-aos-once="false"
-          data-aos-anchor-placement="top-center">
-            <div class="equi-card"   >
+          <div
+            class="equi"
+            data-aos="fade-zoom-in"
+            data-aos-offset="20"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div class="equi-card">
               <img src="../assets/Images/tool.png" alt="" />
             </div>
             <div class="rectangle">
               <h2>Spatulas</h2>
             </div>
           </div>
-          <div class="equi"   data-aos="fade-zoom-in"
-          data-aos-offset="20"
-          data-aos-delay="50"
-          data-aos-duration="1000"
-          data-aos-mirror="true"
-          data-aos-once="false"
-          data-aos-anchor-placement="top-center">
+          <div
+            class="equi"
+            data-aos="fade-zoom-in"
+            data-aos-offset="20"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
             <div class="equi-card">
               <img src="../assets/Images/model3.png" alt="" />
             </div>
@@ -236,13 +323,16 @@
               <h2>Brain Model</h2>
             </div>
           </div>
-          <div class="equi"   data-aos="fade-zoom-in"
-          data-aos-offset="20"
-          data-aos-delay="50"
-          data-aos-duration="1000"
-          data-aos-mirror="true"
-          data-aos-once="false"
-          data-aos-anchor-placement="top-center">
+          <div
+            class="equi"
+            data-aos="fade-zoom-in"
+            data-aos-offset="20"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
             <div class="equi-card">
               <img src="../assets/Images/DNA.png" alt="" />
             </div>
@@ -250,13 +340,16 @@
               <h2>DNA Thermal Cycler for DNA</h2>
             </div>
           </div>
-          <div class="equi"   data-aos="fade-zoom-in"
-          data-aos-offset="20"
-          data-aos-delay="50"
-          data-aos-duration="1000"
-          data-aos-mirror="true"
-          data-aos-once="false"
-          data-aos-anchor-placement="top-center">
+          <div
+            class="equi"
+            data-aos="fade-zoom-in"
+            data-aos-offset="20"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
             <div class="equi-card">
               <img src="../assets/Images/Bio.png" alt="" />
             </div>
@@ -323,8 +416,8 @@
         </div>
       </div>
     </section> -->
-   <ContactApp/>
-      <section class="map">
+    <ContactApp />
+    <section class="map">
       <h1 class="map-title text-center"></h1>
       <div class="map-container">
         <div class="location">
@@ -339,7 +432,7 @@
         </div>
       </div>
     </section>
-  <FooterApp/>
+    <FooterApp />
   </div>
 </template>
 <style lang="scss" scoped>
@@ -356,41 +449,41 @@
             padding: 1.5rem;
             border-radius: 3rem;
             box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.05);
-a{
-display: grid;
-            place-items: center;
-  .service-img {
-    // background: $M-brown;
-    // padding: 1.3rem;
-    // border-radius: 50px;
-    width: 5rem;
-    // margin-bottom: 1rem;
-  }
-  h2 {
-    @extend .title;
-    font-family: "medium bt";
-    font-weight: 500;
-    margin-top: 1.5rem;
-    text-align: center;
-    font-size: 1.3rem;
-    color: $M-blue;
-    line-height: 1.5rem;
-    margin-bottom: 1rem;
-  }
-  p {
-    @extend .text;
-    margin-top: 0.5rem;
-    text-align: center;
-    font-size: 0.9rem;
-    line-height: 1.18rem;
-    color: $M-blue;
-  }
-  &:hover {
-    // background: $M-brown;
-    border-radius: 4rem;
-    opacity: 0.5;
-  }
-}
+            a {
+              display: grid;
+              place-items: center;
+              .service-img {
+                // background: $M-brown;
+                // padding: 1.3rem;
+                // border-radius: 50px;
+                width: 5rem;
+                // margin-bottom: 1rem;
+              }
+              h2 {
+                @extend .title;
+                font-family: "medium bt";
+                font-weight: 500;
+                margin-top: 1.5rem;
+                text-align: center;
+                font-size: 1.3rem;
+                color: $M-blue;
+                line-height: 1.5rem;
+                margin-bottom: 1rem;
+              }
+              p {
+                @extend .text;
+                margin-top: 0.5rem;
+                text-align: center;
+                font-size: 0.9rem;
+                line-height: 1.18rem;
+                color: $M-blue;
+              }
+              &:hover {
+                // background: $M-brown;
+                border-radius: 4rem;
+                opacity: 0.5;
+              }
+            }
           }
         }
       }
@@ -423,29 +516,27 @@ display: grid;
     }
   }
   .product-list {
-    margin-top: 8rem; 
-      position: relative; 
-      .decor{
+    margin-top: 8rem;
+    position: relative;
+    .decor {
       position: absolute;
       width: 90rem;
       height: 50rem;
-    object-fit: cover;
-  //  z-index: 9;
+      object-fit: cover;
+      //  z-index: 9;
     }
     .container {
-     
-      .bigtitle{
- 
+      .bigtitle {
         @extend .caps;
         // position: absolute;
         margin-top: 1rem;
         margin-bottom: 2rem;
         font-size: 1.5rem;
         color: $M-white;
-      text-align: center;
+        text-align: center;
         z-index: 9;
       }
-      .product-wrapper {    
+      .product-wrapper {
         .single-card {
           .CSSgal {
             position: relative;
@@ -480,7 +571,7 @@ display: grid;
           }
           .CSSgal .prevNext a {
             // background: $M-blue;
-          
+
             position: absolute;
             width: 25px;
             height: 505px;
@@ -516,41 +607,41 @@ display: grid;
             text-decoration: none;
             text-align: center;
             // background: rgba(16, 33, 125, 0.3);
-             background: $M-green;
+            background: $M-green;
             -webkit-transition: 0.3s;
             transition: 0.3s;
           }
           .CSSgal .bullets div > a + a {
             // background: rgba(16, 33, 125, 0.9);
-             background: #fff;
+            background: #fff;
           }
           .CSSgal .bullets div > a:hover {
             // background: rgba(16, 33, 125, 0.3) !important;
-               background: $M-green !important;
+            background: $M-green !important;
           }
 
           /* NAVIGATION BUTTONS */
           /* ALL: */
           .CSSgal > s:target ~ .bullets > * {
             // background: rgba(16, 33, 125, 0.9);
-                 background: #fff;
+            background: #fff;
           }
           /* ACTIVE */
           #s1:target ~ .bullets > *:nth-child(1) {
             // background: rgba(16, 33, 125, 0.3);
-            background: $M-green ;
+            background: $M-green;
           }
           #s2:target ~ .bullets > *:nth-child(2) {
             // background: rgba(16, 33, 125, 0.3);
-                background: $M-green;
+            background: $M-green;
           }
           #s3:target ~ .bullets > *:nth-child(3) {
             // background: rgba(16, 33, 125, 0.3);
-                background: $M-green ;
+            background: $M-green;
           }
           #s4:target ~ .bullets > *:nth-child(4) {
             // background: rgba(16, 33, 125, 0.3);
-                background: $M-green ;
+            background: $M-green;
           }
 
           .CSSgal > s:target ~ .prevNext > * {
@@ -602,9 +693,8 @@ display: grid;
                     width: 12rem;
                     top: 1rem;
                     object-fit: cover;
-                      @include responsive($xxl) {
-                   
-               }
+                    @include responsive($xxl) {
+                    }
                   }
                 }
 
@@ -626,16 +716,16 @@ display: grid;
                   font-size: 0.8rem;
                   color: #fff;
                 }
-                 .buttons {
-              margin-top: 1rem;
-         
-              border-radius: 0rem;
-              display: flex;
-              justify-content: center;
-              a{
+                .buttons {
+                  margin-top: 1rem;
+
+                  border-radius: 0rem;
+                  display: flex;
+                  justify-content: center;
+                  a {
                     color: $M-white;
-              }
-            }
+                  }
+                }
               }
             }
             a {
@@ -652,32 +742,31 @@ display: grid;
   @include responsive($md) {
     .product-list {
       .container {
-          .bigtitle{
-         -ms-transform: rotate(-90deg);
-  -moz-transform: rotate(-90deg);
-  -webkit-transform: rotate(-90deg);
-  transform: rotate(-90deg);
-  -ms-transform-origin: right top 0;
-  -moz-transform-origin: right top 0;
-  -webkit-transform-origin: right top 0;
-  transform-origin: right top 0;
-margin-top: 0rem;
-  right: 99%;
-  // color: $M-green;
-  letter-spacing: .2rem;
-  padding-top: 4vw;
-  padding-right: 1.5vw;
-  font-size: 2rem;
-  white-space: nowrap;
-  text-transform: uppercase;
-  cursor: vertical-text;
-  position: absolute;
-  display: block;
-  height: auto;
-  direction: rtl;
-  z-index: 11;
-     
-      }
+        .bigtitle {
+          -ms-transform: rotate(-90deg);
+          -moz-transform: rotate(-90deg);
+          -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+          -ms-transform-origin: right top 0;
+          -moz-transform-origin: right top 0;
+          -webkit-transform-origin: right top 0;
+          transform-origin: right top 0;
+          margin-top: 0rem;
+          right: 99%;
+          // color: $M-green;
+          letter-spacing: 0.2rem;
+          padding-top: 4vw;
+          padding-right: 1.5vw;
+          font-size: 2rem;
+          white-space: nowrap;
+          text-transform: uppercase;
+          cursor: vertical-text;
+          position: absolute;
+          display: block;
+          height: auto;
+          direction: rtl;
+          z-index: 11;
+        }
         .product-wrapper {
           .single-card {
             .CSSgal {
@@ -723,15 +812,15 @@ margin-top: 0rem;
       margin-top: 10rem;
       height: 30rem;
       .container {
-         .bigtitle{
-           font-size: 2rem;
-           padding-right: .5vw;
-            padding-top: .5vw;
-               @include responsive($xxl) {
-                   padding-right: 2.5vw;
+        .bigtitle {
+          font-size: 2rem;
+          padding-right: 0.5vw;
+          padding-top: 0.5vw;
+          @include responsive($xxl) {
+            padding-right: 2.5vw;
             padding-top: 2.5vw;
-               }
-         }
+          }
+        }
         .product-wrapper {
           .single-card {
             .CSSgal .prevNext a {
@@ -742,7 +831,7 @@ margin-top: 0rem;
               width: 155px;
             }
             .CSSgal {
-                      // margin-top:2rem ;
+              // margin-top:2rem ;
               height: 48vh;
               .slider {
                 // margin-top:2rem ;
@@ -759,11 +848,11 @@ margin-top: 0rem;
       }
     }
   }
-    @include responsive($xxl) {
+  @include responsive($xxl) {
     .product-list {
       margin-top: 13rem;
-      
-height: 35rem;
+
+      height: 35rem;
       .container {
         .product-wrapper {
           .single-card {
@@ -792,16 +881,15 @@ height: 35rem;
   }
   .equipments {
     margin-top: 8rem;
-      margin-bottom: 8rem;
+    margin-bottom: 8rem;
     position: relative;
-    .decor{
+    .decor {
       position: absolute;
       width: 90rem;
       height: 50rem;
-    object-fit: cover;
+      object-fit: cover;
     }
     .container {
-   
       h2 {
         @extend .title;
         text-align: center;
@@ -810,12 +898,12 @@ height: 35rem;
       p {
         @extend .text;
         text-align: center;
-        color:$M-red;
+        color: $M-red;
         margin-top: 0.4rem;
         font-size: 0.8rem;
       }
       .wrapper {
-      z-index: 999;
+        z-index: 999;
         .equi {
           display: grid;
           place-items: center;
@@ -852,7 +940,6 @@ height: 35rem;
             .equi-card {
               padding: 1rem;
             }
-
           }
         }
       }
@@ -866,12 +953,12 @@ height: 35rem;
           display: grid;
           align-items: center;
           grid-template-columns: 1fr 1fr 1fr 1fr;
-          .equi{
-            .equi-card{
-               width: 13rem;
-            height: 13rem;
+          .equi {
+            .equi-card {
+              width: 13rem;
+              height: 13rem;
             }
-            .rectangle{
+            .rectangle {
               width: 13rem;
             }
           }
@@ -947,7 +1034,7 @@ height: 35rem;
     }
   }
 
-    .map {
+  .map {
     margin-top: 8rem;
     overflow: hidden;
     // padding-bottom: 5.06rem;
@@ -974,7 +1061,7 @@ height: 35rem;
   // @include responsive($lg) {
   //   height: 81.94rem;
   // }
-  
+
   .show-links,
   .show-links2 {
     display: flex !important;
@@ -988,6 +1075,93 @@ height: 35rem;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     z-index: 999999;
     color: $M-blue;
+  }
+  .history {
+    margin-top: 8rem;
+    .container {
+      .history-box {
+        margin-top: 3rem;
+        border: 2px solid $M-blue;
+        padding: 1rem;
+        position: relative;
+        h4 {
+          background: $M-white;
+          padding: 0.4rem;
+          width: 8rem;
+          margin-top: -2.3rem;
+          margin-left: 1rem;
+          color: $M-red;
+          @extend .h3;
+          font-size: 0.9rem;
+
+          line-height: 1.3rem;
+          font-weight: 600;
+          text-align: left;
+        }
+        .desc {
+          p {
+            margin-left: 1rem;
+            color: $M-blue;
+            @extend .title;
+            font-size: 0.9rem;
+            margin-top: 0.94rem;
+            line-height: 1.3rem;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+  @include responsive($md) {
+    .history {
+      .container {
+        .history-box {
+          padding: 3rem;
+          h4 {
+            padding: 0.6rem;
+            width: 8rem;
+            margin-top: -4.5rem;
+          }
+          .desc {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            img {
+              width: 20rem;
+              height: 20rem;
+              object-fit: cover;
+            }
+            p {
+              margin-top: 2rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  @include responsive($xl) {
+    .history {
+      .container {
+        .history-box {
+          margin-right: 5rem;
+          margin-left: 5rem;
+
+          .desc {
+            img {
+              width: 30rem;
+              height: 30rem;
+              object-fit: cover;
+            }
+            p {
+              padding: 2rem;
+              margin-right: 3rem;
+              margin-left: 3rem;
+              font-size: 1rem;
+            }
+          }
+        }
+      }
+    }
   }
 }
 </style>
@@ -1012,7 +1186,6 @@ export default {
       once: false,
       anchorPlacement: "top-bottom",
     });
-   
   },
 };
 </script>
