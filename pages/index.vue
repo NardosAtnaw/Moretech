@@ -6,7 +6,7 @@
         <div class="history-box">
           <h4>Who We Are</h4>
           <div class="desc">
-            <img src="../assets/Images/moretech building.jpg" alt="" />
+            <!-- <img src="../assets/Images/moretech building.jpg" alt="" /> -->
             <p>
               Moretch Industry PLC has been established in 2007 given that the
               owner deeply observed and identified the wider gap and hotspot
