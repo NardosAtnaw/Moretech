@@ -316,7 +316,7 @@ header {
         hr {
           margin: auto;
           margin-top: 0.5rem;
-          color: $M-white;
+          color: $M-red;
           border-style: solid;
           width: 2.35rem;
         }
@@ -334,7 +334,7 @@ header {
           padding: 1rem;
           width: 4rem;
           position: absolute;
-          top: 0rem;
+          top: 2rem;
           right: 0rem;
         }
         .nav-links {
