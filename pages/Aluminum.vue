@@ -11,7 +11,7 @@
       <div class="container">
         <div class="category">
           <h3 class="category-title">
-            samples of aluminium doors and windows constructed by the company
+           This are samples of aluminium doors and windows constructed by the company
             (moretech)
           </h3>
           <div class="wrapper">
