@@ -1,7 +1,5 @@
 <template>
-
   <header id="app" class="header">
-
     <img class="header-cover" :src="src" alt="" />
     <nav class="nav" id="nav">
       <div class="container banner">
@@ -13,19 +11,19 @@
           <hr />
           <hr />
         </div>
-         <div class="links-container">
+        <div class="links-container">
           <img src="../assets/Icons/close.svg" class="close-btn" alt="" />
           <ul class="nav-links">
             <li><a href="/" class="scroll-link"> Home</a></li>
             <li class="drop-down2">
-              <a href="education" class="scroll-link drop-down-link2">Products</a>
+              <a href="education" class="scroll-link drop-down-link2"
+                >Products</a
+              >
               <ul class="sublinks2">
-                 <div class="corp-link2">
+                <div class="corp-link2">
                   <li>
-                    <a href="education">
-                      Educational Equipment</a
-                    >
-                    <ul>
+                    <a href="education"> Educational Laboratory Equipment</a>
+                    <!-- <ul>
                        <li>
                     <a href="equipments">
                       Biology</a
@@ -61,25 +59,31 @@
                    Electrical engineering equipment </a
                     >
                   </li>
-                    </ul>
+                    </ul> -->
                   </li>
-                     <li>
+                  <li>
                     <a href="labratory"
-                      >Laboratory Chemicals Product </a
-                    >
+                      >Laboratory Equipment for Engineering and Vocational
+                      Teaching Institutes
+                    </a>
                   </li>
                   <li>
                     <a href="Analytical"
-                      >Research and Quality Control Equipments</a
+                      >Research and Quality Control Equipment</a
                     >
                   </li>
-               
+
                   <li>
-                    <a href="agricultural">Agriculture Equipment </a>
+                    <a href="agricultural"
+                      >Modern Agricultural Equipment and Machineries</a
+                    >
                   </li>
 
-             
-                  <li><a href="Aluminum">Aluminum doors and windows</a></li>
+                  <li>
+                    <a href="Aluminum"
+                      >Construction of Aluminium Doors and Windows</a
+                    >
+                  </li>
                 </div>
               </ul>
             </li>
@@ -375,11 +379,10 @@ header {
                   gap: 0.5rem;
                   color: red;
                   transition: color 0.2s linear;
-                    &:hover {
-                  color: $M-red;
-                  font-size: 1.13rem;
-               
-                }
+                  &:hover {
+                    color: $M-red;
+                    font-size: 1.13rem;
+                  }
                   img {
                     width: 0.5rem;
                   }
@@ -387,7 +390,6 @@ header {
               }
             }
           }
-        
         }
       }
     }
@@ -628,7 +630,7 @@ header {
                 display: flex;
                 background: $M-green;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-              
+
                 display: none;
                 h3 {
                   font-size: 1.13rem;
@@ -649,10 +651,10 @@ header {
                 position: absolute;
                 width: auto;
                 display: flex;
-                background:$M-green;
+                background: $M-green;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-          
-                margin-top: -.5rem;
+
+                margin-top: -0.5rem;
                 display: none;
                 h3 {
                   font-size: 1.13rem;
@@ -698,9 +700,8 @@ header {
         height: 11.5vh;
         .wrapper {
           .moto {
-              margin-left: 5rem;
+            margin-left: 5rem;
             p {
-            
               margin-top: 0.6rem;
             }
           }

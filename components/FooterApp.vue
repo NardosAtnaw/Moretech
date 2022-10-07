@@ -21,7 +21,9 @@
           <div class="location">
             <a
               href="https://www.google.com/maps/dir//Moretech+industry+PLC,+Ethiopia,+Yeka+subcity+Woreda+07+COMOROS+STREET+Block+no+78%2F37,+Addis+Ababa,+Ethiopia/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x164b8fbd21b0901b:0x8b85b87620e90d53?sa=X&ved=2ahUKEwjuqL7E1ff1AhVMSvEDHeQHDScQ48ADegQIAhBT"
-              >Megenagna, Addis Ababa, Ethiopia</a
+            >
+              Yeka subsicty,wereda 07,COMOROS AVE B78.32 Kebena, opposite to the
+              Kenya Embassy</a
             >
           </div>
         </div>
@@ -145,6 +147,8 @@ footer {
         margin-top: 5rem;
         margin-left: 2rem;
         margin-right: 2rem;
+        display: grid;
+        place-items: center;
         h2 {
           @extend .text;
 

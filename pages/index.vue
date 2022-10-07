@@ -4,32 +4,42 @@
     <section class="history">
       <div class="container">
         <div class="history-box">
-          <h4>Who We Are</h4>
+          <!-- <h4>Who We Are</h4> -->
           <div class="desc">
             <!-- <img src="../assets/Images/moretech building.jpg" alt="" /> -->
             <p>
-              Moretch Industry PLC has been established in 2007 given that the
-              owner deeply observed and identified the wider gap and hotspot
-              problem of aluminum supplies in construction industry sector.<br />
-              As a means of satisfying the greater and continual demand of
-              aluminum in the construction of building; moretech has decided and
-              taken a determination to establish a manufacturer and assembly
-              plant of aluminum profile with an outlay of 1.8 million ETB in
-              that year. <br /><br />
-              After getting lessons and experiences from the successful
-              achievement in the aluminum sector of the business through
-              recruiting of potential and well trained technical and
-              professional employees; the company showed progress and the scale
-              of market and popularity has got highest and finally included the
-              supply of dairy, poultry, beekeeping, fishery and laboratory
-              equipment and chemicals which at the recent becomes one of the
-              potentially built and leading companies in the country in the
-              successful distribution of these equipment.<br />
-              Hence, since that; we are always working with greatest
-              determination in satisfying our national and international
-              customers through the supply of quality and up-to-date laboratory
-              equipment and chemicals.
+              Moretech industry PLC is established in 2007 and where the owner
+              was forced and initiated to establish the company following the
+              fast growth of the country due to advancement in research that
+              triggered to high demand for laboratory equipment and chemicals
+              supply by various universities, colleges, research centers,
+              factories, standard agencies and various private companies of the
+              country. <br /><br />
+              Moretech Industry PLC is one of the leading suppliers of
+              Laboratory Equipment, Chemicals and Environmental protection and
+              Agricultural inputs in Ethiopia .With greatest influence in
+              quality products supply, built up with well-experienced
+              professional and technical staff. We have large stocks Laboratory
+              equipment, Chemicals, water testing kits and consumables,
+              Agricultural machineries for Poultry Bee and Diary production. We
+              have participated on local and International bids ,won and
+              supplied successfully to Universities , Research organizations,
+              Quality Control labs, WASH projects, International and local NGOs
+              Commercial farms and individual users. <br /><br />
+              We are working with world renowned Companies and represent them
+              exclusively to Ethiopian Market and the following are some to
+              mention.
             </p>
+          </div>
+        </div>
+        <div class="parteners-logo">
+          <div class="wrapper">
+            <img src="../assets/Images/plogo.png" alt="" />
+
+            <img src="../assets/Images/plogo2.png" alt="" />
+            <img src="../assets/Images/plogo3.jpg" alt="" />
+            <img src="../assets/Images/plogo4.jpg" alt="" />
+            <img src="../assets/Images/plogo5.jpg" alt="" />
           </div>
         </div>
       </div>
@@ -423,7 +433,7 @@
         <div class="location">
           <div class="map-responsive">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.7913028528865!2d38.78135341478628!3d8.991342293546982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b85f52615ebdf%3A0x6a0949274cd951c7!2sTropical%20Mall!5e0!3m2!1sen!2sus!4v1643637951202!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.3454806684717!2d38.78044861533832!3d9.032215191424143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b8fbd21b0901b%3A0x8b85b87620e90d53!2sMoretech%20industry%20PLC%2C%20Ethiopia!5e0!3m2!1sen!2sru!4v1665126860490!5m2!1sen!2sru"
               style="border: 0"
               allowfullscreen=""
               loading="lazy"
@@ -1077,30 +1087,24 @@
     color: $M-blue;
   }
   .history {
-    margin-top: 8rem;
+    margin-top: 5rem;
     .container {
       .history-box {
-        margin-top: 3rem;
-        border: 2px solid $M-blue;
-        padding: 1rem;
+        // margin-top: 3rem;
+        // border: 2px solid $M-blue;
+        // padding: 1rem;
         position: relative;
         h4 {
-          background: $M-white;
-          padding: 0.4rem;
-          width: 8rem;
-          margin-top: -2.3rem;
-          margin-left: 1rem;
+          text-align: center;
           color: $M-red;
           @extend .h3;
           font-size: 0.9rem;
-
           line-height: 1.3rem;
           font-weight: 600;
           text-align: left;
         }
         .desc {
           p {
-            margin-left: 1rem;
             color: $M-blue;
             @extend .title;
             font-size: 0.9rem;
@@ -1110,17 +1114,39 @@
           }
         }
       }
+      .parteners-logo {
+        margin-top: 3rem;
+        display: grid;
+        place-content: center;
+        .wrapper {
+          display: grid;
+          place-items: center;
+
+          @include responsive($lg) {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+          }
+          img {
+            width: 10rem;
+            object-fit: cover;
+            margin-top: 2rem;
+            @include responsive($lg) {
+              margin-top: 0rem;
+              width: 10rem;
+            }
+          }
+        }
+      }
     }
   }
   @include responsive($md) {
     .history {
       .container {
         .history-box {
-          padding: 3rem;
           h4 {
-            padding: 0.6rem;
-            width: 8rem;
-            margin-top: -4.5rem;
+            font-size: 2rem;
+            line-height: 2rem;
           }
           .desc {
             display: flex;
@@ -1143,9 +1169,6 @@
     .history {
       .container {
         .history-box {
-          margin-right: 5rem;
-          margin-left: 5rem;
-
           .desc {
             img {
               width: 30rem;

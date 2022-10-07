@@ -9,27 +9,38 @@
           <div class="desc">
             <img src="../assets/Images/moretech building.jpg" alt="" />
             <p>
-              Moretch Industry PLC has been established in 2007 given that the
-              owner deeply observed and identified the wider gap and hotspot
-              problem of aluminum supplies in construction industry sector.<br />
-              As a means of satisfying the greater and continual demand of
-              aluminum in the construction of building; moretech has decided and
-              taken a determination to establish a manufacturer and assembly
-              plant of aluminum profile with an outlay of 1.8 million ETB in
-              that year. <br /><br />
-              After getting lessons and experiences from the successful
-              achievement in the aluminum sector of the business through
-              recruiting of potential and well trained technical and
-              professional employees; the company showed progress and the scale
-              of market and popularity has got highest and finally included the
-              supply of dairy, poultry, beekeeping, fishery and laboratory
-              equipment and chemicals which at the recent becomes one of the
-              potentially built and leading companies in the country in the
-              successful distribution of these equipment.<br />
-              Hence, since that; we are always working with greatest
-              determination in satisfying our national and international
-              customers through the supply of quality and up-to-date laboratory
-              equipment and chemicals.
+              Moretech industry PLC is established in 2007 and where the owner
+              was forced and initiated to establish the company following the
+              fast growth of the country due to advancement in research that
+              triggered to high demand for laboratory equipment and chemicals
+              supply by various universities, colleges, research centers,
+              factories, standard agencies and various private companies of the
+              country. <br /><br />
+              Moretech Industry PLC is one of the leading suppliers of
+              Laboratory Equipment, Chemicals and Environmental protection and
+              Agricultural inputs in Ethiopia .With greatest influence in
+              quality products supply, built up with well-experienced
+              professional and technical staff. We have large stocks Laboratory
+              equipment, Chemicals, water testing kits and consumables,
+              Agricultural machineries for Poultry Bee and Diary production. We
+              have participated on local and International bids ,won and
+              supplied successfully to Universities , Research organizations,
+              Quality Control labs, WASH projects, International and local NGOs
+              Commercial farms and individual users. <br /><br />
+              We are working with world renowned Companies and represent them
+              exclusively to Ethiopian Market and the following are some to
+              mention.<br /><br />
+              Wagtech Projets Ltd, UK<br />
+              Trace2o, UK<br />
+              Himedia Laboratories Ltd, India<br />
+              Xian Siway Scientific Instruments Supply ltd, China<br />
+              Milktronik, Bulgaria<br />
+              Draminiski,Poland <br /><br />
+              Hence; Moretech industry PLC recently showing a sound
+              progressivity and improvement, infuses state-of-the-art-
+              technologies in its marketing systems, always creates new
+              interventions with competitive specialties and gives rise to level
+              of greatest popularity all over the country.
             </p>
           </div>
         </div>

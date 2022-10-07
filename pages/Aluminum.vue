@@ -1,40 +1,26 @@
 <template>
   <div class="body-main">
-    <HeaderPages
-      :src="src"
-      headline="Aluminum Door and Widow Works "
-    />
+    <HeaderPages :src="src" headline="Aluminum Door and Widow Works " />
     <section class="introduction">
       <div class="container">
-        <h4>
-         Aluminum Door and Widow Works  
-        </h4>
-        <p>
-        More specialized aluminum door andwidow works   instruments.  
-        </p>
+        <h4>Aluminum Door and Widow Works</h4>
+        <p>More specialized aluminum door andwidow works instruments.</p>
       </div>
     </section>
     <section class="alist">
       <div class="container">
-    
         <div class="category">
-    
-          <p>
-            Since the advancement of science across the world, practical
-            supported biological teachings are undertaken with the aid of latest
-            laboratory equipment to relate theoretical ideas with their
-            practicalities.
-          </p>
-
-          <h3 class="category-title">Tools</h3>
+          <h3 class="category-title">
+            samples of aluminium doors and windows constructed by the company
+            (moretech)
+          </h3>
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img src="../assets/Images/Aluminum door.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Aluminum door and widow works  
-</h2>
+                <h2>Aluminum door and widow works</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -42,7 +28,7 @@
                 <img src="../assets/Images/Aluminum door 2.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Aluminum door and widow works </h2>
+                <h2>Aluminum door and widow works</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -50,14 +36,11 @@
                 <img src="../assets/Images/Aluminum door 3.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Aluminum door and widow works </h2>
+                <h2>Aluminum door and widow works</h2>
               </div>
             </div>
-            
           </div>
-          
         </div>
-       
       </div>
     </section>
     <ContactApp />
@@ -67,16 +50,16 @@
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
-import axios from 'axios';
+import axios from "axios";
 import HeaderPages from "../components/HeaderPages.vue";
 
 const config = {
-        headers: {
-          Accept: "application/json",
-          "Access-Control-Allow-Origin": "*",
-          "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
-        },
-      };
+  headers: {
+    Accept: "application/json",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
+  },
+};
 export default {
   components: {
     HeaderPages,
@@ -87,16 +70,22 @@ export default {
     };
   },
   methods: {
-     async fetchData() {
-        await axios.post('/api/moretech/',{
-          action: 'fetch',
-
-        },config).then(res => {
-          console.log(res.data);      
-        }).catch(err => {
-          console.log(err);
+    async fetchData() {
+      await axios
+        .post(
+          "/api/moretech/",
+          {
+            action: "fetch",
+          },
+          config
+        )
+        .then((res) => {
+          console.log(res.data);
         })
-     }
+        .catch((err) => {
+          console.log(err);
+        });
+    },
   },
   mounted() {
     AOS.init({
@@ -108,8 +97,8 @@ export default {
     });
   },
   created() {
-    this.fetchData()
-  }
+    this.fetchData();
+  },
 };
 </script>
 <style lang="scss">
@@ -215,21 +204,21 @@ export default {
             place-items: center;
             margin-top: 2rem;
             .equi-card {
-                 display: grid;
-            place-items: center;
+              display: grid;
+              place-items: center;
               padding: 1.5rem;
               width: 10rem;
               height: 10rem;
-             
+
               box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
-              img{
+              img {
                 width: 10rem;
-              height: 10rem;
-              object-fit: cover;
-              @include responsive($xl){
-                      width: 20rem;
-              height: 15rem;
-              }
+                height: 10rem;
+                object-fit: cover;
+                @include responsive($xl) {
+                  width: 20rem;
+                  height: 15rem;
+                }
               }
             }
             .rectangle {
@@ -265,27 +254,26 @@ export default {
               place-items: center;
               margin-top: 2rem;
               .equi-card {
-                      display: grid;
+                display: grid;
                 align-items: center;
                 padding: 1rem;
                 width: 15rem;
                 height: 16.5rem;
-                    @include responsive($xl){
-                      width: 20rem;
-              height: 20rem;
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                  height: 20rem;
+                }
                 box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
               }
               .rectangle {
                 height: 2rem;
                 width: 15rem;
-           background: $M-green;
+                background: $M-green;
                 display: grid;
                 place-items: center;
-                      @include responsive($xl){
-                      width: 20rem;
-      
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                }
                 h2 {
                   color: #fff;
                   font-size: 1rem;

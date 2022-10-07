@@ -439,8 +439,8 @@
             </div>
           </div>
           <h3>
-            <a href="https://www.wagtechprojects.com/;http://www.trace2o.com/">
-              Click here to see wagtech projects
+            <a href="https://www.wagtechprojects.com/products-services">
+              Click here to see Wagtech Projects
             </a>
           </h3>
 
@@ -599,7 +599,7 @@
                 <img src="../assets/Images/Analytical/desiccator.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>desiccator</h2>
+                <h2>Desiccator</h2>
               </div>
             </div>
             <div
@@ -677,18 +677,7 @@
                 <h2>Gel documentation and imaging system</h2>
               </div>
             </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/Analytical/desiccator.jpg" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>desiccator</h2>
-              </div>
-            </div>
+
             <div
               class="equi"
               data-aos="fade-zoom-in"

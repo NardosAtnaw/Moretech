@@ -1,8 +1,7 @@
 <template>
   <header id="app" class="header">
-   
     <img class="header-cover" :src="src" alt="" />
-   
+
     <nav class="nav" id="nav">
       <div class="container banner">
         <div class="logo">
@@ -18,14 +17,14 @@
           <ul class="nav-links">
             <li><a href="/" class="scroll-link"> Home</a></li>
             <li class="drop-down2">
-              <a href="education" class="scroll-link drop-down-link2">Products</a>
+              <a href="education" class="scroll-link drop-down-link2"
+                >Products</a
+              >
               <ul class="sublinks2">
-                 <div class="corp-link2">
+                <div class="corp-link2">
                   <li>
-                    <a href="education">
-                      Educational Equipment</a
-                    >
-                    <ul>
+                    <a href="education"> Educational laboratory equipment</a>
+                    <!-- <ul>
                        <li>
                     <a href="equipments">
                       Biology</a
@@ -61,25 +60,31 @@
                    Electrical engineering equipment </a
                     >
                   </li>
-                    </ul>
+                    </ul> -->
                   </li>
-                     <li>
+                  <li>
                     <a href="labratory"
-                      >Laboratory Chemicals Product </a
+                      >Laboratory Equipment for Engineering and Vocational
+                      Teaching Institutes</a
                     >
                   </li>
                   <li>
                     <a href="Analytical"
-                      >Research and Quality Control Equipments</a
+                      >Research and Quality Control Equipment</a
                     >
                   </li>
-               
+
                   <li>
-                    <a href="agricultural">Agriculture Equipment </a>
+                    <a href="agricultural"
+                      >Modern Agricultural Equipment and Machineries
+                    </a>
                   </li>
 
-             
-                  <li><a href="Aluminum">Aluminum doors and windows</a></li>
+                  <li>
+                    <a href="Aluminum"
+                      >Construction of Aluminium Doors and Windows </a
+                    >
+                  </li>
                 </div>
               </ul>
             </li>
@@ -118,9 +123,10 @@
             data-aos-anchor-placement="top-center"
           >
             <h2>WE ARE MORETECH</h2>
-            <p>
-              Quality and high-standard laboratory equipment are available from
-              us.
+
+            <p class="red-moto">
+              Choosing Moretch Industry PLC is Choosing the Best Quality
+              Products!!
             </p>
           </div>
         </div>
@@ -131,38 +137,34 @@
         <div class="frist-line"></div>
         <ul class="socials">
           <li>
-         <a href="">   <img
-              class="social-img"
-              src="../assets/Icons/facebook3.svg"
-              alt=""
+            <a href="">
+              <img
+                class="social-img"
+                src="../assets/Icons/facebook3.svg"
+                alt=""
             /></a>
           </li>
           <li>
-          <a href="">  <img
-              class="social-img"
-              src="../assets/Icons/linkedin3.svg"
-              alt=""
+            <a href="">
+              <img
+                class="social-img"
+                src="../assets/Icons/linkedin3.svg"
+                alt=""
             /></a>
           </li>
           <li>
-          <a href="">  <img
-              class="social-img"
-              src="../assets/Icons/google3.svg"
-              alt=""
+            <a href="">
+              <img class="social-img" src="../assets/Icons/google3.svg" alt=""
             /></a>
           </li>
           <li>
-          <a href="">  <img
-              class="social-img"
-              src="../assets/Icons/twitter3.svg"
-              alt=""
+            <a href="">
+              <img class="social-img" src="../assets/Icons/twitter3.svg" alt=""
             /></a>
           </li>
           <li>
-           <a href=""> <img
-              class="social-img"
-              src="../assets/Icons/youtube3.svg"
-              alt=""
+            <a href="">
+              <img class="social-img" src="../assets/Icons/youtube3.svg" alt=""
             /></a>
           </li>
         </ul>
@@ -176,7 +178,7 @@
 <script>
 export default {
   props: ["src"],
-   mounted() { 
+  mounted() {
     const dropDown = document.querySelector(".drop-down-link");
     const dropDownFull = document.querySelector(".nav-links");
     const sublinks = document.querySelector(".sublinks");
@@ -238,10 +240,10 @@ export default {
 
       if (navHeight < scrollHeight) {
         nav.classList.add("fixed");
-  //       logo.innerHTML = `<picture>
-  //   <source media="(min-width:650px)" srcset=" ">
-  //   <img src="../assets/Icons/Logo.svg " class=" " alt=" " />
-  // </picture>`;
+        //       logo.innerHTML = `<picture>
+        //   <source media="(min-width:650px)" srcset=" ">
+        //   <img src="../assets/Icons/Logo.svg " class=" " alt=" " />
+        // </picture>`;
 
         if (window.innerWidth > 768) {
           scrollLink.forEach((link) => {
@@ -271,12 +273,15 @@ export default {
 .show-links2 {
   display: flex !important;
 }
+.red-moto {
+  color: $M-red;
+}
 .fixed {
   position: fixed !important;
   top: 0;
   width: 100%;
   padding-bottom: 0.3rem;
-  background:  $M-white;
+  background: $M-white;
   // box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
   z-index: 999999;
   // color: $M-green;
@@ -355,12 +360,12 @@ header {
             .scroll-link {
               @extend .text-medium;
               font-size: 1rem;
-              color:red;
+              color: red;
             }
             .sublinks,
             .sublinks2 {
               margin: 1rem 0;
-              margin-top: -.2rem;
+              margin-top: -0.2rem;
               color: $M-brown;
               h3 {
                 font-family: "medium bt";
@@ -595,7 +600,7 @@ header {
                 display: flex;
                 background: $M-green;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-            
+
                 display: none;
                 h3 {
                   font-size: 1.13rem;
@@ -619,7 +624,7 @@ header {
                 display: flex;
                 background: $M-green;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-           
+
                 display: none;
                 h3 {
                   font-size: 1.13rem;
