@@ -1,29 +1,31 @@
 <template>
   <div class="body-main">
-    <HeaderPages
-      :src="src"
-      headline="Laboratory Chemicals Product Range"
-    />
+    <HeaderPages :src="src" headline="Laboratory Chemicals Product Range" />
     <section class="introduction">
       <div class="container">
         <h4>
-         
-Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, biological substances such as; hormones, enzymes, agars, etc)
-
+          Laboratory Chemicals Product Range: (reagents, culture media/tissues
+          culture, biological substances such as; hormones, enzymes, agars, etc)
         </h4>
         <p>
-          Range   of laboratory   chemicals   such as; plant tissue culture, molecular biology, animal cell culture, Expert teaching aids, laboratory aids and   equipment, microbiology and   others   have   been getting   significant acceptance   in the 21th     century   because of   the advancement of biotechnological   researches.  Observing the real situation of the wide gaps present in our country and the correspondence increment of their demand; our company is working much   on importation and supply of laboratory chemicals, reagents, tissue cultures, culture medias   and others profoundly
+          Range of laboratory chemicals such as; plant tissue culture, molecular
+          biology, animal cell culture, Expert teaching aids, laboratory aids
+          and equipment, microbiology and others have been getting significant
+          acceptance in the 21th century because of the advancement of
+          biotechnological researches. Observing the real situation of the wide
+          gaps present in our country and the correspondence increment of their
+          demand; our company is working much on importation and supply of
+          laboratory chemicals, reagents, tissue cultures, culture medias and
+          others profoundly
         </p>
       </div>
     </section>
     <section class="alist">
       <div class="container">
-        
         <div class="category">
-          <h4>Ready   prepared media</h4>
+          <h4>Ready Prepared Media</h4>
           <p></p>
 
-        
           <div class="wrapper">
             <div
               class="equi"
@@ -34,7 +36,7 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
                 <img src="../assets/Images/Laboratory/mediaplate.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Prepared media plates </h2>
+                <h2>Prepared Media Plates</h2>
               </div>
             </div>
             <div
@@ -43,15 +45,19 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/media plate2.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/media plate2.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Prepared media plates </h2>
+                <h2>Prepared Media Plates</h2>
               </div>
             </div>
-          
           </div>
-          <h3 class="category-title">Dehydrated culture media bases and supplements</h3>
+          <h3 class="category-title">
+            Dehydrated Culture Media Bases and Supplements
+          </h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -59,10 +65,13 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/vegeatble protein bsed media.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/vegeatble protein bsed media.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Animal protein based culture media</h2>
+                <h2>Animal Protein Based Culture Media</h2>
               </div>
             </div>
             <div
@@ -71,10 +80,13 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/antibiotic assay.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/antibiotic assay.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>⦁	vegetable protein based media (HiVeg media)  </h2>
+                <h2>Vegetable Protein Based Media (HiVeg media)</h2>
               </div>
             </div>
             <div
@@ -83,10 +95,13 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/media supplements.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/media supplements.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>antibiotic assay media</h2>
+                <h2>Antibiotic Assay Media</h2>
               </div>
             </div>
             <div
@@ -95,18 +110,20 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/antimicrobial.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/antimicrobial.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Media supplements 
-</h2>
+                <h2>Media Supplements</h2>
               </div>
             </div>
           </div>
         </div>
 
         <div class="category">
-          <h4>Antimicrobial susceptibility systems </h4>
+          <h4>Antimicrobial Susceptibility Systems</h4>
           <p></p>
 
           <h3 class="category-title"></h3>
@@ -117,7 +134,10 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/bacteriological aids.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/bacteriological aids.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
                 <h2>Antibacterial</h2>
@@ -129,7 +149,10 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/discs for cabonhydrate.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/discs for cabonhydrate.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
                 <h2>Antibacterial</h2>
@@ -148,7 +171,7 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               </div>
             </div>
           </div>
-          <h3 class="category-title">Bacteriological differentiation aids </h3>
+          <h3 class="category-title">Bacteriological Differentiation Aids</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -156,10 +179,13 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/cellculture media.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/cellculture media.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Discs for carbohydrate fermentation test</h2>
+                <h2>Discs for Carbohydrate Fermentation Test</h2>
               </div>
             </div>
             <div
@@ -168,17 +194,17 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/staining kits for cytology.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/staining kits for cytology.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Discs for carbohydrate fermentation test</h2>
-                
+                <h2>Discs for Carbohydrate Fermentation Test</h2>
               </div>
             </div>
-            
-            
           </div>
-               <h3 class="category-title">Cell culture media </h3>
+          <h3 class="category-title">Cell Culture Media</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -186,10 +212,13 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/readymade indicators.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/readymade indicators.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Staining kits for cytology</h2>
+                <h2>Staining Kits for Cytology</h2>
               </div>
             </div>
             <div
@@ -201,8 +230,7 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
                 <img src="../assets/Images/Laboratory/readymade 2.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Staining kits for cytology </h2>
-                
+                <h2>Staining Kits for Cytology</h2>
               </div>
             </div>
             <div
@@ -211,11 +239,13 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/readymade strains for bacteria.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/readymade strains for bacteria.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Readymade strains for bacteria and bovine cells in milk    </h2>
-                
+                <h2>Readymade Strains for Bacteria and Bovine Cells in Milk</h2>
               </div>
             </div>
             <div
@@ -224,13 +254,16 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/readmade strains for bovine.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/readmade strains for bovine.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Readymade strains for bacteria and bovine cells in milk  </h2>
-                
+                <h2>Readymade Strains for Bacteria and Bovine Cells in Milk</h2>
               </div>
-            </div><div
+            </div>
+            <div
               class="equi"
               data-aos="fade-zoom-in"
               data-aos-anchor-placement="top-center"
@@ -239,16 +272,12 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
                 <img src="../assets/Images/Laboratory/readymade 2.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Staining kits for cytology </h2>
-                
+                <h2>Staining Kits for Cytology</h2>
               </div>
-
-
-
             </div>
           </div>
 
-             <h3 class="category-title">Plant tissue culture  </h3>
+          <h3 class="category-title">Plant Tissue Culture</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -256,10 +285,13 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/phycology media.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/phycology media.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>phycology media (liquid sterile filtered)</h2>
+                <h2>Phycology Media (Liquid Sterile Filtered)</h2>
               </div>
             </div>
             <div
@@ -268,17 +300,19 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/liquid sterile filtered.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/liquid sterile filtered.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>phycology media (liquid sterile filtered) </h2>
-                
+                <h2>Phycology Media (Liquid Sterile Filtered)</h2>
               </div>
             </div>
-            
-            
           </div>
-              <h3 class="category-title">Molecular biology kits, chemicals, reagents & growth  </h3>
+          <h3 class="category-title">
+            Molecular Biology Kits, Chemicals, Reagents & Growth
+          </h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -286,18 +320,17 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/density gradient.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/density gradient.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Density gradient separation media </h2>
+                <h2>Density Gradient Separation Media</h2>
               </div>
             </div>
-          
-    
-               
-            
           </div>
-             <h3 class="category-title">Laboratory aids </h3>
+          <h3 class="category-title">Laboratory Aids</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -305,28 +338,30 @@ Laboratory Chemicals Product Range: (reagents, culture media/tissues culture, bi
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/sterile disposable petri plates.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/sterile disposable petri plates.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Sterile disposable petri plates </h2>
+                <h2>Sterile Disposable Petri Plates</h2>
               </div>
             </div>
-               <div
+            <div
               class="equi"
               data-aos="fade-zoom-in"
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/PCR tubes and plates.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/PCR tubes and plates.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>PCR tubes and plates  </h2>
+                <h2>PCR Tubes and Plates</h2>
               </div>
             </div>
-           
-               
-               
-            
           </div>
         </div>
       </div>
@@ -358,7 +393,6 @@ export default {
       once: false,
       anchorPlacement: "top-bottom",
     });
-    
   },
 };
 </script>
@@ -464,22 +498,22 @@ export default {
             display: grid;
             place-items: center;
             margin-top: 2rem;
-             .equi-card {
-                 display: grid;
-            place-items: center;
+            .equi-card {
+              display: grid;
+              place-items: center;
               padding: 1.5rem;
               width: 10rem;
               height: 10rem;
-             
+
               box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
-              img{
+              img {
                 width: 10rem;
-              height: 10rem;
-              object-fit: cover;
-              @include responsive($xl){
-                      width:15rem;
-              height: 15rem;
-              }
+                height: 10rem;
+                object-fit: cover;
+                @include responsive($xl) {
+                  width: 15rem;
+                  height: 15rem;
+                }
               }
             }
             .rectangle {
@@ -488,16 +522,14 @@ export default {
               background: $M-lightblue;
               display: grid;
               place-items: center;
-               @include responsive($xl){
-                      width: 15rem;
-     
+              @include responsive($xl) {
+                width: 15rem;
               }
               h2 {
                 color: #fff;
                 font-size: 0.8rem;
                 text-align: center;
               }
-
             }
           }
         }
@@ -508,7 +540,7 @@ export default {
     .alist {
       .container {
         .category {
-        .wrapper {
+          .wrapper {
             display: grid;
             align-items: center;
             grid-template-columns: 1fr 1fr;
@@ -517,27 +549,26 @@ export default {
               place-items: center;
               margin-top: 2rem;
               .equi-card {
-                      display: grid;
+                display: grid;
                 align-items: center;
                 padding: 1rem;
                 width: 15rem;
                 height: 16.5rem;
-                    @include responsive($xl){
-                      width: 20rem;
-              height: 20rem;
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                  height: 20rem;
+                }
                 box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
               }
               .rectangle {
                 height: 2rem;
                 width: 15rem;
-          background: $M-green;
+                background: $M-green;
                 display: grid;
                 place-items: center;
-                      @include responsive($xl){
-                      width: 20rem;
-      
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                }
                 h2 {
                   color: #fff;
                   font-size: 1rem;

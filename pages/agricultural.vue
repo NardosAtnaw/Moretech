@@ -52,12 +52,12 @@
                 <img src="../assets/Images/Laboratory/bee veil.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Bee   veil </h2>
+                <h2>Bee Veil </h2>
               </div>
             </div>
            
           </div>
-          <h3 class="category-title">Poultry production equipment </h3>
+          <h3 class="category-title">Poultry Production Equipment </h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -111,7 +111,7 @@
           </div>
         </div>
         <div class="category">
-          <h4>Dairy   production equipment and Milk   analyzing equipment </h4>
+          <h4>Dairy Production Equipment and Milk Analyzing Equipment </h4>
         
 
           <h3 class="category-title"></h3>
@@ -137,7 +137,7 @@
                 <img src="../assets/Images/Laboratory/milk collecting can.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Milk collecting can</h2>
+                <h2>Milk Collecting Can</h2>
               </div>
             </div>
             <div
@@ -149,7 +149,7 @@
                 <img src="../assets/Images/Laboratory/cream separator.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Cream separator</h2>
+                <h2>Cream Separator</h2>
               </div>
             </div>
                <div
@@ -161,7 +161,7 @@
                 <img src="../assets/Images/Laboratory/lactometer.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>lactometer</h2>
+                <h2>Lactometer</h2>
               </div>
             </div>
                <div
@@ -197,7 +197,7 @@
                 <img src="../assets/Images/Laboratory/milk refractometer.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Milk refractometer                                                                                                   </h2>
+                <h2>Milk Refractometer                                                                                                   </h2>
               </div>
             </div>
           </div>

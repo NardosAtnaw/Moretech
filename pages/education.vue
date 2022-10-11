@@ -2,13 +2,11 @@
   <div class="body-main">
     <HeaderPages
       :src="src"
-      headline="Educational Laboratory Equipment, Teaching aids, Chemicals and Models"
+      headline="Educational Laboratory Equipment, Teaching aids and Models"
     />
     <section class="introduction">
       <div class="container">
-        <h4>
-          Educational Laboratory Equipment, Teaching aids, Chemicals and Models
-        </h4>
+        <h4>Educational Laboratory Equipment, Teaching aids and Models</h4>
         <p>
           It is imperative for schools to have the latest and high-quality
           science lab supplies these days. Science is different from any other
@@ -30,8 +28,7 @@
     </section>
     <section class="alist">
       <div class="container">
-    
-        <div class="category"   >
+        <div class="category">
           <h4>Biology</h4>
           <p>
             Since the advancement of science across the world, practical
@@ -147,6 +144,353 @@
               </div>
               <div class="rectangle">
                 <h2>Ear Model</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="category">
+          <h4>Physics</h4>
+
+          <h3 class="category-title">Measurement</h3>
+          <div class="wrapper">
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/Tapemeter.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Tape meter</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/verniercaliper.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Vernier Caliper</h2>
+              </div>
+            </div>
+          </div>
+          <h3 class="category-title">Mechanics</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/Springbalance.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Spring Balance/Spring</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/pulleysetwithstand.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Pulley Set with Stand</h2>
+              </div>
+            </div>
+          </div>
+
+          <h3 class="category-title">Wave and Sound</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/Tuningfork.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Tuning Fork</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/Wavedemonstratingspring.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Wave Demonstrating Spring</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/acousticaltransmissionapparatus.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Acoustical Transmission Apparatus</h2>
+              </div>
+            </div>
+          </div>
+          <h3 class="category-title">Properties of Matter</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/Pascalslawapparatus.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Pascal`s Law Apparatus</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/hydraulicpressapparatus.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Hydraulic Press Apparatus</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/centrifugalwaterpumpmodel.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Centrifugal Water Pump Model</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/centrifugalwaterpumpmodel.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Buoyancy Theory Demonstrator</h2>
+              </div>
+            </div>
+          </div>
+
+          <h3 class="category-title">Wave and Sound</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/Tuningfork.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Tuning Fork</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/Wavedemonstratingspring.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Wave Demonstrating Spring</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/acousticaltransmissionapparatus.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Acoustical Transmission Apparatus</h2>
+              </div>
+            </div>
+          </div>
+          <h3 class="category-title">Electricity</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/magnetphotoelectricplate.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Magnet Photoelectric Plate</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/positivenegativechargetester.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Positive-Negative Charge Tester</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/VanDeGraf Generator.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Van De Graf Generator</h2>
+              </div>
+            </div>
+          </div>
+          <h3 class="category-title">Magnetism</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/magnetring.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Magnet Ring Set with Stand</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/primary-secondarycoil.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Primary-Secondary Coil</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/Ampereforcedemonstrator.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Ampere Force Demonstrator</h2>
+              </div>
+            </div>
+          </div>
+          <h3 class="category-title">Light and Optics</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/reflectionandrefractiontank.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Reflection and Refraction Tank</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/whitelightcompoanddisper.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>White Light Compo and Disper</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/EDU/advancedspectrometermodel.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Advanced Spectrometer Model</h2>
               </div>
             </div>
           </div>
@@ -318,21 +662,21 @@
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
-import axios from 'axios';
+import axios from "axios";
 import HeaderPages from "../components/HeaderPages.vue";
 
 const config = {
-        headers: {
-          Accept: "application/json",
-          "Access-Control-Allow-Origin": "*",
-          "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
-        },
-      };
+  headers: {
+    Accept: "application/json",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
+  },
+};
 export default {
-    data() {
+  data() {
     return {
       allData: [],
-      searchTerm: ''
+      searchTerm: "",
     };
   },
   components: {
@@ -344,16 +688,22 @@ export default {
     };
   },
   methods: {
-     async fetchData() {
-        await axios.post('https://moretechplc.com/api/',{
-          action: 'fetch',
-
-        },config).then(res => {
-          console.log(res.data);      
-        }).catch(err => {
-          console.log(err);
+    async fetchData() {
+      await axios
+        .post(
+          "https://moretechplc.com/api/",
+          {
+            action: "fetch",
+          },
+          config
+        )
+        .then((res) => {
+          console.log(res.data);
         })
-     }
+        .catch((err) => {
+          console.log(err);
+        });
+    },
   },
   mounted() {
     AOS.init({
@@ -365,8 +715,8 @@ export default {
     });
   },
   created() {
-    this.fetchData()
-  }
+    this.fetchData();
+  },
 };
 </script>
 <style lang="scss">
@@ -471,40 +821,38 @@ export default {
             display: grid;
             place-items: center;
             margin-top: 2rem;
-             .equi-card {
-                 display: grid;
-            place-items: center;
+            .equi-card {
+              display: grid;
+              place-items: center;
               padding: 1.5rem;
               width: 10rem;
               height: 10rem;
-             
+
               box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
-              img{
+              img {
                 width: 10rem;
-              height: 10rem;
-              object-fit: cover;
-              @include responsive($xl){
-                      width:15rem;
-              height: 15rem;
-              }
+                height: 10rem;
+                object-fit: cover;
+                @include responsive($xl) {
+                  width: 15rem;
+                  height: 15rem;
+                }
               }
             }
             .rectangle {
               height: 2rem;
               width: 10rem;
-            background: $M-green;
+              background: $M-green;
               display: grid;
               place-items: center;
-               @include responsive($xl){
-                      width: 15rem;
-     
+              @include responsive($xl) {
+                width: 15rem;
               }
               h2 {
                 color: #fff;
                 font-size: 0.8rem;
                 text-align: center;
               }
-
             }
           }
         }
@@ -527,27 +875,26 @@ export default {
               place-items: center;
               margin-top: 2rem;
               .equi-card {
-                      display: grid;
+                display: grid;
                 align-items: center;
                 padding: 1rem;
                 width: 15rem;
                 height: 16.5rem;
-                    @include responsive($xl){
-                      width: 20rem;
-              height: 20rem;
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                  height: 20rem;
+                }
                 box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
               }
               .rectangle {
                 height: 2rem;
                 width: 15rem;
-     
+
                 display: grid;
                 place-items: center;
-                      @include responsive($xl){
-                      width: 20rem;
-      
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                }
                 h2 {
                   color: #fff;
                   font-size: 1rem;

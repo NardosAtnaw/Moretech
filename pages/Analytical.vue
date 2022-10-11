@@ -88,7 +88,7 @@
                 <img src="../assets/Images/soil5.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Soil Conductivity/tem. Meter</h2>
+                <h2>Soil Conductivity/temperature Meter</h2>
               </div>
             </div>
             <div
@@ -127,7 +127,7 @@
                 <img src="../assets/Images/water2.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Imhoff cone standards</h2>
+                <h2>Imhoff Cone Standards</h2>
               </div>
             </div>
             <div
@@ -155,7 +155,7 @@
               </div>
             </div>
           </div>
-          <h3 class="category-title">Air quality analytical equipment</h3>
+          <h3 class="category-title">Air Quality Analytical Equipment</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -166,7 +166,7 @@
                 <img src="../assets/Images/Analytical/Air sampler.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Portable ambient air sampler</h2>
+                <h2>Portable Ambient Air Sampler</h2>
               </div>
             </div>
             <div
@@ -181,7 +181,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>airborne particulate monitor</h2>
+                <h2>Airborne Particulate Monitor</h2>
               </div>
             </div>
             <div
@@ -196,14 +196,14 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>air pollution test kit</h2>
+                <h2>Air Pollution Test Kit</h2>
               </div>
             </div>
           </div>
         </div>
 
         <div class="category">
-          <h4>Wagtecch projects (Trace2o) water quality testing products</h4>
+          <h4>Wagtecch Projects (Trace2O) Water Quality testing products</h4>
           <p></p>
 
           <h3 class="category-title"></h3>
@@ -359,7 +359,7 @@
         </div>
 
         <div class="category">
-          <h4>Wagtech projects(Trace2o) Heavy metal analytical instrument</h4>
+          <h4>Wagtech projects(Trace2O) Heavy metal analytical instrument</h4>
           <p></p>
           <h3 class="category-title"></h3>
           <div class="wrapper">
@@ -395,7 +395,7 @@
             </div>
           </div>
           <h3 class="category-title">
-            Wagtech projects (Trace2o) Agronomical instruments
+            Wagtech projects (Trace2O) Agronomical instruments
           </h3>
           <div class="wrapper">
             <div
@@ -434,7 +434,7 @@
                 <img src="../assets/Images/Analytical/AG31-300.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Hydrological monitoring Station AG31-300</h2>
+                <h2>Hydrological Monitoring Station AG31-300</h2>
               </div>
             </div>
           </div>
@@ -470,7 +470,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>scissors and forceps</h2>
+                <h2>Scissors and Forceps</h2>
               </div>
             </div>
             <div
@@ -485,7 +485,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>test tube racks</h2>
+                <h2>Test Tube Racks</h2>
               </div>
             </div>
           </div>
@@ -500,7 +500,7 @@
                 <img src="../assets/Images/glass3.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Erlenmeyer flask</h2>
+                <h2>Erlenmeyer Flask</h2>
               </div>
             </div>
             <div
@@ -512,7 +512,7 @@
                 <img src="../assets/Images/glass.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>narrow neck</h2>
+                <h2>Narrow Neck</h2>
               </div>
             </div>
             <div
@@ -524,11 +524,11 @@
                 <img src="../assets/Images/glass2.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>borosilicate graduated beaker</h2>
+                <h2>Borosilicate Graduated Beaker</h2>
               </div>
             </div>
           </div>
-          <h3 class="category-title">Dish and tube</h3>
+          <h3 class="category-title">Dish and Tube</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -542,7 +542,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Evaporating dishes</h2>
+                <h2>Evaporating Dishes</h2>
               </div>
             </div>
             <div
@@ -557,7 +557,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>reagent bottles</h2>
+                <h2>Reagent Bottles</h2>
               </div>
             </div>
             <div
@@ -572,7 +572,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>centrifuge tube</h2>
+                <h2>Centrifuge Tube</h2>
               </div>
             </div>
             <div
@@ -587,7 +587,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>fermentation tube</h2>
+                <h2>Fermentation Tube</h2>
               </div>
             </div>
             <div
@@ -614,11 +614,11 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>filter flask with upper side tube</h2>
+                <h2>Filter Flask with Upper Side Tube</h2>
               </div>
             </div>
           </div>
-          <h3 class="category-title">Life science Equipment</h3>
+          <h3 class="category-title">Life Science Equipment</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -632,7 +632,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>microplate reader</h2>
+                <h2>Microplate Reader</h2>
               </div>
             </div>
             <div
@@ -644,7 +644,7 @@
                 <img src="../assets/Images/Analytical/DNA thermal.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>DNA thermal cycler for DNA</h2>
+                <h2>DNA Thermal Cycler for DNA</h2>
               </div>
             </div>
             <div
@@ -659,7 +659,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Real- time RCR detection</h2>
+                <h2>Real-Time PCR Detection</h2>
               </div>
             </div>
             <div
@@ -674,7 +674,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Gel documentation and imaging system</h2>
+                <h2>Gel Documentation and Imaging System</h2>
               </div>
             </div>
 
@@ -687,7 +687,7 @@
                 <img src="../assets/Images/Analytical/gene gun.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Gene gun</h2>
+                <h2>Gene Gun</h2>
               </div>
             </div>
             <div
@@ -702,7 +702,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>colony counter</h2>
+                <h2>Colony Counter</h2>
               </div>
             </div>
           </div>
@@ -720,7 +720,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Table top High speed centrifuge</h2>
+                <h2>Table top High Speed Centrifuge</h2>
               </div>
             </div>
             <div
@@ -735,7 +735,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Rotary evaporator</h2>
+                <h2>Rotary Evaporator</h2>
               </div>
             </div>
             <div
@@ -750,7 +750,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>sample concentrator</h2>
+                <h2>Sample Concentrator</h2>
               </div>
             </div>
           </div>
@@ -765,7 +765,7 @@
                 <img src="../assets/Images/Analytical/HPLC.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>HPLC apparatus</h2>
+                <h2>HPLC Apparatus</h2>
               </div>
             </div>
             <div
@@ -784,7 +784,7 @@
               </div>
             </div>
           </div>
-          <h3 class="category-title">Laboratory equipment</h3>
+          <h3 class="category-title">Laboratory Equipment</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -798,7 +798,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Magnetic stirrer with heating</h2>
+                <h2>Magnetic Stirrer with Heating</h2>
               </div>
             </div>
             <div
@@ -813,7 +813,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Orbital shakers</h2>
+                <h2>Orbital Shakers</h2>
               </div>
             </div>
             <div
@@ -828,7 +828,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>oven- incubator (dual purpose)</h2>
+                <h2>Oven-Incubator (dual purpose)</h2>
               </div>
             </div>
             <div
@@ -843,7 +843,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Ultrasonic cleaner</h2>
+                <h2>Ultrasonic Cleaner</h2>
               </div>
             </div>
             <div
@@ -855,7 +855,7 @@
                 <img src="../assets/Images/Analytical/homogenizer.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>homogenizer</h2>
+                <h2>Homogenizer</h2>
               </div>
             </div>
             <div
@@ -870,11 +870,11 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>basic type peristaltic pump</h2>
+                <h2>Basic Type Peristaltic Pump</h2>
               </div>
             </div>
           </div>
-          <h3 class="category-title">Analytical equipment</h3>
+          <h3 class="category-title">Analytical Equipment</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -888,7 +888,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Inverted biological microscope</h2>
+                <h2>Inverted Biological Microscope</h2>
               </div>
             </div>
             <div
@@ -900,7 +900,7 @@
                 <img src="../assets/Images/Analytical/ion analyer.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Ion analyzer</h2>
+                <h2>Ion Analyzer</h2>
               </div>
             </div>
             <div
@@ -915,7 +915,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>atomic absorption flames spectrophotometer</h2>
+                <h2>Atomic Absorption Flames Spectrophotometer</h2>
               </div>
             </div>
             <div
@@ -930,8 +930,8 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>conductivity data</h2>
-                >
+                <h2>Conductivity Data</h2>
+            
               </div>
             </div>
             <div
@@ -946,7 +946,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>dissolved oxygen meter</h2>
+                <h2>Dissolved Oxygen Meter</h2>
               </div>
             </div>
             <div
@@ -961,11 +961,11 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>UV/Vis spectrophotometer</h2>
+                <h2>UV/Vis Spectrophotometer</h2>
               </div>
             </div>
           </div>
-          <h3 class="category-title">Work ware and safety</h3>
+          <h3 class="category-title">Work Ware and Safety</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -979,7 +979,7 @@
                 />
               </div>
               <div class="rectangle">
-                <h2>Biological safety cabinet II</h2>
+                <h2>Biological Safety Cabinet II</h2>
               </div>
             </div>
 
@@ -992,7 +992,7 @@
                 <img src="../assets/Images/Analytical/clean bench.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Clean bench</h2>
+                <h2>Clean Bench</h2>
               </div>
             </div>
           </div>

@@ -120,7 +120,7 @@
         </div>
       </div>
     </section>
-    <section class="testimonials">
+    <!-- <section class="testimonials">
       <div class="container">
         <h2>Testimonials</h2>
         <p>
@@ -184,7 +184,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <ContactApp />
     <FooterApp />

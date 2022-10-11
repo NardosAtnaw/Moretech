@@ -62,11 +62,11 @@
                     </ul> -->
                   </li>
                   <li>
-                    <a href="labratory"
-                      >Laboratory Equipment for Engineering and Vocational
-                      Teaching Institutes
+                    <a href="equipments">
+                      Laboratory Equipment for Engineering
                     </a>
                   </li>
+
                   <li>
                     <a href="Analytical"
                       >Research and Quality Control Equipment</a
@@ -74,11 +74,11 @@
                   </li>
 
                   <li>
-                    <a href="agricultural"
-                      >Modern Agricultural Equipment and Machineries</a
-                    >
+                    <a href="agricultural">Modern Agricultural Equipment </a>
                   </li>
-
+                  <li>
+                    <a href="labratory">Laboratory Chemicals </a>
+                  </li>
                   <li>
                     <a href="Aluminum"
                       >Construction of Aluminium Doors and Windows</a

@@ -1,18 +1,18 @@
 <template>
   <div class="body-main">
-    <HeaderPages :src="src" headline="Aluminum Door and Widow Works " />
+    <HeaderPages :src="src" headline="Aluminum Door and Window Works " />
     <section class="introduction">
       <div class="container">
-        <h4>Aluminum Door and Widow Works</h4>
-        <p>More specialized aluminum door andwidow works instruments.</p>
+        <h4>Aluminum Door and Window Works</h4>
+        <p>More specialized aluminum door and window works instruments.</p>
       </div>
     </section>
     <section class="alist">
       <div class="container">
         <div class="category">
           <h3 class="category-title">
-           This are samples of aluminium doors and windows constructed by the company
-            (moretech)
+            These are samples of aluminium doors and windows constructed by the
+            company (Moretech).
           </h3>
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
@@ -20,7 +20,7 @@
                 <img src="../assets/Images/Aluminum door.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Aluminum door and widow works</h2>
+                <h2>Aluminum Door and Window Works</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -28,7 +28,7 @@
                 <img src="../assets/Images/Aluminum door 2.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Aluminum door and widow works</h2>
+                <h2>Aluminum Door and Window Works</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -36,7 +36,7 @@
                 <img src="../assets/Images/Aluminum door 3.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Aluminum door and widow works</h2>
+                <h2>Aluminum Door and Window Works</h2>
               </div>
             </div>
           </div>

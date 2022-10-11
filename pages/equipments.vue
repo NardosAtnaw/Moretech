@@ -2,31 +2,43 @@
   <div class="body-main">
     <HeaderPages
       :src="src"
-      headline="Equipment for Teaching Institute  "
+      headline="Laboratory Equipment for Engineering and Vocational
+                      Teaching Institutes  "
     />
     <section class="introduction">
       <div class="container">
         <h4>
-        Equipment for Teaching Engineering and Vocational Training Institute
+          Laboratory Equipment for Engineering and Vocational Teaching
+          Institutes
         </h4>
         <p>
-       Advance learning at    universities     particularly in area of engineering   requires   very latest   instrumentations   to equip scholars and feed with   technical skills    that alleviate the current problem of industrial advancement.  Similar occasion in Ethiopia is observed   and this creates vital opportunities   for companies such as; Moretech Industry PLC to engage in the sector for importation   and supply of high quality laboratory and workshop equipment to those higher academic institutions   and related enterprises so as to narrow the scope scarcity.    
+          Advance learning at universities particularly in area of engineering
+          requires very latest instrumentations to equip scholars and feed with
+          technical skills that alleviate the current problem of industrial
+          advancement. Similar occasion in Ethiopia is observed and this creates
+          vital opportunities for companies such as; Moretech Industry PLC to
+          engage in the sector for importation and supply of high quality
+          laboratory and workshop equipment to those higher academic
+          institutions and related enterprises so as to narrow the scope
+          scarcity.
         </p>
       </div>
     </section>
     <section class="alist">
       <div class="container">
-       
         <div class="category">
-          <h4>Electrical engineering equipment </h4>
-      
+          <h4>Electrical Engineering Equipment</h4>
+
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/Equipment/petersern coil.jpg" alt="" />
+                <img
+                  src="../assets/Images/Equipment/petersern coil.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Petersen Coil input </h2>
+                <h2>Petersen Coil Input</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -34,41 +46,43 @@
                 <img src="../assets/Images/Equipment/VT load.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>VT  load                                                       </h2>
+                <h2>VT Load</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/Equipment/module for measuring.jpg" alt="" />
+                <img
+                  src="../assets/Images/Equipment/module for measuring.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>module for measuring the input                
-</h2>
+                <h2>Module for Measuring the Input</h2>
               </div>
             </div>
-            
           </div>
-         
-         
         </div>
-           <div class="category">
-          <h4>Mechanical engineering equipment </h4>
-      
+        <div class="category">
+          <h4>Mechanical Engineering Equipment</h4>
+
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img src="../assets/Images/Equipment/fatigue.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Fatigue testing spacemen                      </h2>
+                <h2>Fatigue Testing Spacemen</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/Equipment/torsion testing.jpg" alt="" />
+                <img
+                  src="../assets/Images/Equipment/torsion testing.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>torsion testing spacemen                                                                           </h2>
+                <h2>Torsion Testing Spacemen</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -76,51 +90,54 @@
                 <img src="../assets/Images/Equipment/rivet gun.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>rivet gun                 
-</h2>
+                <h2>Rivet Gun</h2>
               </div>
             </div>
-             <div class="equi" data-aos="fade-zoom-in">
+            <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/Equipment/machine brush.jpg" alt="" />
+                <img
+                  src="../assets/Images/Equipment/machine brush.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Machine brush                                                             
-</h2>
+                <h2>Machine Brush</h2>
               </div>
             </div>
-             <div class="equi" data-aos="fade-zoom-in">
+            <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img src="../assets/Images/Equipment/sheet metal.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>sheet metal divider                                         
-</h2>
+                <h2>Sheet Metal Divider</h2>
               </div>
             </div>
-            
           </div>
-         
-         
         </div>
         <div class="category">
-          <h4>Chemical engineering equipment </h4>
-      
+          <h4>Chemical Engineering Equipment</h4>
+
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/Equipment/laboratory furnace.jpg" alt="" />
+                <img
+                  src="../assets/Images/Equipment/laboratory furnace.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Laboratory   furnace                                                                      </h2>
+                <h2>Laboratory Furnace</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/Equipment/decanter centrifuge.jpg" alt="" />
+                <img
+                  src="../assets/Images/Equipment/decanter centrifuge.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>decanter centrifuge                                                                            </h2>
+                <h2>Decanter Centrifuge</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -128,36 +145,37 @@
                 <img src="../assets/Images/Equipment/benchtop.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Benchtop rapid extractor                                                             
-</h2>
-              </div>
-            </div>
-             <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/BOD tester.jpg" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2> BOD  tester                                                              
-</h2>
-              </div>
-            </div>
-               <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/magnetic agitator.jpg" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2> magnetic agitator                                                                               
-</h2>
+                <h2>Benchtop Rapid Extractor</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/Equipment/measuring bearer.jpg" alt="" />
+                <img src="../assets/Images/Equipment/BOD tester.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Measuring bearer                           
-                                                                
-</h2>
+                <h2>BOD Tester</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/Equipment/magnetic agitator.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Magnetic Agitator</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/Equipment/measuring bearer.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Measuring Bearer</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -165,16 +183,11 @@
                 <img src="../assets/Images/Equipment/stabilizer.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>stabilizer                            
-                                                                
-</h2>
+                <h2>Stabilizer</h2>
               </div>
             </div>
           </div>
-         
-         
         </div>
-
       </div>
     </section>
     <ContactApp />
@@ -184,16 +197,16 @@
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
-import axios from 'axios';
+import axios from "axios";
 import HeaderPages from "../components/HeaderPages.vue";
 
 const config = {
-        headers: {
-          Accept: "application/json",
-          "Access-Control-Allow-Origin": "*",
-          "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
-        },
-      };
+  headers: {
+    Accept: "application/json",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
+  },
+};
 export default {
   components: {
     HeaderPages,
@@ -204,16 +217,22 @@ export default {
     };
   },
   methods: {
-     async fetchData() {
-        await axios.post('/api/moretech/',{
-          action: 'fetch',
-
-        },config).then(res => {
-          console.log(res.data);      
-        }).catch(err => {
-          console.log(err);
+    async fetchData() {
+      await axios
+        .post(
+          "/api/moretech/",
+          {
+            action: "fetch",
+          },
+          config
+        )
+        .then((res) => {
+          console.log(res.data);
         })
-     }
+        .catch((err) => {
+          console.log(err);
+        });
+    },
   },
   mounted() {
     AOS.init({
@@ -225,8 +244,8 @@ export default {
     });
   },
   created() {
-    this.fetchData()
-  }
+    this.fetchData();
+  },
 };
 </script>
 <style lang="scss">
@@ -331,22 +350,22 @@ export default {
             display: grid;
             place-items: center;
             margin-top: 2rem;
-             .equi-card {
-                 display: grid;
-            place-items: center;
+            .equi-card {
+              display: grid;
+              place-items: center;
               padding: 1.5rem;
               width: 10rem;
               height: 10rem;
-             
+
               box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
-              img{
+              img {
                 width: 10rem;
-              height: 10rem;
-              object-fit: cover;
-              @include responsive($xl){
-                      width:15rem;
-              height: 15rem;
-              }
+                height: 10rem;
+                object-fit: cover;
+                @include responsive($xl) {
+                  width: 15rem;
+                  height: 15rem;
+                }
               }
             }
             .rectangle {
@@ -355,16 +374,14 @@ export default {
               background: $M-lightblue;
               display: grid;
               place-items: center;
-               @include responsive($xl){
-                      width: 15rem;
-     
+              @include responsive($xl) {
+                width: 15rem;
               }
               h2 {
                 color: #fff;
                 font-size: 0.8rem;
                 text-align: center;
               }
-
             }
           }
         }
@@ -387,27 +404,26 @@ export default {
               place-items: center;
               margin-top: 2rem;
               .equi-card {
-                      display: grid;
+                display: grid;
                 align-items: center;
                 padding: 1rem;
                 width: 15rem;
                 height: 16.5rem;
-                    @include responsive($xl){
-                      width: 20rem;
-              height: 20rem;
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                  height: 20rem;
+                }
                 box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
               }
               .rectangle {
                 height: 2rem;
                 width: 15rem;
-   background: $M-green;
+                background: $M-green;
                 display: grid;
                 place-items: center;
-                      @include responsive($xl){
-                      width: 20rem;
-      
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                }
                 h2 {
                   color: #fff;
                   font-size: 1rem;

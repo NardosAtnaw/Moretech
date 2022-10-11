@@ -63,11 +63,11 @@
                     </ul> -->
                   </li>
                   <li>
-                    <a href="labratory"
-                      >Laboratory Equipment for Engineering and Vocational
-                      Teaching Institutes</a
-                    >
+                    <a href="equipments">
+                      Laboratory Equipment for Engineering
+                    </a>
                   </li>
+
                   <li>
                     <a href="Analytical"
                       >Research and Quality Control Equipment</a
@@ -76,10 +76,12 @@
 
                   <li>
                     <a href="agricultural"
-                      >Modern Agricultural Equipment and Machineries
+                      >Modern Agricultural Equipment 
                     </a>
                   </li>
-
+                  <li>
+                    <a href="labratory">Laboratory Chemicals </a>
+                  </li>
                   <li>
                     <a href="Aluminum"
                       >Construction of Aluminium Doors and Windows </a
@@ -624,7 +626,6 @@ header {
                 display: flex;
                 background: $M-green;
                 padding: 1.2rem 1rem 1rem 0.5rem;
-
                 display: none;
                 h3 {
                   font-size: 1.13rem;
