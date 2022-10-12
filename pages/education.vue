@@ -298,7 +298,7 @@
             >
               <div class="equi-card">
                 <img
-                  src="../assets/Images/EDU/centrifugalwaterpumpmodel.png"
+                  src="../assets/Images/EDU/buoyancytheorydemonstrator.png"
                   alt=""
                 />
               </div>
