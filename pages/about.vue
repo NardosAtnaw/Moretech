@@ -9,27 +9,9 @@
           <div class="desc">
             <img src="../assets/Images/moretech building.jpg" alt="" />
             <p>
-              Moretech industry PLC is established in 2007 and where the owner
-              was forced and initiated to establish the company following the
-              fast growth of the country due to advancement in research that
-              triggered to high demand for laboratory equipment and chemicals
-              supply by various universities, colleges, research centers,
-              factories, standard agencies and various private companies of the
-              country. <br /><br />
-              Moretech Industry PLC is one of the leading suppliers of
-              Laboratory Equipment, Chemicals and Environmental protection and
-              Agricultural inputs in Ethiopia .With greatest influence in
-              quality products supply, built up with well-experienced
-              professional and technical staff. We have large stocks Laboratory
-              equipment, Chemicals, water testing kits and consumables,
-              Agricultural machineries for Poultry Bee and Diary production. We
-              have participated on local and International bids ,won and
-              supplied successfully to Universities , Research organizations,
-              Quality Control labs, WASH projects, International and local NGOs
-              Commercial farms and individual users. <br /><br />
-              We are working with world renowned Companies and represent them
-              exclusively to Ethiopian Market and the following are some to
-              mention.<br /><br />
+              Moretech industry PLC is established in 2007 and where the owner was forced and initiated to establish the company following the fast growth of the country due to advancement in research that triggered to high demand for laboratory equipment and chemicals supply by various universities, colleges, research centers, factories, standard agencies and various private companies of the country. <br /><br />
+              Moretech Industry PLC is one of the leading suppliers of Laboratory Equipment, Chemicals and Environmental protection and Agricultural inputs in Ethiopia .With greatest influence in quality products supply, built up with well-experienced professional and technical staff. We have large stocks Laboratory equipment, Chemicals, water testing kits and consumables, Agricultural machineries for Poultry, Beekeeping (Apiculture) and Dairy production. We have participated on local and International bids ,won and supplied successfully to Universities , Research organizations, Quality Control labs, WaSH projects, International and Local NGOs Commercial farms and individual users.<br /><br />
+              We are working with world renowned Companies and represent them exclusively to Ethiopian Market and the following are some to mention.<br /><br />
               Wagtech Projets Ltd, UK<br />
               Trace2o, UK<br />
               Himedia Laboratories Ltd, India<br />

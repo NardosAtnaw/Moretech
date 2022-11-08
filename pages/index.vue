@@ -21,11 +21,11 @@
               quality products supply, built up with well-experienced
               professional and technical staff. We have large stocks Laboratory
               equipment, Chemicals, water testing kits and consumables,
-              Agricultural machineries for Poultry Bee and Diary production. We
-              have participated on local and International bids ,won and
-              supplied successfully to Universities , Research organizations,
-              Quality Control labs, WASH projects, International and local NGOs
-              Commercial farms and individual users. <br /><br />
+              Agricultural machineries for Poultry, Beekeeping (Apiculture) and
+              Dairy production. We have participated on local and International
+              bids ,won and supplied successfully to Universities , Research
+              organizations, Quality Control labs, WaSH projects, International
+              and Local NGOs Commercial farms and individual users. <br /><br />
               We are working with world renowned Companies and represent them
               exclusively to Ethiopian Market and the following are some to
               mention.
@@ -40,6 +40,7 @@
             <img src="../assets/Images/plogo3.jpg" alt="" />
             <img src="../assets/Images/plogo4.jpg" alt="" />
             <img src="../assets/Images/plogo5.jpg" alt="" />
+            <img src="../assets/Images/siway.png" alt="" />
           </div>
         </div>
       </div>
@@ -68,10 +69,7 @@
 
                 <h2>Educational laboratory Equipment</h2>
                 <p>
-                  It is imperative for schools to have the latest and
-                  high-quality science lab supplies these days. Science is
-                  different from any other subject. In order to understand its
-                  concepts,
+                  It is imperative for schools to have the latest and high-quality science lab supplies these days. Effective teaching and learning of science involves seeing, handling, and manipulating real objects and materials
                 </p>
               </a>
             </div>
@@ -86,18 +84,15 @@
               data-aos-once="false"
               data-aos-anchor-placement="top-center"
             >
-              <a href="analytical">
+              <a href="labratory">
                 <img
                   class="service-img"
                   src="../assets/Icons/ser4.svg"
                   alt=""
                 />
-                <h2>Research and Quality Control Equipment</h2>
+                <h2>Laboratory Equipment for Engineering</h2>
                 <p>
-                  Present rigorous experiments for scientific researches and
-                  findings require the highest level of analytical and precision
-                  laboratory equipment for addressing current developmental
-                  goals of the world.
+                  Advancements both in industrial engineering and learning require very latest instrumentations to equip scholars and feed with technical skills that alleviate the current problem of industrial advancement. 
                 </p>
               </a>
             </div>
@@ -118,12 +113,9 @@
                   src="../assets/Icons/ser3.svg"
                   alt=""
                 />
-                <h2>Laboratory Chemicals Product Range</h2>
+                <h2>Research and Quality Control Equipment</h2>
                 <p>
-                  Range of laboratory chemicals such as; plant tissue culture,
-                  molecular biology, animal cell culture, Expert teaching aids,
-                  laboratory aids and equipment, microbiology and others have
-                  been getting significant acceptance
+                  Present rigorous experiments for scientific researches and findings require the highest level of analytical and precision laboratory equipment for addressing current developmental goals of the world.
                 </p>
               </a>
             </div>
@@ -144,12 +136,9 @@
                   src="../assets/Icons/ser2.svg"
                   alt=""
                 />
-                <h2>Modern Agricultural Equipment</h2>
+                <h2>Laboratory Chemicals</h2>
                 <p>
-                  More specialized agricultural machineries, dairy and
-                  beekeeping instruments and laboratory equipment have been
-                  supplied to several medium to higher level governmental and
-                  non- governmental organizations since 1999. Some of our major
+                  Range of laboratory chemicals and growth cultures, such as; plant tissue culture, molecular biology, animal cell culture and others have been getting significant application in today’s world.
                 </p>
               </a>
             </div>
