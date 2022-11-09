@@ -359,10 +359,10 @@
             data-aos-anchor-placement="top-center"
           >
             <div class="equi-card">
-              <img src="../assets/Images/Bio.png" alt="" />
+              <img src="../assets/Images/Analytical/aquasafe WSL.png" alt="" />
             </div>
             <div class="rectangle">
-              <h2>Biological Safety Cabinet</h2>
+              <h2>Aquasafe WSL</h2>
             </div>
           </div>
           <div
