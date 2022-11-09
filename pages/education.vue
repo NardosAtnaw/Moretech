@@ -41,7 +41,7 @@
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/tool3.png" alt="" />
+                <img src="../assets/Images/EDU/labglass.png" alt="" />
               </div>
               <div class="rectangle">
                 <h2>Laboratory Glass</h2>
@@ -69,6 +69,22 @@
               </div>
               <div class="rectangle">
                 <h2>Scoops</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/micsclide.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Microscope Slides</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/EDU/d.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Dissecting Equipment</h2>
               </div>
             </div>
           </div>
@@ -156,7 +172,7 @@
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/EDU/Tapemeter.png" alt="" />
+                <img src="../assets/Images/EDU/measure.png" alt="" />
               </div>
               <div class="rectangle">
                 <h2>Tape meter</h2>
@@ -164,7 +180,7 @@
             </div>
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
-                <img src="../assets/Images/EDU/verniercaliper.png" alt="" />
+                <img src="../assets/Images/EDU/v.png" alt="" />
               </div>
               <div class="rectangle">
                 <h2>Vernier Caliper</h2>
@@ -179,10 +195,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/EDU/Springbalance.png" alt="" />
+                <img src="../assets/Images/EDU/s.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Spring Balance/Spring</h2>
+                <h2>Digital Balance</h2>
               </div>
             </div>
             <div
@@ -199,51 +215,6 @@
             </div>
           </div>
 
-          <h3 class="category-title">Wave and Sound</h3>
-          <div class="wrapper">
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/EDU/Tuningfork.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Tuning Fork</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img
-                  src="../assets/Images/EDU/Wavedemonstratingspring.png"
-                  alt=""
-                />
-              </div>
-              <div class="rectangle">
-                <h2>Wave Demonstrating Spring</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img
-                  src="../assets/Images/EDU/acousticaltransmissionapparatus.png"
-                  alt=""
-                />
-              </div>
-              <div class="rectangle">
-                <h2>Acoustical Transmission Apparatus</h2>
-              </div>
-            </div>
-          </div>
           <h3 class="category-title">Properties of Matter</h3>
           <div class="wrapper">
             <div
@@ -501,7 +472,7 @@
             Chemistry is one of the fundamental sciences being studied well
             through the use of technologically advanced laboratory instruments
             and apparatuses in the present real world. Moretech Industry PLC
-            also support this similar undertaking to scaled up the supply and
+            also support this similar undertaking to scale up the supply and
             distribution of macro and micro level equipment so as to aid
             effective analysis of chemical reactions for chemistry learning in
             various levels of schools.

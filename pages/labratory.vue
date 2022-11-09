@@ -9,21 +9,21 @@
         </h4>
         <p>
           Range of laboratory chemicals such as; plant tissue culture, molecular
-          biology, animal cell culture, Expert teaching aids, laboratory aids
-          and equipment, microbiology and others have been getting significant
+          biology, animal cell culture, Expert teaching aid media’s, laboratory
+          aid media’s, microbiology and others have been getting significant
           acceptance in the 21th century because of the advancement of
           biotechnological researches. Observing the real situation of the wide
           gaps present in our country and the correspondence increment of their
           demand; our company is working much on importation and supply of
           laboratory chemicals, reagents, tissue cultures, culture medias and
-          others profoundly
+          others profoundly.
         </p>
       </div>
     </section>
     <section class="alist">
       <div class="container">
         <div class="category">
-          <h4>Ready Prepared Media</h4>
+          <h4>Laboratory Chemicals</h4>
           <p></p>
 
           <div class="wrapper">
@@ -33,7 +33,31 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/mediaplate.jpg" alt="" />
+                <img src="../assets/Images/Laboratory/lab1.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Chemical Acids and Bases</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/lab2.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Purified Laboratory Chemical Salts</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/lab4.png" alt="" />
               </div>
               <div class="rectangle">
                 <h2>Prepared Media Plates</h2>
@@ -45,13 +69,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/media plate2.jpg"
-                  alt=""
-                />
+                <img src="../assets/Images/Laboratory/lab3.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Prepared Media Plates</h2>
+                <h2>Prepared Media Powder</h2>
               </div>
             </div>
           </div>
@@ -65,43 +86,22 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/vegeatble protein bsed media.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="rectangle">
-                <h2>Animal Protein Based Culture Media</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/antibiotic assay.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="rectangle">
-                <h2>Vegetable Protein Based Media (HiVeg media)</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/media supplements.jpg"
-                  alt=""
-                />
+                <img src="../assets/Images/Laboratory/lab5.png" alt="" />
               </div>
               <div class="rectangle">
                 <h2>Antibiotic Assay Media</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/lab6.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Vegetable Protein Based Media (HiVeg media)</h2>
               </div>
             </div>
             <div
@@ -119,6 +119,21 @@
                 <h2>Media Supplements</h2>
               </div>
             </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/Laboratory/media supplements.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Antibiotic Assay Media</h2>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -134,10 +149,7 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/bacteriological aids.jpg"
-                  alt=""
-                />
+                <img src="../assets/Images/Laboratory/lab7.png" alt="" />
               </div>
               <div class="rectangle">
                 <h2>Antibacterial</h2>
@@ -149,25 +161,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/discs for cabonhydrate.jpg"
-                  alt=""
-                />
+                <img src="../assets/Images/Laboratory/lab8.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Antibacterial</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/lab3.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Test Tube Racks</h2>
+                <h2>Ambercide Antibacterial</h2>
               </div>
             </div>
           </div>
@@ -212,13 +209,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/readymade indicators.jpg"
-                  alt=""
-                />
+                <img src="../assets/Images/Laboratory/lab9.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Staining Kits for Cytology</h2>
+                <h2>Protein – based Media</h2>
               </div>
             </div>
             <div
@@ -227,10 +221,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/readymade 2.jpg" alt="" />
+                <img src="../assets/Images/Laboratory/lab10.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Staining Kits for Cytology</h2>
+                <h2>Cell culture</h2>
               </div>
             </div>
             <div
@@ -269,10 +263,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/readymade 2.jpg" alt="" />
+                <img src="../assets/Images/Laboratory/lab11.png" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Staining Kits for Cytology</h2>
+                <h2>Microbial Cell Culture Media</h2>
               </div>
             </div>
           </div>
@@ -300,10 +294,7 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/liquid sterile filtered.jpg"
-                  alt=""
-                />
+                <img src="../assets/Images/Laboratory/plant.png" alt="" />
               </div>
               <div class="rectangle">
                 <h2>Phycology Media (Liquid Sterile Filtered)</h2>
@@ -327,6 +318,30 @@
               </div>
               <div class="rectangle">
                 <h2>Density Gradient Separation Media</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/broth.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Prepared Growth Broth</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Laboratory/plant2.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Growth Media</h2>
               </div>
             </div>
           </div>

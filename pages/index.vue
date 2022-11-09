@@ -36,11 +36,11 @@
           <div class="wrapper">
             <img src="../assets/Images/plogo.png" alt="" />
 
-            <img src="../assets/Images/plogo2.png" alt="" />
-            <img src="../assets/Images/plogo3.jpg" alt="" />
-            <img src="../assets/Images/plogo4.jpg" alt="" />
-            <img src="../assets/Images/plogo5.jpg" alt="" />
-            <img src="../assets/Images/siway.png" alt="" />
+            <img src="../assets/Images/plogo4-removebg-preview.png" alt="" />
+            <img src="../assets/Images/plogo2-removebg-preview.png" alt="" />
+            <img src="../assets/Images/plogo5-removebg-preview.png" alt="" />
+            <img src="../assets/Images/siway-removebg-preview.png" alt="" />
+            <img src="../assets/Images/plogo3-removebg-preview.png" alt="" />
           </div>
         </div>
       </div>
@@ -49,17 +49,7 @@
       <div class="services">
         <div class="container">
           <div class="wrapper">
-            <div
-              class="card"
-              data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center"
-            >
+            <div class="card" data-aos="slide-up">
               <a href="education">
                 <img
                   class="service-img"
@@ -69,22 +59,15 @@
 
                 <h2>Educational laboratory Equipment</h2>
                 <p>
-                  It is imperative for schools to have the latest and high-quality science lab supplies these days. Effective teaching and learning of science involves seeing, handling, and manipulating real objects and materials
+                  It is imperative for schools to have the latest and
+                  high-quality science lab supplies these days. Effective
+                  teaching and learning of science involves seeing, handling,
+                  and manipulating real objects and materials
                 </p>
               </a>
             </div>
-            <div
-              class="card"
-              data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center"
-            >
-              <a href="labratory">
+            <div class="card" data-aos="slide-up">
+              <a href="equipments">
                 <img
                   class="service-img"
                   src="../assets/Icons/ser4.svg"
@@ -92,22 +75,15 @@
                 />
                 <h2>Laboratory Equipment for Engineering</h2>
                 <p>
-                  Advancements both in industrial engineering and learning require very latest instrumentations to equip scholars and feed with technical skills that alleviate the current problem of industrial advancement. 
+                  Advancements both in industrial engineering and learning
+                  require very latest instrumentations to equip scholars and
+                  feed with technical skills that alleviate the current problem
+                  of industrial advancement.
                 </p>
               </a>
             </div>
-            <div
-              class="card"
-              data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center"
-            >
-              <a href="labratory">
+            <div class="card" data-aos="slide-up">
+              <a href="Analytical">
                 <img
                   class="service-img"
                   src="../assets/Icons/ser3.svg"
@@ -115,22 +91,16 @@
                 />
                 <h2>Research and Quality Control Equipment</h2>
                 <p>
-                  Present rigorous experiments for scientific researches and findings require the highest level of analytical and precision laboratory equipment for addressing current developmental goals of the world.
+                  Present rigorous experiments for scientific researches and
+                  findings require the highest level of analytical and precision
+                  laboratory equipment for addressing current developmental
+                  goals of the world.
                 </p>
               </a>
             </div>
-            <div
-              class="card"
-              data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center"
-            >
-              <a href="agricultural">
+
+            <div class="card" data-aos="slide-up">
+              <a href="labratory">
                 <img
                   class="service-img"
                   src="../assets/Icons/ser2.svg"
@@ -138,7 +108,43 @@
                 />
                 <h2>Laboratory Chemicals</h2>
                 <p>
-                  Range of laboratory chemicals and growth cultures, such as; plant tissue culture, molecular biology, animal cell culture and others have been getting significant application in today’s world.
+                  Range of laboratory chemicals and growth cultures, such as;
+                  plant tissue culture, molecular biology, animal cell culture
+                  and others have been getting significant application in
+                  today’s world.
+                </p>
+              </a>
+            </div>
+            <div class="card" data-aos="slide-up">
+              <a href="agricultural">
+                <img
+                  class="service-img"
+                  src="../assets/Icons/ser2.svg"
+                  alt=""
+                />
+                <h2>Modern Agricultural Equipment</h2>
+                <p>
+                  More specialized agricultural machineries, dairy and
+                  beekeeping instruments have been supplied to several medium to
+                  higher level governmental and non- governmental organizations
+                  since 2007.
+                </p>
+              </a>
+            </div>
+            <div class="card" data-aos="slide-up">
+              <a href="Aluminum">
+                <img
+                  class="service-img"
+                  src="../assets/Icons/ser2.svg"
+                  alt=""
+                />
+                <h2>Aluminum Door and Window Works</h2>
+                <p>
+                  Aluminium frames enable for strong window sealing, ensuring
+                  that chilly air from within your home or workplace does not
+                  flow outside during the summer. Because these constructions
+                  are extremely energy efficient, thermal comfort is instantly
+                  improved.
                 </p>
               </a>
             </div>
@@ -285,7 +291,7 @@
     <section class="equipments">
       <img class="decor" src="../assets/Icons/decor.svg" alt="" />
       <div class="container">
-        <h2>Equipment</h2>
+        <h2>View Some of Our Products</h2>
         <p>You can view the new equipment that has arrived below.</p>
         <div class="wrapper">
           <div
@@ -299,10 +305,81 @@
             data-aos-anchor-placement="top-center"
           >
             <div class="equi-card">
-              <img src="../assets/Images/tool.png" alt="" />
+              <img src="../assets/Images/Laboratory/butyrometer.jpg" alt="" />
             </div>
             <div class="rectangle">
-              <h2>Spatulas</h2>
+              <h2>Butyro Meter</h2>
+            </div>
+          </div>
+          <div
+            class="equi"
+            data-aos="fade-zoom-in"
+            data-aos-offset="20"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div class="equi-card">
+              <img src="../assets/Images/Equipment/rivet gun.jpg" alt="" />
+            </div>
+            <div class="rectangle">
+              <h2>Rivet Gun</h2>
+            </div>
+          </div>
+          <div
+            class="equi"
+            data-aos="fade-zoom-in"
+            data-aos-offset="20"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div class="equi-card">
+              <img
+                src="../assets/Images/EDU/reflectionandrefractiontank.png"
+                alt=""
+              />
+            </div>
+            <div class="rectangle">
+              <h2>Reflection and Refraction Tank</h2>
+            </div>
+          </div>
+          <div
+            class="equi"
+            data-aos="fade-zoom-in"
+            data-aos-offset="20"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div class="equi-card">
+              <img src="../assets/Images/Bio.png" alt="" />
+            </div>
+            <div class="rectangle">
+              <h2>Biological Safety Cabinet</h2>
+            </div>
+          </div>
+          <div
+            class="equi"
+            data-aos="fade-zoom-in"
+            data-aos-offset="20"
+            data-aos-delay="50"
+            data-aos-duration="1000"
+            data-aos-mirror="true"
+            data-aos-once="false"
+            data-aos-anchor-placement="top-center"
+          >
+            <div class="equi-card">
+              <img src="../assets/Images/Analytical/deluxe HM2000.png" alt="" />
+            </div>
+            <div class="rectangle">
+              <h2>Deluxe HM2000</h2>
             </div>
           </div>
           <div
@@ -507,7 +584,7 @@
         .container {
           .wrapper {
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
             gap: 1rem;
           }
         }
@@ -954,11 +1031,11 @@
           grid-template-columns: 1fr 1fr 1fr 1fr;
           .equi {
             .equi-card {
-              width: 13rem;
-              height: 13rem;
+              width: 20rem;
+              height: 20rem;
             }
             .rectangle {
-              width: 13rem;
+              width: 20rem;
             }
           }
         }

@@ -30,15 +30,17 @@
         <div class="footer-about">
           <h2>About Us</h2>
           <p>
-            MoreTech is a company that imports and distributes laboratory
-            equipment, materials, and chemicals.
+            Moretech industry PLC is a company that imports and distributes
+            industrial and laboratory equipment, laboratory chemicals,
+            agricultural machineries and related equipment.
           </p>
         </div>
         <div class="footer-service">
           <h2>Service</h2>
           <p>
-            We provide a variety of services in the areas of education,
-            research, laboratory, agriculture, and other equipment.
+            We provide a variety of services in the areas of supplying quality
+            products and equipment including installation, commissioning,
+            delivery, training and maintenance.
           </p>
         </div>
         <div class="footer-quick">

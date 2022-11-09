@@ -9,15 +9,40 @@
           <div class="desc">
             <img src="../assets/Images/moretech building.jpg" alt="" />
             <p>
-              Moretech industry PLC is established in 2007 and where the owner was forced and initiated to establish the company following the fast growth of the country due to advancement in research that triggered to high demand for laboratory equipment and chemicals supply by various universities, colleges, research centers, factories, standard agencies and various private companies of the country. <br /><br />
-              Moretech Industry PLC is one of the leading suppliers of Laboratory Equipment, Chemicals and Environmental protection and Agricultural inputs in Ethiopia .With greatest influence in quality products supply, built up with well-experienced professional and technical staff. We have large stocks Laboratory equipment, Chemicals, water testing kits and consumables, Agricultural machineries for Poultry, Beekeeping (Apiculture) and Dairy production. We have participated on local and International bids ,won and supplied successfully to Universities , Research organizations, Quality Control labs, WaSH projects, International and Local NGOs Commercial farms and individual users.<br /><br />
-              We are working with world renowned Companies and represent them exclusively to Ethiopian Market and the following are some to mention.<br /><br />
-              Wagtech Projets Ltd, UK<br />
-              Trace2o, UK<br />
-              Himedia Laboratories Ltd, India<br />
-              Xian Siway Scientific Instruments Supply ltd, China<br />
-              Milktronik, Bulgaria<br />
-              Draminiski,Poland <br /><br />
+              Moretech industry PLC is established in 2007 and where the owner
+              was forced and initiated to establish the company following the
+              fast growth of the country due to advancement in research that
+              triggered to high demand for laboratory equipment and chemicals
+              supply by various universities, colleges, research centers,
+              factories, standard agencies and various private companies of the
+              country. <br /><br />
+              Moretech Industry PLC is one of the leading suppliers of
+              Laboratory Equipment, Chemicals and Environmental protection and
+              Agricultural inputs in Ethiopia .With greatest influence in supply
+              of quality products, built up with well-experienced professional
+              and technical staff. We have large stocks of Laboratory equipment,
+              Chemicals, water testing kits and consumables, Agricultural
+              machineries for Poultry Bee (Apiculture) and Diary production. We
+              have participated on local and International bids ,won and
+              supplied successfully to Universities , Research organizations,
+              Quality Control labs, WaSH projects, International and local NGOs
+              Commercial farms and individual users.<br /><br />
+              WWe are working with world renowned Companies and represent them
+              exclusively to Ethiopian Market and the following are some to
+              mention:<br /><br />
+              <a href="https://www.wagtechprojects.com/">
+                Wagtech Projets Ltd, UK<br
+              /></a>
+              <a href="https://www.trace2o.com/"> Trace2o, UK<br /></a>
+              <a href="https://www.himedialabs.com/HML/Pages/default.aspx">
+                Himedia Laboratories Ltd, India<br
+              /></a>
+              <a href="http://www.siwayscientific.com/">
+                Xian Siway Scientific Instruments Supply ltd, China<br
+              /></a>
+              <a href="http://milktronik.com/">Milktronik, Bulgaria<br /></a>
+              <a href="https://www.draminski.com/"> Draminiski,Poland <br /></a>
+
               Hence; Moretech industry PLC recently showing a sound
               progressivity and improvement, infuses state-of-the-art-
               technologies in its marketing systems, always creates new
@@ -28,18 +53,13 @@
         </div>
       </div>
     </section>
+    <section class="about-image">
+      <div class="container">
+        <img src="../assets/Images/about-removebg-preview.png" alt="" />
+      </div>
+    </section>
     <section class="mission-vision">
       <div class="container">
-        <div class="vision">
-          <img class="icon" src="../assets/Images/vision.svg" alt="" />
-          <h2>Our Vision</h2>
-          <p>
-            Moretech Industry PLC aspires to be one of the nationally leading
-            and renowned suppliers of laboratory equipment and chemicals and
-            proactively strives to add a meaningful contribution for the
-            prosperity of the country by the year 2025.
-          </p>
-        </div>
         <div class="mission">
           <img class="icon" src="../assets/Images/traget.svg" alt="" />
           <h2>Our Mission</h2>
@@ -48,23 +68,35 @@
             business, we are passionately equipped to address the following
             missions:<br /><br />
             Regularly improving the quality of products and services in regard
-            to match with the global trends and changes<br /><br />
+            to match with the technological advancements of the global trends
+            and changes<br /><br />
             Enhance the technical capacity of the administrative and technical
-            staff of the company through training and continuity of practical
-            learning at technical sites (company`s stores &amp; laboratory of
+            staff of the company through training and continuous practical
+            learning at technical sites (company`s stores & laboratory of
             customers)<br /><br />
             Persistently strengthen and renew the relationship between the
             foreign suppliers and local customers<br /><br />
             Recruiting professionally vibrant, model role playing, creative,
-            fast leaning, visional and mission- oriented staff<br /><br />
+            fast leaning, vision and mission – oriented staff<br /><br />
             Review and improve essential rewards, facilities and working
-            environments for the vision administering staff members<br /><br />
+            environments for the creative and vision administering staff
+            members<br /><br />
             Strongly valuing and enhancing the level of internal and external
             relationships among various customers and stakeholders locally,
             regionally and internationally<br /><br />
             Increasing the trend of communication with different actors and
-            sources for obtaining up- to- date information inputs in achieving
+            sources for obtaining up – to – date information inputs in achieving
             company`s vision
+          </p>
+        </div>
+        <div class="vision">
+          <img class="icon" src="../assets/Images/vision.svg" alt="" />
+          <h2>Our Vision</h2>
+          <p>
+            Moretech Industry PLC aspires to be one of the nationally leading
+            and renowned suppliers of industrial and laboratory equipment and
+            chemicals and proactively strives to add a meaningful contribution
+            for the prosperity of the country by the year 2025.
           </p>
         </div>
       </div>
@@ -75,17 +107,15 @@
           <img class="icon" src="../assets/Images/vision.svg" alt="" />
           <h2>Value</h2>
           <p>
-            Solving encountered problems and challenges smooth discussions and a
-            keenly low cost practical approaches<br /><br />
-            Believing that our staff are our most valuable assets of the
-            company<br /><br />
-            Adapted to high level of patience, determination, tolerance to harsh
-            working environment <br /><br />
-            Cooperation and collaboration are our best weapons of success and
-            victory in business<br /><br />
-            Develop a culture of continuous learning and entertain managed
-            mistakes and failures as vital assets and turning points of changes
-            and progresses.
+            Solving problems and challenges through discussions<br /><br />
+            Valuing staff as assets of the company<br /><br />
+            Patience and determination <br /><br />
+            Cooperation and collaboration<br /><br />
+            Honesty and integrity<br /><br />
+            Follow standard procedures and regulations<br /><br />
+            Visionary and struggle for measurable outcomes<br /><br />
+            Quality product<br /><br />
+            Respectful and smooth customer handling<br /><br />
           </p>
         </div>
         <div class="mission">
@@ -209,6 +239,17 @@ export default {
 
 <style lang="scss">
 .body-main {
+  .about-image {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    .container {
+      display: grid;
+      place-items: center;
+      img {
+        width: 40rem;
+      }
+    }
+  }
   .history {
     margin-top: 8rem;
     .container {
@@ -217,6 +258,10 @@ export default {
         border: 2px solid $M-blue;
         padding: 1rem;
         position: relative;
+        a {
+          color: $M-red;
+          font-size: 1rem;
+        }
         h4 {
           background: $M-white;
           padding: 0.4rem;
@@ -276,9 +321,12 @@ export default {
     .history {
       .container {
         .history-box {
-          margin-right: 5rem;
-          margin-left: 5rem;
-
+          // margin-right: 5rem;
+          // margin-left: 5rem;
+          a {
+            color: $M-red;
+            font-size: 1.2rem;
+          }
           .desc {
             img {
               width: 30rem;
@@ -353,9 +401,12 @@ export default {
     .mission-vision {
       margin-top: 8rem;
       .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
         .vision {
-          margin-left: 5rem;
-          margin-right: 5rem;
+          // margin-left: 5rem;
+          // margin-right: 5rem;
 
           .icon {
             margin-top: -4rem;
@@ -369,9 +420,9 @@ export default {
           }
         }
         .mission {
-          margin-left: 5rem;
-          margin-right: 5rem;
-
+          // margin-left: 5rem;
+          // margin-right: 5rem;
+          margin-top: 0rem;
           h2 {
             margin-left: 2rem;
           }

@@ -15,7 +15,7 @@
           Present rigorous experiments for scientific researches and findings
           require the highest level of analytical and precision laboratory
           equipment for addressing current developmental goals of the world.
-          Researches in area of food security takes the primary icons in
+          Researchers in area of food security take the primary icons in
           correspondence to others. Moretech Industry PLC in Ethiopia also
           handles the leading roles in the supply of such world class precision
           analytical instruments to the range of institutions needing our
@@ -217,7 +217,7 @@
                 <img src="../assets/Images/Analytical/hydro.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>HC1000</h2>
+                <h2>HC 1000 photometer</h2>
               </div>
             </div>
             <div
@@ -407,7 +407,7 @@
                 <img src="../assets/Images/Analytical/HM50.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Agro meteorological </h2>
+                <h2>Agro Meteorological </h2>
               </div>
             </div>
             <div
@@ -931,7 +931,6 @@
               </div>
               <div class="rectangle">
                 <h2>Conductivity Data</h2>
-            
               </div>
             </div>
             <div

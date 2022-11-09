@@ -19,10 +19,12 @@
             >
               <img class="service-img" src="../assets/Icons/pro1.svg" alt="" />
 
-              <h2>Educational laboratory Equipment </h2>
+              <h2>Educational laboratory Equipment</h2>
               <p>
-             Schools must have the latest science lab supplies and equipment to make science interesting and effective for students and to encourage them to make significant contributions in the field of physics, biology, chemistry, and other streams of science later in life. 
-
+                It is imperative for schools to have the latest and high-quality
+                science lab supplies these days. Effective teaching and learning
+                of science involves seeing, handling, and manipulating real
+                objects and materials
               </p>
             </div>
             <div
@@ -37,10 +39,12 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro2.svg" alt="" />
-              <h2>Research and Quality Control Lab Equipment
-</h2>
+              <h2>Laboratory Equipment for Engineering</h2>
               <p>
-               Present rigorous   experiments for scientific researches and   findings require   the highest level of analytical and   precision   laboratory equipment   for   addressing current developmental goals of the world.   Researches in area of food security takes   the primary   icons in correspondence to others.  
+                Advancements both in industrial engineering and learning require
+                very latest instrumentations to equip scholars and feed with
+                technical skills that alleviate the current problem of
+                industrial advancement.
               </p>
             </div>
             <div
@@ -55,9 +59,12 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro3.svg" alt="" />
-              <h2>Laboratory Chemicals Product Range</h2>
+              <h2>Research and Quality Control Equipment</h2>
               <p>
-                Range of laboratory chemicals such as; plant tissue culture, molecular biology, animal cell culture, Expert teaching aids, laboratory aids and equipment, microbiology and others have been getting significant acceptance in the 21th century because of the advancement of biotechnological researches.  
+                Present rigorous experiments for scientific researches and
+                findings require the highest level of analytical and precision
+                laboratory equipment for addressing current developmental goals
+                of the world.
               </p>
             </div>
             <div
@@ -72,9 +79,12 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro4.svg" alt="" />
-              <h2> Modern Agricultural Equipment and Machineries </h2>
+              <h2>Laboratory Chemicals</h2>
               <p>
-              More specialized agricultural machineries, dairy and beekeeping instruments and laboratory equipment have been supplied to several medium to higher level   governmental and non- governmental organizations   since 1999. Some of our major products in this area are; milk processing and milking machines.
+                Range of laboratory chemicals and growth cultures, such as;
+                plant tissue culture, molecular biology, animal cell culture and
+                others have been getting significant application in today’s
+                world.
               </p>
             </div>
             <div
@@ -89,9 +99,11 @@
               data-aos-anchor-placement="top-center"
             >
               <img class="service-img" src="../assets/Icons/pro5.svg" alt="" />
-              <h2>Equipment for Teaching </h2>
+              <h2>Modern Agricultural Equipment</h2>
               <p>
-           Moretech Industry PLC to engage in the sector for importation   and supply of high quality laboratory and workshop equipment to those higher academic institutions   and related enterprises so as to narrow the scope scarcity.     
+                More specialized agricultural machineries, dairy and beekeeping
+                instruments have been supplied to several medium to higher level
+                governmental and non- governmental organizations since 2007.
               </p>
             </div>
             <div
@@ -108,7 +120,11 @@
               <img class="service-img" src="../assets/Icons/pro6.svg" alt="" />
               <h2>Aluminum Door and Window Works</h2>
               <p>
-              Aluminium frames enable for strong window sealing, ensuring that chilly air from within your home or workplace does not flow outside during the summer. Because these constructions are extremely energy efficient, thermal comfort is instantly improved. 
+                Aluminium frames enable for strong window sealing, ensuring that
+                chilly air from within your home or workplace does not flow
+                outside during the summer. Because these constructions are
+                extremely energy efficient, thermal comfort is instantly
+                improved.
               </p>
             </div>
           </div>
@@ -259,7 +275,6 @@ export default {
       once: false,
       anchorPlacement: "top-bottom",
     });
-
   },
 };
 </script>
@@ -344,7 +359,7 @@ export default {
   }
   .import {
     position: relative;
-        margin-top: 8rem;
+    margin-top: 8rem;
     margin-bottom: 15rem;
     .decor {
       position: absolute;
@@ -375,8 +390,8 @@ export default {
           margin-top: 3rem;
 
           .card-all {
-              display: grid;
-                align-items: center;
+            display: grid;
+            align-items: center;
             width: 100%;
             background: $M-white;
             z-index: 9999;
@@ -413,46 +428,43 @@ export default {
             }
           }
         }
-       
       }
     }
   }
-  @include responsive($md){
-    .import{
-      .container{
-        .wrapper{
+  @include responsive($md) {
+    .import {
+      .container {
+        .wrapper {
           display: grid;
           grid-template-columns: 1fr 1fr;
           gap: 1rem;
-        
-.card2{
-  margin-top: 6rem;
-  margin-bottom: -3rem;
-}
+
+          .card2 {
+            margin-top: 6rem;
+            margin-bottom: -3rem;
+          }
         }
       }
     }
   }
-      @include responsive($lg){
-    .import{
+  @include responsive($lg) {
+    .import {
       margin-right: 10rem;
       margin-left: 10rem;
-     
     }
   }
-    @include responsive($xl){
-    .import{
+  @include responsive($xl) {
+    .import {
       margin-right: 10rem;
       margin-left: 10rem;
-      .container{
-        .wrapper{
-       
+      .container {
+        .wrapper {
           gap: 2rem;
-        
-.card2{
-  margin-top: 6rem;
-  margin-bottom: -3rem;
-}
+
+          .card2 {
+            margin-top: 6rem;
+            margin-bottom: -3rem;
+          }
         }
       }
     }

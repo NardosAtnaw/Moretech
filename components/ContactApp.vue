@@ -16,40 +16,48 @@
         </p>
         <div class="contact-wrapper">
           <div class="contact-form">
-            <form action="#" method="post">
+            <form
+              action="https://formsubmit.co/	
+info@moretechplc.com"
+              method="POST"
+            >
               <div class="column">
                 <div class="box-column">
                   <div class="box">
-                    <label for="the-name">Your Name</label>
+                    <label for="the-name">Your Name </label>
                   </div>
-                  <input type="text" name="name" id="the-name" />
+                  <input type="text" name="Name" id="the-name" />
                 </div>
 
                 <div class="box-column">
                   <div class="box">
-                    <label for="the-name">Last Name</label>
+                    <label for="the-name">Company Name</label>
                   </div>
-                  <input type="text" name="name" id="the-name" />
+                  <input type="text" name="Company Name" id="the-name" />
                 </div>
                 <div class="box-column">
                   <div class="box">
                     <label for="the-name">Email</label>
                   </div>
-                  <input type="email" name="email" id="the-email" />
+                  <input type="text" name="Email" id="the-email" />
                 </div>
 
                 <div class="box-column">
                   <div class="box">
                     <label for="the-name">Phone Number</label>
                   </div>
-                  <input type="tel" name="phone" id="the-phone" />
+                  <input type="text" name="Phone Number" id="the-phone" />
                 </div>
               </div>
               <div class="box-column">
                 <div class="box">
                   <label for="the-name">Messages</label>
                 </div>
-                <textarea name="message" id="the-message"></textarea>
+                <textarea
+                  type="text"
+                  name="Message"
+                  id="the-message"
+                ></textarea>
               </div>
 
               <div class="submit-buttons">

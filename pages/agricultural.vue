@@ -6,11 +6,9 @@
     />
     <section class="introduction">
       <div class="container">
-        <h4>
-          Modern Agricultural Equipment and Machineries
-        </h4>
+        <h4>Modern Agricultural Equipment and Machineries</h4>
         <p>
-        More specialized agricultural machineries, dairy and beekeeping instruments and laboratory equipment have been supplied to several medium to higher level   governmental and non- governmental organizations   since 1999.    Some of our   major products in this area are; milk processing and milking machines, lactoscan, poultry feeder and drinker, brooder, hatching incubator, debeaker, butyrometer and milk refractometer. At present; Moretech Industry PLC is well equipped    in management,finance and supportive staffs and technical experts   such as electrical and chemical engineers, biotechnologists, agriculturalists, veterinarians    and environmentalists   with their time- tested experience over   the ranges of the instruments.  
+          More specialized agricultural machineries, dairy and beekeeping instruments and laboratory equipment have been supplied to several medium to higher level governmental and non- governmental organizations since 2007. Some of our major products in this area are; milk processing machines and quality measurement instruments, such as; lactoscan, cream separator, butyrometer, milk refractometer; poultry production instruments, like; feeder and drinker, brooder, hatching incubator and debeaker. At present; Moretech Industry PLC is well equipped with management, finance, supportive staff and technical experts such as; electrical and chemical engineers, biotechnologists, agriculturalists, veterinarians and environmentalists with their time- tested experience over the ranges of the instruments.
         </p>
       </div>
     </section>
@@ -35,16 +33,15 @@
           </div>
         </div> -->
         <div class="category">
-          <h4>Modern agricultural equipment and machineries</h4>
-      
- 
+          <h4>Beekeeping (Apiculure) Equipment</h4>
+
           <div class="wrapper">
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img src="../assets/Images/Laboratory/wa printer.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Wax Printer </h2>
+                <h2>Wax Printer</h2>
               </div>
             </div>
             <div class="equi" data-aos="fade-zoom-in">
@@ -52,12 +49,11 @@
                 <img src="../assets/Images/Laboratory/bee veil.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Bee Veil </h2>
+                <h2>Bee Veil</h2>
               </div>
             </div>
-           
           </div>
-          <h3 class="category-title">Poultry Production Equipment </h3>
+          <h3 class="category-title">Poultry Production Equipment</h3>
           <div class="wrapper">
             <div
               class="equi"
@@ -65,10 +61,13 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/poultry feeder.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/poultry feeder.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Poultry Feeder                                            </h2>
+                <h2>Poultry Feeder</h2>
               </div>
             </div>
             <div
@@ -89,7 +88,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/hatching incubator.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/hatching incubator.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
                 <h2>Hatching Incubator</h2>
@@ -104,15 +106,13 @@
                 <img src="../assets/Images/Laboratory/debeaker.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Debeaker </h2>
+                <h2>Debeaker</h2>
               </div>
             </div>
-        
           </div>
         </div>
         <div class="category">
-          <h4>Dairy Production Equipment and Milk Analyzing Equipment </h4>
-        
+          <h4>Dairy Production Equipment and Milk Analyzing Equipment</h4>
 
           <h3 class="category-title"></h3>
           <div class="wrapper">
@@ -122,10 +122,13 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/milk churner.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/milk churner.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Milk  Churner</h2>
+                <h2>Milk Churner</h2>
               </div>
             </div>
             <div
@@ -134,7 +137,10 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/milk collecting can.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/milk collecting can.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
                 <h2>Milk Collecting Can</h2>
@@ -146,13 +152,16 @@
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/cream separator.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/cream separator.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
                 <h2>Cream Separator</h2>
               </div>
             </div>
-               <div
+            <div
               class="equi"
               data-aos="fade-zoom-in"
               data-aos-anchor-placement="top-center"
@@ -164,7 +173,7 @@
                 <h2>Lactometer</h2>
               </div>
             </div>
-               <div
+            <div
               class="equi"
               data-aos="fade-zoom-in"
               data-aos-anchor-placement="top-center"
@@ -173,10 +182,10 @@
                 <img src="../assets/Images/Laboratory/lactoscan.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Lactoscan  </h2>
+                <h2>Lactoscan</h2>
               </div>
             </div>
-                <div
+            <div
               class="equi"
               data-aos="fade-zoom-in"
               data-aos-anchor-placement="top-center"
@@ -185,26 +194,26 @@
                 <img src="../assets/Images/Laboratory/butyrometer.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>Butyrometer </h2>
+                <h2>Butyrometer</h2>
               </div>
             </div>
-             <div
+            <div
               class="equi"
               data-aos="fade-zoom-in"
               data-aos-anchor-placement="top-center"
             >
               <div class="equi-card">
-                <img src="../assets/Images/Laboratory/milk refractometer.jpg" alt="" />
+                <img
+                  src="../assets/Images/Laboratory/milk refractometer.jpg"
+                  alt=""
+                />
               </div>
               <div class="rectangle">
-                <h2>Milk Refractometer                                                                                                   </h2>
+                <h2>Milk Refractometer</h2>
               </div>
             </div>
           </div>
-        
         </div>
-
-        
       </div>
     </section>
     <ContactApp />
@@ -214,16 +223,16 @@
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
-import axios from 'axios';
+import axios from "axios";
 import HeaderPages from "../components/HeaderPages.vue";
 
 const config = {
-        headers: {
-          Accept: "application/json",
-          "Access-Control-Allow-Origin": "*",
-          "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
-        },
-      };
+  headers: {
+    Accept: "application/json",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
+  },
+};
 export default {
   components: {
     HeaderPages,
@@ -234,16 +243,22 @@ export default {
     };
   },
   methods: {
-     async fetchData() {
-        await axios.post('/api/moretech/',{
-          action: 'fetch',
-
-        },config).then(res => {
-          console.log(res.data);      
-        }).catch(err => {
-          console.log(err);
+    async fetchData() {
+      await axios
+        .post(
+          "/api/moretech/",
+          {
+            action: "fetch",
+          },
+          config
+        )
+        .then((res) => {
+          console.log(res.data);
         })
-     }
+        .catch((err) => {
+          console.log(err);
+        });
+    },
   },
   mounted() {
     AOS.init({
@@ -255,8 +270,8 @@ export default {
     });
   },
   created() {
-    this.fetchData()
-  }
+    this.fetchData();
+  },
 };
 </script>
 <style lang="scss">
@@ -353,7 +368,7 @@ export default {
           font-weight: 600;
           text-align: left;
         }
-         .wrapper {
+        .wrapper {
           display: grid;
           grid-template-columns: 1fr 1fr;
           gap: 1rem;
@@ -361,22 +376,22 @@ export default {
             display: grid;
             place-items: center;
             margin-top: 2rem;
-             .equi-card {
-                 display: grid;
-            place-items: center;
+            .equi-card {
+              display: grid;
+              place-items: center;
               padding: 1.5rem;
               width: 10rem;
               height: 10rem;
-             
+
               box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
-              img{
+              img {
                 width: 10rem;
-              height: 10rem;
-              object-fit: cover;
-              @include responsive($xl){
-                      width:15rem;
-              height: 15rem;
-              }
+                height: 10rem;
+                object-fit: cover;
+                @include responsive($xl) {
+                  width: 15rem;
+                  height: 15rem;
+                }
               }
             }
             .rectangle {
@@ -385,16 +400,14 @@ export default {
               background: $M-lightblue;
               display: grid;
               place-items: center;
-               @include responsive($xl){
-                      width: 15rem;
-     
+              @include responsive($xl) {
+                width: 15rem;
               }
               h2 {
                 color: #fff;
                 font-size: 0.8rem;
                 text-align: center;
               }
-
             }
           }
         }
@@ -417,15 +430,15 @@ export default {
               place-items: center;
               margin-top: 2rem;
               .equi-card {
-                      display: grid;
+                display: grid;
                 align-items: center;
                 padding: 1rem;
                 width: 15rem;
                 height: 16.5rem;
-                    @include responsive($xl){
-                      width: 20rem;
-              height: 20rem;
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                  height: 20rem;
+                }
                 box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
               }
               .rectangle {
@@ -434,10 +447,9 @@ export default {
                 background: $M-green;
                 display: grid;
                 place-items: center;
-                      @include responsive($xl){
-                      width: 20rem;
-      
-              }
+                @include responsive($xl) {
+                  width: 20rem;
+                }
                 h2 {
                   color: #fff;
                   font-size: 1rem;

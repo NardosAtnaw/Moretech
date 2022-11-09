@@ -12,7 +12,7 @@
           Institutes
         </h4>
         <p>
-          Advance learning at universities particularly in area of engineering
+          Advanced learning at universities particularly in area of engineering
           requires very latest instrumentations to equip scholars and feed with
           technical skills that alleviate the current problem of industrial
           advancement. Similar occasion in Ethiopia is observed and this creates
@@ -184,6 +184,74 @@
               </div>
               <div class="rectangle">
                 <h2>Stabilizer</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="category">
+          <h4>Biomedical Engineering Equipment</h4>
+
+          <div class="wrapper">
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/Equipment/bio1.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Benchtop Rapid Extractor</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/Equipment/bio2.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>BOD Tester</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/Equipment/bio3.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Autoclave</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/Equipment/bio4.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Coagulation Analyzer</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/Equipment/bio5.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Electrolyte Analyzer</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="category">
+          <h4>Biotechnology Equipment</h4>
+
+          <div class="wrapper">
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/Equipment/bio6.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Vertical Laminar air flow Cabinet</h2>
+              </div>
+            </div>
+            <div class="equi" data-aos="fade-zoom-in">
+              <div class="equi-card">
+                <img src="../assets/Images/Equipment/bio7.png" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>Fourier Transform Infrared Spectroscopy (FTIR)</h2>
               </div>
             </div>
           </div>
