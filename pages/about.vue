@@ -53,42 +53,60 @@
         </div>
       </div>
     </section>
-    <section class="about-image">
+    <!-- <section class="about-image">
       <div class="container">
         <img src="../assets/Images/about-removebg-preview.png" alt="" />
       </div>
-    </section>
+    </section> -->
     <section class="mission-vision">
       <div class="container">
         <div class="vision">
-          <img class="icon" src="../assets/Images/traget.svg" alt="" />
-          <h2>Our Mission</h2>
+          <img class="icon" src="../assets/Images/vision.svg" alt="" />
+          <h2>Mission</h2>
           <p>
             To reach at excellence in the area of specialization of our
             business, we are passionately equipped to address the following
-            missions:<br /><br />
-            Regularly improving the quality of products and services in regard
-            to match with the technological advancements of the global trends
-            and changes<br /><br />
-            Enhance the technical capacity of the administrative and technical
-            staff of the company through training and continuous practical
-            learning at technical sites (company`s stores & laboratory of
-            customers)<br /><br />
-            Persistently strengthen and renew the relationship between the
-            foreign suppliers and local customers<br /><br />
-            Recruiting professionally vibrant, model role playing, creative,
-            fast leaning, vision and mission – oriented staff<br /><br />
-            Review and improve essential rewards, facilities and working
-            environments for the creative and vision administering staff
-            members<br /><br />
-            Strongly valuing and enhancing the level of internal and external
-            relationships among various customers and stakeholders locally,
-            regionally and internationally<br /><br />
-            Increasing the trend of communication with different actors and
-            sources for obtaining up – to – date information inputs in achieving
-            company`s vision
+            missions:
           </p>
+          <ul>
+            <li>
+              Regularly improving the quality of products and services in regard
+              to match with the technological advancements of the global trends
+              and changes
+            </li>
+            <li>
+              Enhance the technical capacity of the administrative and technical
+              staff of the company through training and continuous practical
+              learning at technical sites (company`s stores &amp; laboratory of
+              customers)
+            </li>
+            <li>
+              Persistently strengthen and renew the relationship between the
+              foreign suppliers and local customers
+            </li>
+            <li>
+              Recruiting professionally vibrant, model role playing, creative,
+              fast leaning, vision and mission – oriented staff
+            </li>
+            <li>
+              Review and improve essential rewards, facilities and working
+              environments for the creative and vision administering staff
+              members
+            </li>
+            <li>Follow standard procedures and regulations</li>
+            <li>
+              Strongly valuing and enhancing the level of internal and external
+              relationships among various customers and stakeholders locally,
+              regionally and internationally
+            </li>
+            <li>
+              Increasing the trend of communication with different actors and
+              sources for obtaining up – to – date information inputs in
+              achieving company`s vision
+            </li>
+          </ul>
         </div>
+
         <div class="mission">
           <img class="icon" src="../assets/Images/vision.svg" alt="" />
           <h2>Our Vision</h2>
@@ -106,19 +124,19 @@
         <div class="vision">
           <img class="icon" src="../assets/Images/vision.svg" alt="" />
           <h2>Value</h2>
-          <p>
-            Solving problems and challenges through discussions<br /><br />
-            Valuing staff as assets of the company<br /><br />
-            Patience and determination <br /><br />
-            Cooperation and collaboration<br /><br />
-            Honesty and integrity<br /><br />
-            Follow standard procedures and regulations<br /><br />
-            Visionary and struggle for measurable outcomes<br /><br />
-            Quality product<br /><br />
-            Respectful and smooth customer handling<br /><br />
-          </p>
+          <ul>
+            <li>Solving problems and challenges through discussions</li>
+            <li>Valuing staff as assets of the company</li>
+            <li>Patience and determination</li>
+            <li>Cooperation and collaboration</li>
+            <li>Honesty and integrity</li>
+            <li>Follow standard procedures and regulations</li>
+            <li>Visionary and struggle for measurable outcomes</li>
+            <li>Quality product</li>
+            <li>Respectful and smooth customer handling</li>
+          </ul>
         </div>
-        <div class="mission">
+        <!-- <div class="mission">
           <img class="icon" src="../assets/Images/vision.svg" alt="" />
           <h2>Integrity</h2>
           <p>
@@ -129,7 +147,7 @@
             Abide by the principles and rule of law, particularly in alignment
             with the government policies and proclamation
           </p>
-        </div>
+        </div> -->
       </div>
     </section>
     <!-- <section class="testimonials">
@@ -239,17 +257,6 @@ export default {
 
 <style lang="scss">
 .body-main {
-  .about-image {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-    .container {
-      display: grid;
-      place-items: center;
-      img {
-        width: 40rem;
-      }
-    }
-  }
   .history {
     margin-top: 8rem;
     .container {
@@ -361,6 +368,17 @@ export default {
           color: $M-blue;
           font-weight: 600;
         }
+        ul {
+          list-style-type: disc;
+          padding: 2rem;
+          li {
+            text-align: left;
+            color: $M-blue;
+            line-height: 1.13rem;
+            margin-top: 0.94rem;
+            font-size: 0.9rem;
+          }
+        }
         p {
           @extend .text;
           text-align: left;
@@ -385,6 +403,17 @@ export default {
           text-align: left;
           color: $M-blue;
           font-weight: 600;
+        }
+        ul {
+          list-style-type: disc;
+          padding: 2rem;
+          li {
+            text-align: left;
+            color: $M-blue;
+            line-height: 1.13rem;
+            margin-top: 0.94rem;
+            font-size: 0.9rem;
+          }
         }
         p {
           @extend .text;

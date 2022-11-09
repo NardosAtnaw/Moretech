@@ -60,9 +60,9 @@ info@moretechplc.com"
                 ></textarea>
               </div>
 
-              <div class="submit-buttons">
-                <a class="btn btn-rounded btn-green" >Submit</a>
-              </div>
+              <button class="submit-buttons btn-green">
+                <a class="btn btn-rounded ">Submit</a>
+              </button>
             </form>
           </div>
           <div class="line"></div>
@@ -224,15 +224,20 @@ export default {};
             margin-top: 2rem;
             // position: absolute;
             // right: 0;
+            border-radius: .5rem;
+            border: none;
             display: flex;
             justify-content: right;
+            a{
+              color: #fff;
+            }
           }
         }
         .line {
           margin-top: 5rem;
-          width: 19rem;
+          width: 1rem;
           height: 0.1rem;
-          background: $M-blue;
+          // background: $M-blue;
         }
         .contact-info {
           margin-top: 3rem;

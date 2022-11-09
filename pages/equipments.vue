@@ -140,22 +140,8 @@
                 <h2>Decanter Centrifuge</h2>
               </div>
             </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/benchtop.jpg" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Benchtop Rapid Extractor</h2>
-              </div>
-            </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/BOD tester.jpg" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>BOD Tester</h2>
-              </div>
-            </div>
+           
+           
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img

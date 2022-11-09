@@ -217,7 +217,7 @@
                 <img src="../assets/Images/Analytical/hydro.jpg" alt="" />
               </div>
               <div class="rectangle">
-                <h2>HC 1000 photometer</h2>
+                <h2>HC 1000 Photometer</h2>
               </div>
             </div>
             <div
@@ -232,8 +232,35 @@
                 <h2>HYDROCHECK</h2>
               </div>
             </div>
-
             <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img src="../assets/Images/Analytical/hl103pocket.jpg" alt="" />
+              </div>
+              <div class="rectangle">
+                <h2>HL103 POCKET DISSOLVED</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/Analytical/METALYSER hm4000.png"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Heavy Metal Analyzer</h2>
+              </div>
+            </div>
+
+            <!-- <div
               class="equi"
               data-aos="fade-zoom-in"
               data-aos-anchor-placement="top-center"
@@ -354,12 +381,12 @@
               <div class="rectangle">
                 <h2>AquaSafe Management Software package (ASMS)</h2>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
 
         <div class="category">
-          <h4>Wagtech projects(Trace2O) Heavy metal analytical instrument</h4>
+          <!-- <h4>Wagtech projects(Trace2O) Heavy metal analytical instrument</h4>
           <p></p>
           <h3 class="category-title"></h3>
           <div class="wrapper">
@@ -393,10 +420,10 @@
                 <h2>METALYSER® DELUXE HM2000</h2>
               </div>
             </div>
-          </div>
-          <h3 class="category-title">
+          </div> -->
+          <!-- <h3 class="category-title">
             Wagtech projects (Trace2O) Agronomical instruments
-          </h3>
+          </h3> -->
           <div class="wrapper">
             <div
               class="equi"
@@ -410,7 +437,7 @@
                 <h2>Agro Meteorological </h2>
               </div>
             </div>
-            <div
+            <!-- <div
               class="equi"
               data-aos="fade-zoom-in"
               data-aos-anchor-placement="top-center"
@@ -436,7 +463,7 @@
               <div class="rectangle">
                 <h2>Hydrological Monitoring Station AG31-300</h2>
               </div>
-            </div>
+            </div> -->
           </div>
           <h3>
             <a href="https://www.wagtechprojects.com/products-services">
@@ -992,6 +1019,39 @@
               </div>
               <div class="rectangle">
                 <h2>Clean Bench</h2>
+              </div>
+            </div>
+          </div>
+          <h3 class="category-title">Laboratory Aids</h3>
+          <div class="wrapper">
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/Laboratory/sterile disposable petri plates.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>Sterile Disposable Petri Plates</h2>
+              </div>
+            </div>
+            <div
+              class="equi"
+              data-aos="fade-zoom-in"
+              data-aos-anchor-placement="top-center"
+            >
+              <div class="equi-card">
+                <img
+                  src="../assets/Images/Laboratory/PCR tubes and plates.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="rectangle">
+                <h2>PCR Tubes and Plates</h2>
               </div>
             </div>
           </div>

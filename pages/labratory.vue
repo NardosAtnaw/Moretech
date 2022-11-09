@@ -51,6 +51,11 @@
                 <h2>Purified Laboratory Chemical Salts</h2>
               </div>
             </div>
+          </div>
+          <h4>Ready Prepared Media</h4>
+          <p></p>
+
+          <div class="wrapper">
             <div
               class="equi"
               data-aos="fade-zoom-in"
@@ -342,39 +347,6 @@
               </div>
               <div class="rectangle">
                 <h2>Growth Media</h2>
-              </div>
-            </div>
-          </div>
-          <h3 class="category-title">Laboratory Aids</h3>
-          <div class="wrapper">
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/sterile disposable petri plates.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="rectangle">
-                <h2>Sterile Disposable Petri Plates</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img
-                  src="../assets/Images/Laboratory/PCR tubes and plates.jpg"
-                  alt=""
-                />
-              </div>
-              <div class="rectangle">
-                <h2>PCR Tubes and Plates</h2>
               </div>
             </div>
           </div>

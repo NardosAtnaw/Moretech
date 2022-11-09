@@ -1,10 +1,15 @@
 <template>
   <div class="body-main">
     <HeaderPages :src="src" headline="services" />
-
+    <section class="about-image">
+      <div class="container">
+        <img src="../assets/Images/about-removebg-preview.png" alt="" />
+      </div>
+    </section>
     <section class="product-area">
       <div class="services">
         <div class="container">
+          <h2 class="title-service">Our Products</h2>
           <div class="wrapper">
             <div
               class="card"
@@ -131,124 +136,6 @@
         </div>
       </div>
     </section>
-    <!-- <section class="import">
-      <img class="decor" src="../assets/Icons/decor.svg" alt="" />
-      <div class="container">
-        <h2>Imports</h2>
-        <p>
-          MoreTech imports laboratory equipment, The products listed below are
-          ones that we import and supply.
-        </p>
-        <div class="wrapper">
-          <div class="card" data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1060"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img class="import-img" src="../assets/Images/ser.png" alt="" />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-          <div class="card card2 " data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img
-                  class="import-img"
-                  src="../assets/Images/ser3.png"
-                  alt=""
-                />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-          <div class="card" data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img
-                  class="import-img"
-                  src="../assets/Images/ser2.png"
-                  alt=""
-                />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-
-              <div class="card card2 " data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img
-                  class="import-img"
-                  src="../assets/Images/ser.png"
-                  alt=""
-                />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
-
     <ContactApp />
     <FooterApp />
   </div>
@@ -281,11 +168,30 @@ export default {
 
 <style lang="scss">
 .body-main {
+  .about-image {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    .container {
+      display: grid;
+      place-items: center;
+      img {
+        width: 40rem;
+      }
+    }
+  }
   .product-area {
     margin-top: 8rem;
     margin-bottom: 4rem;
     .services {
       .container {
+        .title-service{
+          text-align: center;
+          font-size: 2rem;
+          margin-top: 2rem;
+          margin-bottom: 2rem;
+          text-transform: uppercase;
+          color: $M-blue;
+        }
         .wrapper {
           .card {
             display: grid;

@@ -47,22 +47,8 @@
                 <h2>Laboratory Glass</h2>
               </div>
             </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/tool2.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Scissors</h2>
-              </div>
-            </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/tool.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Spatulas</h2>
-              </div>
-            </div>
+           
+           
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img src="../assets/Images/tool5.png" alt="" />
