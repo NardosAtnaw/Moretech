@@ -61,7 +61,7 @@ info@moretechplc.com"
               </div>
 
               <div class="submit-buttons">
-                <a class="btn btn-rounded btn-green" href="#">Submit</a>
+                <a class="btn btn-rounded btn-green" >Submit</a>
               </div>
             </form>
           </div>
