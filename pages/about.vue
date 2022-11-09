@@ -60,7 +60,7 @@
     </section>
     <section class="mission-vision">
       <div class="container">
-        <div class="mission">
+        <div class="vision">
           <img class="icon" src="../assets/Images/traget.svg" alt="" />
           <h2>Our Mission</h2>
           <p>
@@ -89,7 +89,7 @@
             company`s vision
           </p>
         </div>
-        <div class="vision">
+        <div class="mission">
           <img class="icon" src="../assets/Images/vision.svg" alt="" />
           <h2>Our Vision</h2>
           <p>
