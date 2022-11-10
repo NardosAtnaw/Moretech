@@ -134,30 +134,7 @@
                 <h2>BOD Tester</h2>
               </div>
             </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/bio3.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Autoclave</h2>
-              </div>
-            </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/bio4.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Coagulation Analyzer</h2>
-              </div>
-            </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/bio5.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Electrolyte Analyzer</h2>
-              </div>
-            </div>
+
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img
@@ -217,22 +194,6 @@
           <h4>Biomedical Engineering Equipment</h4>
 
           <div class="wrapper">
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/bio1.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Benchtop Rapid Extractor</h2>
-              </div>
-            </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Equipment/bio2.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>BOD Tester</h2>
-              </div>
-            </div>
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img src="../assets/Images/Equipment/bio3.png" alt="" />
