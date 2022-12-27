@@ -351,6 +351,7 @@
             </div>
           </div>
         </div>
+        <EduSection :data="allData" :image="imgData" />
       </div>
     </section>
 
@@ -361,16 +362,47 @@
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
-
+import axios from "axios";
+import EduSection from "../components/EduSection.vue";
 import HeaderPages from "../components/HeaderPages.vue";
+
 export default {
   components: {
     HeaderPages,
+    EduSection,
   },
   data() {
     return {
+      allData: [],
+      imgData: [],
+      searchTerm: "",
       src: require("../assets/Images/POTER-PAGE 2.png"),
     };
+  },
+  methods: {
+    async fetchData() {
+      await axios
+        .post("https://moretechplc.com/api/", {
+          action: "fetchLab",
+        })
+        .then((res) => {
+          this.allData = res.data;
+          console.log(this.allData);
+        })
+        .then(async (img) => {
+          await axios
+            .post("https://moretechplc.com/api/", {
+              action: "fetchImgLab",
+            })
+            .then((res) => {
+              this.imgData = res.data;
+              console.log(this.imgData);
+            });
+        })
+        .catch((err) => {
+          console.log(err);
+        });
+    },
   },
   mounted() {
     AOS.init({
@@ -380,6 +412,9 @@ export default {
       once: false,
       anchorPlacement: "top-bottom",
     });
+  },
+  created() {
+    this.fetchData();
   },
 };
 </script>
@@ -506,7 +541,7 @@ export default {
             .rectangle {
               height: 2rem;
               width: 10rem;
-              background: $M-lightblue;
+              background: $M-darkgreen;
               display: grid;
               place-items: center;
               @include responsive($xl) {

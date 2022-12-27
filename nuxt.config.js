@@ -1,9 +1,9 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
-  target: 'static',
-  router: {
-    base: '/'
-  },
+  // target: 'static',
+  // router: {
+  //   base: '/'
+  // },
   head: {
     title: 'moretechplc',
     htmlAttrs: {
@@ -51,16 +51,16 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
  
-  axios: {
-    baseURL: 'https://moretechplc.com/api/',
-             // Used as fallback if no runtime config is provided
-    proxy: true // Can be also an object with default options
-  },
+  // axios: {
+  //   baseURL: 'https://moretechplc.com/api/',
+  //            // Used as fallback if no runtime config is provided
+  //   proxy: true // Can be also an object with default options
+  // },
 
-  proxy: {
-    '/api/': { target: 'https://moretechplc.com/api/', pathRewrite: {'^/api/': ''} }
+  // proxy: {
+  //   '/api/': { target: 'https://moretechplc.com/api/', pathRewrite: {'^/api/': ''} }
 
-  },
+  // },
   publicRuntimeConfig: {
     axios: {
       browserBaseURL: process.env.BROWSER_BASE_URL

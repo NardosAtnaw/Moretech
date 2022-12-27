@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/equipments", {data:[{}],fetch:{},mutations:void 0});

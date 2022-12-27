@@ -47,8 +47,7 @@
                 <h2>Laboratory Glass</h2>
               </div>
             </div>
-           
-           
+
             <div class="equi" data-aos="fade-zoom-in">
               <div class="equi-card">
                 <img src="../assets/Images/tool5.png" alt="" />
@@ -544,72 +543,8 @@
           </div>
         </div>
 
-        <div class="category">
-          <h4>Mathematics</h4>
-          <p>
-            Mathematical models are an important component of the final
-            "complete model" of a system which is actually a collection of
-            conceptual, physical, mathematical, visualization, and possibly
-            statistical sub-models. Mathematical models can help students
-            understand and explore the meaning of equations or functional
-            relationships.
-          </p>
-
-          <h3 class="category-title">Number and Algebra</h3>
-          <div class="wrapper">
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mat.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Abacus and Counting Frames</h2>
-              </div>
-            </div>
-          </div>
-          <h3 class="category-title">Measurement and Geometry</h3>
-          <div class="wrapper">
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mat2.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Volume and Capacity</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mat3.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>3D shapes and 2D shapes</h2>
-              </div>
-            </div>
-            <div
-              class="equi"
-              data-aos="fade-zoom-in"
-              data-aos-anchor-placement="top-center"
-            >
-              <div class="equi-card">
-                <img src="../assets/Images/mat4.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Geometry Equipment</h2>
-              </div>
-            </div>
-          </div>
-        </div>
+        <EduSection :data="allData" :image="imgData" />
+        <!-- <ImageSection :data="imgData" /> -->
       </div>
     </section>
     <ContactApp />
@@ -620,43 +555,45 @@
 import AOS from "aos";
 import "aos/dist/aos.css";
 import axios from "axios";
+import EduSection from "../components/EduSection.vue";
+import ImageSection from "../components/ImageSection.vue";
 import HeaderPages from "../components/HeaderPages.vue";
 
-const config = {
-  headers: {
-    Accept: "application/json",
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
-  },
-};
 export default {
   data() {
     return {
       allData: [],
+      imgData: [],
       searchTerm: "",
+      src: require("../assets/Images/POTER-PAGE 2.png"),
     };
   },
   components: {
     HeaderPages,
-  },
-  data() {
-    return {
-      src: require("../assets/Images/POTER-PAGE 2.png"),
-    };
+    EduSection,
+    ImageSection,
   },
   methods: {
     async fetchData() {
       await axios
-        .post(
-          "https://moretechplc.com/api/",
-          {
-            action: "fetch",
-          },
-          config
-        )
-        .then((res) => {
-          console.log(res.data);
+        .post("https://moretechplc.com/api/", {
+          action: "fetchEdu",
         })
+        .then((res) => {
+          this.allData = res.data;
+          console.log(this.allData);
+        })
+        .then(async (img) => {
+          await axios
+            .post("https://moretechplc.com/api/", {
+              action: "fetchImgEdu",
+            })
+            .then((res) => {
+              this.imgData = res.data;
+              console.log(this.imgData);
+            });
+        })
+
         .catch((err) => {
           console.log(err);
         });

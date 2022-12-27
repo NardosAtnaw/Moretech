@@ -41,6 +41,8 @@
             </div>
           </div>
         </div>
+
+        <EduSection :data="allData" :image="imgData" />
       </div>
     </section>
     <ContactApp />
@@ -51,36 +53,42 @@
 import AOS from "aos";
 import "aos/dist/aos.css";
 import axios from "axios";
+import EduSection from "../components/EduSection.vue";
 import HeaderPages from "../components/HeaderPages.vue";
 
-const config = {
-  headers: {
-    Accept: "application/json",
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
-  },
-};
 export default {
   components: {
     HeaderPages,
+    EduSection,
   },
   data() {
     return {
+      allData: [],
+      imgData: [],
+      searchTerm: "",
       src: require("../assets/Images/POTER-PAGE 2.png"),
     };
   },
   methods: {
     async fetchData() {
       await axios
-        .post(
-          "/api/moretech/",
-          {
-            action: "fetch",
-          },
-          config
-        )
+        .post("https://moretechplc.com/api/", {
+          action: "fetchAlu",
+        })
         .then((res) => {
-          console.log(res.data);
+          this.allData = res.data;
+          console.log(this.allData);
+        })
+
+        .then(async (img) => {
+          await axios
+            .post("https://moretechplc.com/api/", {
+              action: "fetchImgAlu",
+            })
+            .then((res) => {
+              this.imgData = res.data;
+              console.log(this.imgData);
+            });
         })
         .catch((err) => {
           console.log(err);

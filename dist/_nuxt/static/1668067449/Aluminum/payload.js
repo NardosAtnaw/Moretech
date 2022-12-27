@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/Aluminum", {data:[{}],fetch:{},mutations:void 0});

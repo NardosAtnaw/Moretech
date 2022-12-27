@@ -4,11 +4,23 @@
       :src="src"
       headline="Modern Agricultural Equipment and Machineries "
     />
+
     <section class="introduction">
       <div class="container">
         <h4>Modern Agricultural Equipment and Machineries</h4>
         <p>
-          More specialized agricultural machineries, dairy and beekeeping instruments and laboratory equipment have been supplied to several medium to higher level governmental and non- governmental organizations since 2007. Some of our major products in this area are; milk processing machines and quality measurement instruments, such as; lactoscan, cream separator, butyrometer, milk refractometer; poultry production instruments, like; feeder and drinker, brooder, hatching incubator and debeaker. At present; Moretech Industry PLC is well equipped with management, finance, supportive staff and technical experts such as; electrical and chemical engineers, biotechnologists, agriculturalists, veterinarians and environmentalists with their time- tested experience over the ranges of the instruments.
+          More specialized agricultural machineries, dairy and beekeeping
+          instruments and laboratory equipment have been supplied to several
+          medium to higher level governmental and non- governmental
+          organizations since 2007. Some of our major products in this area are;
+          milk processing machines and quality measurement instruments, such as;
+          lactoscan, cream separator, butyrometer, milk refractometer; poultry
+          production instruments, like; feeder and drinker, brooder, hatching
+          incubator and debeaker. At present; Moretech Industry PLC is well
+          equipped with management, finance, supportive staff and technical
+          experts such as; electrical and chemical engineers, biotechnologists,
+          agriculturalists, veterinarians and environmentalists with their time-
+          tested experience over the ranges of the instruments.
         </p>
       </div>
     </section>
@@ -214,6 +226,8 @@
             </div>
           </div>
         </div>
+
+        <EduSection :data="allData" :image="imgData" />
       </div>
     </section>
     <ContactApp />
@@ -224,36 +238,42 @@
 import AOS from "aos";
 import "aos/dist/aos.css";
 import axios from "axios";
+import EduSection from "../components/EduSection.vue";
 import HeaderPages from "../components/HeaderPages.vue";
 
-const config = {
-  headers: {
-    Accept: "application/json",
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET,POST,OPTIONS,DELETE,PUT",
-  },
-};
 export default {
   components: {
     HeaderPages,
+    EduSection,
   },
   data() {
     return {
+      allData: [],
+      imgData: [],
+      searchTerm: "",
       src: require("../assets/Images/POTER-PAGE 2.png"),
     };
   },
   methods: {
     async fetchData() {
       await axios
-        .post(
-          "/api/moretech/",
-          {
-            action: "fetch",
-          },
-          config
-        )
+        .post("https://moretechplc.com/api/", {
+          action: "fetchAgr",
+        })
         .then((res) => {
-          console.log(res.data);
+          this.allData = res.data;
+          console.log(this.allData);
+        })
+
+        .then(async (img) => {
+          await axios
+            .post("https://moretechplc.com/api/", {
+              action: "fetchImgAgr",
+            })
+            .then((res) => {
+              this.imgData = res.data;
+              console.log(this.imgData);
+            });
         })
         .catch((err) => {
           console.log(err);
