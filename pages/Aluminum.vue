@@ -9,38 +9,7 @@
     </section>
     <section class="alist">
       <div class="container">
-        <div class="category">
-          <h3 class="category-title">
-            These are samples of aluminum doors and windows constructed by the
-            company (Moretech).
-          </h3>
-          <div class="wrapper">
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Aluminum door.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Aluminum Door and Window Works</h2>
-              </div>
-            </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Aluminum door 2.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Aluminum Door and Window Works</h2>
-              </div>
-            </div>
-            <div class="equi" data-aos="fade-zoom-in">
-              <div class="equi-card">
-                <img src="../assets/Images/Aluminum door 3.png" alt="" />
-              </div>
-              <div class="rectangle">
-                <h2>Aluminum Door and Window Works</h2>
-              </div>
-            </div>
-          </div>
-        </div>
+    
 
         <EduSection :data="allData" :image="imgData" />
       </div>

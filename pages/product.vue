@@ -1,251 +1,88 @@
 <template>
   <div class="body-main">
-  <HeaderPages :src="src" headline="products"/>
-  <section class="product-slide">
-    <div class="container">
-
-    <div class="swiper-container">
-      <div class="swiper-wrapper">
-        <div class="swiper-slide">
-          <div class="card-image">
-            <img src="../assets/Images/item2.png" alt="Image Slider">
-
-          </div>
-          <div class="desc">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.</p>
-              <div class="buttons">
-                  <a class="btn btn-green" href="#">View Product</a>
-                </div>
-          </div>
-        </div>
-      
-        <div class="swiper-slide">
-          <div class="card-image">
-            <img src="../assets/Images/equipment1.png" alt="Image Slider">
-          </div>
-           <div class="desc">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.t</p>
-              <div class="buttons">
-                  <a class="btn btn-green" href="#">View Product</a>
-                </div>
-          </div>
-        </div>
-        <div class="swiper-slide">
-          <div class="card-image">
-            <img src="../assets/Images/equipment2.png" alt="Image Slider">
-          </div>
-           <div class="desc">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.</p>  <div class="buttons">
-                  <a class="btn btn-green" href="#">View Product</a>
-                </div>
-          </div>
-        </div>
-        <div class="swiper-slide">
-          <div class="card-image">
-            <img src="../assets/Images/item4.png" alt="Image Slider">
-          </div>
-           <div class="desc">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun consectetur adipiscing elit, sed do eiusmod tempor incididun.</p>  <div class="buttons">
-                  <a class="btn btn-green" href="#">View Product</a>
-                </div>
-          </div>
-        </div>
-      </div>
-     
-     
-    </div>
- 
-    </div>
-  </section>
-   <section class="import">
-      <img class="decor" src="../assets/Icons/decor.svg" alt="" />
+    <HeaderPages
+      :src="src"
+      headline="Educational Laboratory Equipment, Teaching aids and Models"
+    />
+    <section class="introduction">
       <div class="container">
-        <h2>Imports</h2>
+        <h4>Educational Laboratory Equipment, Teaching aids and Models</h4>
         <p>
-          MoreTech imports laboratory equipment, The products listed below are
-          ones that we import and supply.
+          It is imperative for schools to have the latest and high-quality
+          science lab supplies these days. Science is different from any other
+          subject. In order to understand its concepts, one has to look beyond
+          the books and conventional classroom teaching. Effective teaching and
+          learning of science involves seeing, handling, and manipulating real
+          objects and materials. The knowledge that kids attain in classrooms
+          would be ineffectual unless they actually observe the process and
+          understand the relationship between action and reaction. By virtue of
+          equipping themselves with the latest and the advanced materials and
+          supplies, schools are able to contribute a lot in the scientific
+          advances yet to come. To conclude, schools must have the latest
+          science lab supplies and equipment to make science interesting and
+          effective for students and to encourage them to make significant
+          contributions in the field of physics, biology, chemistry, and other
+          streams of science later in life.
         </p>
-        <div class="wrapper">
-          <div class="card" data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img class="import-img" src="../assets/Images/ser.png" alt="" />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-          <div class="card card2 " data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img
-                  class="import-img"
-                  src="../assets/Images/ser3.png"
-                  alt=""
-                />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-          <div class="card" data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img
-                  class="import-img"
-                  src="../assets/Images/ser2.png"
-                  alt=""
-                />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-
-              <div class="card card2 " data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img
-                  class="import-img"
-                  src="../assets/Images/ser.png"
-                  alt=""
-                />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-          <div class="card" data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img class="import-img" src="../assets/Images/ser.png" alt="" />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-          <div class="card card2 " data-aos="slide-up"
-              data-aos-offset="20"
-              data-aos-delay="50"
-              data-aos-duration="1000"
-              data-aos-easing="ease-in"
-              data-aos-mirror="true"
-              data-aos-once="false"
-              data-aos-anchor-placement="top-center">
-            <div class="card-all">
-              <div class="card-border">
-                <img
-                  class="import-img"
-                  src="../assets/Images/ser3.png"
-                  alt=""
-                />
-                <div class="name">Equipment Name</div>
-              </div>
-            </div>
-
-            <div class="desc-box">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididun consectetur adipiscing elit,
-                consectetur adipiscing elit, sed do eiusmod tempor inc...
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
-  <ContactApp/>
-  <FooterApp/>
+    <section class="alist">
+      <div class="container">
+        <EduSection :data="allData" :image="imgData" />
+        <!-- <ImageSection :data="imgData" /> -->
+      </div>
+    </section>
+    <ContactApp />
+    <FooterApp />
   </div>
 </template>
-
 <script>
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Swiper from 'swiper';
-import 'swiper/swiper-bundle.min.css'
-import 'swiper/swiper.min.css'
-import 'swiper/components/navigation/navigation.min.css'
-import 'swiper/components/pagination/pagination.min.css'
+import axios from "axios";
+import EduSection from "../components/EduSection.vue";
+import ImageSection from "../components/ImageSection.vue";
 import HeaderPages from "../components/HeaderPages.vue";
+
 export default {
-  components: {
-    HeaderPages,
-  },
   data() {
     return {
+      allData: [],
+      imgData: [],
+      searchTerm: "",
       src: require("../assets/Images/POTER-PAGE 2.png"),
     };
+  },
+  components: {
+    HeaderPages,
+    EduSection,
+    ImageSection,
+  },
+  methods: {
+    async fetchData() {
+      await axios
+        .post("https://moretechplc.com/api/", {
+          action: "fetchEdu",
+        })
+        .then((res) => {
+          this.allData = res.data;
+          console.log(this.allData);
+        })
+        .then(async (img) => {
+          await axios
+            .post("https://moretechplc.com/api/", {
+              action: "fetchImgEdu",
+            })
+            .then((res) => {
+              this.imgData = res.data;
+              console.log(this.imgData);
+            });
+        })
+
+        .catch((err) => {
+          console.log(err);
+        });
+    },
   },
   mounted() {
     AOS.init({
@@ -255,275 +92,227 @@ export default {
       once: false,
       anchorPlacement: "top-bottom",
     });
-var swiper = new Swiper(".swiper-container", {
-  slidesPerView: 1.5,
-  spaceBetween: 10,
-  centeredSlides: true,
-  freeMode: true,
-  grabCursor: true,
-  loop: true,
-  pagination: {
-    el: ".swiper-pagination",
-    clickable: true
   },
-  autoplay: {
-    delay: 4000,
-    disableOnInteraction: false
-  },
-  navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev"
-  },
-  breakpoints: {
-    500: {
-      slidesPerView: 1
-    },
-    700: {
-      slidesPerView: 1.5
-    }
-  }
-});
+  created() {
+    this.fetchData();
   },
 };
 </script>
 <style lang="scss">
-.body-main{
-.product-slide{
-    margin-top: 8rem;
-.container{
-    .swiper-container {
-      .swiper-wrapper {
-        .swiper-slide {
-          .card-image {
-            background: $M-white;
-            border: none;
-            outline: none;
-            border-radius: 2px;
-            display: grid;
-            place-items: center;
-            img {
-              display: block;
-              position: relative;
-              left: 0;
-              bottom: 0;
-              width: 10rem;
-              height: 20rem;
-              object-fit: cover;
-            }  
-          }
-          .desc{
-              p {
-              @extend .text;
-              text-align: center;
-              margin-top: 2rem;
-              color: $M-blue;
-              line-height: 1.2rem;
-              padding: 0.8rem;
-              font-size: 0.8rem;
-            }
-                .buttons {
-              margin-top: 1rem;
-         
-              border-radius: 0rem;
-              display: flex;
-              justify-content: center;
-              a{
-                    color: $M-white;
-              }
-            }
-          }
-        }
-      }
-      .swiper-pagination {
-        &-bullet {
-          opacity: 0.8;
-          background: $M-blue;
-          &-active {
-            background: $M-white;
-          }
-        }
-      }
-      .swiper-button-next,
-      .swiper-button-prev {
-        background-image: none;
-        background-size: 0;
-        background-repeat: no-repeat;
-        background-position: 0;
-        margin-top: -1rem;
-        .arrow-icon {
-          font-size: 2rem;   
-          color: $M-white;
-        }
-      }
-    }
-@media only screen and (max-width: 768px) {
-  .main {
-    .glider-contain {
-      .glider-prev,
-      .glider-next {
-        display: none;
-      }
-    }
-  }
-}
-@media only screen and (min-width: 769px) {
-  .main {
-    .glider-contain {
-      .dots {
-        display: none;
-      }
-    }
-  }
-}
-}
-}
-@include responsive($md){
-  .product-slide{
-    margin-top: 8rem;
-.container{
-    .swiper-container {
-      .swiper-wrapper {
-        .swiper-slide {
-          .desc{
-            margin-left: 2rem;
-            margin-right: 2rem;
-            p{
-              font-size: 1rem;
-            }
-          }
-        }
-      }
-    }
-}
-  }
-}
-@include responsive($xl){
-  .product-slide{
-    margin-top: 8rem;
-.container{
-    .swiper-container {
-      .swiper-wrapper {
-        .swiper-slide {
-          .card-image{
-            width: auto;
-          }
-          .desc{
-            margin-left: 10rem;
-            margin-right: 10rem;
-            p{
-              font-size: 1rem;
-            }
-          }
-        }
-      }
-    }
-}
-  }
-}
-  .import {
-    margin-top: 8rem;
-    margin-bottom: 15rem;
-    position: relative;
-    .decor {
-      position: absolute;
-      width: 90rem;
-      height: 50rem;
-      object-fit: cover;
-      z-index: -1;
-    }
+.body-main {
+  font-family: Raleway;
+  .introduction {
+    margin-top: 10rem;
     .container {
-      h2 {
-        @extend .title;
-        text-align: center;
+      h4 {
+        margin-top: 1rem;
         color: $M-blue;
+        @extend .h3;
+        font-size: 1.5rem;
+        line-height: 1.5rem;
+        font-weight: 600;
+        text-align: left;
       }
       p {
-        @extend .text;
-        text-align: center;
-        color: $M-red;
-        margin-top: 0.94rem;
-        font-size: 0.8rem;
-      }
-      .wrapper {
+        color: $M-blue;
+        @extend .title;
+        font-size: 1rem;
         margin-top: 2rem;
-
-        .card {
-          display: flex;
-          justify-content: center;
-          margin-top: 3rem;
-
-          .card-all {
-              display: grid;
-                align-items: center;
-            width: 100%;
-            background: $M-white;
-            z-index: 9999;
-            padding: 0.8rem;
-            box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
-            .card-border {
-              border: 1px solid $M-green;
-              padding: 1.5rem;
-              .import-img {
-                display: grid;
-                justify-content: center;
-              }
-              .name {
-                background: $M-white;
-                @extend .title;
-                font-size: 0.8rem;
-                text-align: center;
-                color: $M-green;
-                margin-bottom: -2.2rem;
-              }
-            }
-          }
-          .desc-box {
-            background: $M-green;
-            width: 95%;
-
-            p {
-              @extend .text;
-              text-align: left;
-              color: $M-white;
-              line-height: 1.2rem;
-              padding: 0.8rem;
-              font-size: 0.8rem;
-            }
-          }
-        }
-       
+        line-height: 1.3rem;
+        text-align: left;
       }
     }
   }
-  @include responsive($md){
-    .import{
-      .container{
-        .wrapper{
+  .alist {
+    margin-top: 8rem;
+    .container {
+      .search {
+        display: grid;
+        place-items: right;
+        .input-container {
+          display: flex;
+
+          flex-direction: row-reverse;
+          width: 15.38rem;
+          margin-bottom: 2.13rem;
+
+          .search-button {
+            background: none;
+            border: none;
+            padding: 0;
+            margin: 0;
+          }
+          .icon {
+            padding: 10px;
+            min-width: 50px;
+            // background: #fff;
+            border: 2px solid $M-blue;
+            border-left: none;
+            border-start-end-radius: 5px;
+            border-end-end-radius: 5px;
+          }
+          .input-field {
+            width: 100%;
+            padding: 10px;
+            outline: none;
+            background: none;
+            border-color: $M-blue;
+            border-right: none;
+            border-start-start-radius: 5px;
+            border-end-start-radius: 5px;
+          }
+        }
+      }
+      .category {
+        margin-top: 3rem;
+        h4 {
+          margin-top: 1rem;
+          color: $M-darkgreen;
+          @extend .h3;
+          font-size: 1.5rem;
+          line-height: 1.5rem;
+          font-weight: 600;
+          text-align: left;
+        }
+        p {
+          margin-top: 1rem;
+          color: $M-green;
+          // width: 50rem;
+          @extend .text;
+          font-size: 1rem;
+          line-height: 1.5rem;
+          text-align: left;
+        }
+        h3 {
+          margin-top: 3rem;
+          color: $M-darkgreen;
+          @extend .title;
+          font-size: 1.3rem;
+          line-height: 1.5rem;
+          font-weight: 600;
+          text-align: left;
+        }
+        .wrapper {
           display: grid;
           grid-template-columns: 1fr 1fr;
           gap: 1rem;
-        
-.card2{
-  margin-top: 6rem;
-  margin-bottom: -3rem;
-}
+          .equi {
+            display: grid;
+            place-items: center;
+            margin-top: 2rem;
+            .equi-card {
+              display: grid;
+              place-items: center;
+              padding: 1.5rem;
+              width: 10rem;
+              height: 10rem;
+
+              box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
+              img {
+                width: 10rem;
+                height: 10rem;
+                object-fit: cover;
+                @include responsive($xl) {
+                  width: 15rem;
+                  height: 15rem;
+                }
+              }
+            }
+            .rectangle {
+              height: 2rem;
+              width: 10rem;
+              background: $M-green;
+              display: grid;
+              place-items: center;
+              @include responsive($xl) {
+                width: 15rem;
+              }
+              h2 {
+                color: #fff;
+                font-size: 0.8rem;
+                text-align: center;
+              }
+            }
+          }
         }
       }
     }
   }
-    @include responsive($xl){
-    .import{
-      margin-right: 10rem;
-      margin-left: 10rem;
-      .container{
-        .wrapper{
-       
-          gap: 2rem;
-        
-.card2{
-  margin-top: 6rem;
-  margin-bottom: -3rem;
-}
+  @include responsive($md) {
+    .alist {
+      .container {
+        .category {
+          p {
+            font-size: 1.13rem;
+          }
+          .wrapper {
+            display: grid;
+            align-items: center;
+            grid-template-columns: 1fr 1fr;
+            .equi {
+              display: grid;
+              place-items: center;
+              margin-top: 2rem;
+              .equi-card {
+                display: grid;
+                align-items: center;
+                padding: 1rem;
+                width: 15rem;
+                height: 16.5rem;
+                @include responsive($xl) {
+                  width: 20rem;
+                  height: 20rem;
+                }
+                box-shadow: 0px 4px 25px rgba(82, 124, 136, 0.1);
+              }
+              .rectangle {
+                height: 2rem;
+                width: 15rem;
+
+                display: grid;
+                place-items: center;
+                @include responsive($xl) {
+                  width: 20rem;
+                }
+                h2 {
+                  color: #fff;
+                  font-size: 1rem;
+                  text-align: center;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  @include responsive($lg) {
+    .alist {
+      .container {
+        .category {
+          p {
+            width: 60rem;
+          }
+          .wrapper {
+            margin-top: 3rem;
+            display: grid;
+            align-items: center;
+            grid-template-columns: 1fr 1fr 1fr;
+          }
+        }
+      }
+    }
+  }
+  @include responsive($xl) {
+    .alist {
+      .container {
+        .category {
+          .wrapper {
+            margin-top: 3rem;
+            display: grid;
+            align-items: center;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+          }
         }
       }
     }

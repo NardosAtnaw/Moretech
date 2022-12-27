@@ -18,8 +18,9 @@
             data-aos-anchor-placement="top-center"
             v-for="img in image"
             :key="img.post_id"
+            v-if="img.post_subcategory === item.post_subcategory"
           >
-            <div v-if="img.post_subcategory === item.post_subcategory">
+            <div>
               <div>
                 <div class="equi-card">
                   <img
@@ -34,7 +35,7 @@
                 </div>
               </div>
             </div>
-            <div v-else></div>
+            <!-- <div v-else></div> -->
           </div>
 
           <!-- <Card :title="item.post_name" :img="item.post_image" /> -->
